@@ -10,7 +10,10 @@
 
   - Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction.
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)] 
-
+  - Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data.
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539186)] 
+  - Beyond the First Law of Geography: Learning Representations ofSatellite Imagery by Leveraging Point-of-Interests.
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)] 
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
