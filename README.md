@@ -13,4 +13,4 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | 001 | x | xxx | [Project page](https://scholar.google.com/)  | [Code](https://github.com/) | institute | About. |
 
-## Awesome Multimodel for Urban Computing
+## Related works
