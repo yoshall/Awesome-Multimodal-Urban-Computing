@@ -14,6 +14,10 @@
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539186)] 
   - Beyond the First Law of Geography: Learning Representations ofSatellite Imagery by Leveraging Point-of-Interests.
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)] 
+  - Spatio-Temporal Urban Knowledge Graph Enabled Mobility Prediction.
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3494993)] 
+  - Predicting multi-level socioeconomic indicators from structural urban imagery.
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)] 
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
