@@ -8,8 +8,8 @@
 ## Paper List
 ### Li Yong group (THU)
 
-  - Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)] 
+  - Will You Come Back / Check-in Again? Understanding Characteristics Leading to Urban Revisitation and Re-check-in
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3411812?casa_token=-603bVK6scwAAAAA:13Whn8f41erDnU4x9ttxXyCUQfGjJzMik8jn2Sf9kt0IYUXrT9x7-c_evhMfc37VLhxL6aezYCfl95Ig)] 
   - Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539186)] 
   - Beyond the First Law of Geography: Learning Representations ofSatellite Imagery by Leveraging Point-of-Interests
@@ -22,6 +22,10 @@
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)]
   - Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)]
+  - Multi-View Joint Graph Representation Learning for Urban Region Embedding
+  [[paper](https://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf)]
+  - DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3892)]
 
 ### Li Guoliang group (THU)
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
