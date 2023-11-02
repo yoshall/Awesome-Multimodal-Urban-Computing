@@ -15,9 +15,13 @@
   - Beyond the First Law of Geography: Learning Representations ofSatellite Imagery by Leveraging Point-of-Interests
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)] 
   - Spatio-Temporal Urban Knowledge Graph Enabled Mobility Prediction
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3494993)] 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3494993)]
+  - Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483987?casa_token=r4GTEmlgSw0AAAAA:xf6jN-fH70AW65lWF7JL82CvYxYshvS1b9-rQe9Sww8UI0j5nrI9ScjB2euIdP9Zt_2FRpczvpoi6lVC)]
   - Predicting multi-level socioeconomic indicators from structural urban imagery
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)]
+  - Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)]
 
 ### Li Guoliang group (THU)
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
