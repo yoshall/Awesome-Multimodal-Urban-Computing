@@ -141,8 +141,17 @@
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows
   [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]
+
+### Jianzhong Qi group (UniMelb)
   - A Joint Context-Aware Embedding for Trip Recommendations
   [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]
+
+### Flora Salim group (UNSW)
+  - Multimodal Trajectory Prediction: A Survey
+  [[paper](https://arxiv.org/pdf/2302.10463)]
+  - Explainable spatiotemporal reasoning for geospatial intelligence applications
+  [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12939)]
+
 
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
