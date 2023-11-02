@@ -122,11 +122,11 @@
   - Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training
   [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]
   - NodeSense2Vec: Spatiotemporal Context-Aware Network Embedding for Heterogeneous Urban Mobility Data
-  [[paper](https://ieeexplore.ieee.org/iel7/9671263/9671273/09672072.pdf)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672072)]
   - Collective embedding with feature importance: A unified approach for spatiotemporal network embedding
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412030)]
   - Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity
-  [[paper](https://ieeexplore.ieee.org/iel7/8961330/8970627/08970913.pdf)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970913)]
   - Joint Representation Learning for Multi-Modal Transportation Recommendation
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]
   - Efficient Region Embedding with Multi-View Spatial Networks:A Perspective of Locality-Constrained Spatial Autocorrelations
@@ -135,6 +135,14 @@
 ### Zhang Chao group (Gatech)
   - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]
+
+### Bao Zhifeng group (RMIT)
+  - Similar Trajectory Search with Spatio-Temporal Deep Representation Learning
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]
+  - An Effective Joint Prediction Model for Travel Demands and Traffic Flows
+  [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]
+  - A Joint Context-Aware Embedding for Trip Recommendations
+  [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]
 
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
