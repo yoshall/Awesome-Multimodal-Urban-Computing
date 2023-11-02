@@ -60,10 +60,8 @@
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008076)]
   - Contextual spatio-temporal graph representation learning for reinforced human mobility mining
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819)]
-  - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   
-  [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]
-  - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction 
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]
+  - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]
+  - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]
 
 
 ### Liang Yuxuan group (USTGZ)
