@@ -118,6 +118,23 @@
   - RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]
 
+### Yanjie Fu group (UCF)
+  - Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training
+  [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]
+  - NodeSense2Vec: Spatiotemporal Context-Aware Network Embedding for Heterogeneous Urban Mobility Data
+  [[paper](https://ieeexplore.ieee.org/iel7/9671263/9671273/09672072.pdf)]
+  - Collective embedding with feature importance: A unified approach for spatiotemporal network embedding
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412030)]
+  - Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity
+  [[paper](https://ieeexplore.ieee.org/iel7/8961330/8970627/08970913.pdf)]
+  - Joint Representation Learning for Multi-Modal Transportation Recommendation
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]
+  - Efficient Region Embedding with Multi-View Spatial Networks:A Perspective of Locality-Constrained Spatial Autocorrelations
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]
+
+### Zhang Chao group (Gatech)
+  - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]
 
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
