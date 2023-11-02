@@ -71,6 +71,32 @@
   - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]
   - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]
 
+### Song Xuan group (SUSTech)
+  - DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level
+  [[paper](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]
+  - Optimization of Causative Factors for Landslide Susceptibility Evaluation Using Remote Sensing and GIS Data in Parts of Niigata, Japan
+  [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133262)]
+  - DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3057280?casa_token=RDXjxqCYCCEAAAAA:iXOtzNRcK_fO5bKzVA9GgKtIoQRho1cJSerow7khjv7Jh0c_VD5wULGeUC_EkAINn0vdvL2VuZkJ_I2h)]
+  - DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330654?casa_token=1-tOoL9o8jIAAAAA:_vaxaOlhK7v-Ry480JpcKkBhhJhtkhylJ1M2cVGJwulqPYixYadUo7ZrihS3CfDFQunNfFW7hmRuZF3e)]
+  - DeepMob: Integrating GPS trajectory and topics from Twitter stream for human mobility estimation
+  [[paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=19960)]
+
+### Wang Senzhang (CSU)
+  - Citywide traffic congestion estimation with social media
+  [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820829)]
+  - Estimating Urban Traffic Congestions with Multi-sourced Data
+  [[paper](https://ieeexplore.ieee.org/abstract/document/7517782?casa_token=H4WsNdho-kgAAAAA:W6-cfFsKIaaZaFl2ZTMmQHwF_nIGlf8w6CLCmq2LPXCDWD8d1NucR_hFmKrYqbYWbgZTya22KmMXyxU)]
+  - Enhancing Traffic Congestion Estimation with Social Media by Coupled Hidden Markov Model
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46227-1_16)]
+  - Computing urban traffic congestions by incorporating sparse GPS probe data and social media data
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3057281)]
+  - Forecasting Citywide Traffic Congestion Based on Social Media
+  [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]
+  - Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]
+
 
 ### Liang Yuxuan group (USTGZ)
   - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
