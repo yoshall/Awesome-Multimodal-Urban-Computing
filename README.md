@@ -26,7 +26,6 @@
 ### Wang Jingyuan group (BUAA)
   - A force-directed approach to seeking route recommendation in ride-on-demand service using multi-source urban data
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9238459&casa_token=KDIHSyCbjKgAAAAA:HqI7iwTEB5YqDECOkfZ1DidS2sx2iq6uM48TXRlzX3WyL8QqyWf2z0tAhtFkDEfLoWXln-OEwJ6Q4C8&tag=1)]
-
   - Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8733999&casa_token=lhJGs3710j8AAAAA:VhS8TO4oyI1uU-Fe-TNbogjxVoHmXHAAJX15ciwL0w5nHIMlcJl-WbsQAJpgD2soweuEpA5l_OUROSc)]
 
