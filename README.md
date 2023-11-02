@@ -35,6 +35,25 @@
 
 ### Chen Meng group (SDU)
 
+### Liang Yuxuan group (USTGZ)
+  - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]
+  - Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]
+
+### Huang Chao group (HKU)
+  - Exploiting spatial-temporal-social constraints for localness inference using online social media
+  [[paper](https://ieeexplore.ieee.org/abstract/document/7752247)]
+
+### Fan Xiaoliang group (XMU)
+  - PANDA: predicting road risks after natural disasters leveraging heterogeneous urban data
+  [[paper](https://link.springer.com/article/10.1007/s42486-022-00095-5)]
+  - UVLens: Urban Village Boundary Identification and Population Estimation Leveraging Open Government Data
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3463495)]
+  - iTV: Inferring Traffic Violation-Prone Locations With Vehicle Trajectories and Road Environment Data
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9171429)]
+  - RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]
 
 
 ## Open Source Projects
