@@ -52,13 +52,10 @@
 ### Li Tianrui group (SWJTU)
   - Forecasting Fine-Grained Air Quality Based on Big Data
   [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]
-
   - Urban Sensing Based on Human Mobility
   [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]
-
   - Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion
   [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]
-
   - Symbolic aggregate approximation based data fusion model for dangerous driving behavior detection
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008076)]
   - Contextual spatio-temporal graph representation learning for reinforced human mobility mining
