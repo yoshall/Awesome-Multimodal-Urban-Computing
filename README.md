@@ -151,7 +151,14 @@
   [[paper](https://arxiv.org/pdf/2302.10463)]
   - Explainable spatiotemporal reasoning for geospatial intelligence applications
   [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12939)]
+  - Event-Aware Multimodal Mobility Nowcasting
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)]
+  - Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data
+  [[paper](https://arxiv.org/pdf/2206.02353)]
 
+### Flora Salim group (Baidu Map)
+  - DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]
 
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
