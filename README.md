@@ -156,9 +156,23 @@
   - Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data
   [[paper](https://arxiv.org/pdf/2206.02353)]
 
-### Flora Salim group (Baidu Map)
+### Huang Jizhou group (Baidu Map)
   - DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]
+  - ERNIE-GeoL: A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539021)]
+  - DuTraffic: Live Traffic Condition Prediction with Trajectory Data and Street Views at Baidu Mapss
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557151)]
+  - A Contextual Master-Slave Framework on Urban Region Graph for Urban Village Detection
+  [[paper](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf)]
+
+### Bai Lei group (Shanghai AI Lab)
+  - Jointly Contrastive Representation Learning on Road Network and Trajectory
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]
+  - Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]
+  - STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
+  [[paper](https://arxiv.org/pdf/1905.10069)]
 
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
