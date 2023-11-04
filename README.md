@@ -174,6 +174,17 @@
   - STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
   [[paper](https://arxiv.org/pdf/1905.10069)]
 
+### Ye Jieping group (Alibaba DAMO)
+  - Joint predictions of multi-modal ride-hailing demands: A deep multi-task multi-graph learning-based approach
+  [[paper](https://arxiv.org/pdf/2011.05602)]
+  - Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting
+  [[paper](https://www.mdpi.com/2071-1050/14/19/12397/pdf)]
+
+### Li Zhenhui group (Penn State University)
+  - Unsupervised Representation Learning of Spatial Data via Multimodal Embedding
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]
+  - Deep multi-view spatial-temporal network for taxi demand prediction
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
