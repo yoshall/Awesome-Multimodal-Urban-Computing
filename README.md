@@ -185,6 +185,20 @@
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]
   - Deep multi-view spatial-temporal network for taxi demand prediction
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]
+
+### Zheng Yu group (JD iCity)
+  - Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]
+  - Spatio-Temporal Self-Supervised Learning for Traffc Flow Prediction
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25555/25327)]
+  - Spatio-Temporal Contrastive Self-Supervised Learning for POI-level Crowd Flow Inference
+  [[paper](https://arxiv.org/pdf/2309.03239)]
+  - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
+  [[paper](https://arxiv.org/pdf/2206.00007)]
+
+### Zheng Yu group (JD iCity)
+  - Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
