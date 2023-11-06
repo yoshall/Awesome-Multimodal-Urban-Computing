@@ -196,9 +196,6 @@
   - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
   [[paper](https://arxiv.org/pdf/2206.00007)]
 
-### Zheng Yu group (JD iCity)
-  - Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
