@@ -248,11 +248,11 @@ Below is a list of open source datasets categorized by their type and source.
         <td>[204]<br>[93][211][200][48]</td>
     </tr>
     <tr>
-        <td rowspan="4">Traffic Data</td>
-        <td>Traffic Trajectory</td>
-        <td>Trajectory</td>
-        <td>California-PEMS<br>METR-LA<br>Large-ST<br>Shenzhen UCar<br>Chicago Transportation<br>VED<br>Taxi Trajectory Shenzhen<br>NYC open data (Taxi trips)<br>Xiamen Taxi<br>Grab-Posisi</td>
-        <td><a href="http://pems.dot.ca.gov">pems.dot.ca.gov</a><br><a href="https://www.metro.net">metro.net</a><br><a href="https://github.com/liuxu77/LargeST">LargeST.com</a><br><a href="https://bit.ly/2MG47xz">SZ Ucar.com</a><br><a href="https://data.cityofchicago.org/">data.cityofchicago.org</a><br><a href="https://github.com/gsoh/VED">VED.com</a><br><a href="https://github.com/cbdog94/STL">SZ Taxi trajectory.com</a><br><a href="https://opendata.cityofnewyork.us/how-to/">data.cityofnewyork.us</a><br><a href="https://data.mendeley.com/datasets/6xg39x9vgd/1">data.mendeley.com</a><br><a href="https://goo.su/W3yD5m">goo.su</a></td>
+        <td rowspan="3">Social Network Data</td>
+        <td>Text</td>
+        <td>Text</td>
+        <td>Twitter (check-in & geo-tagged tweets)<br>Common Crawl web pages<br>Yelp user reviews<br>Weibo Xiamen Traffic Police</td>
+        <td><a href="https://developer.twitter.com/en/docs">twitter.com</a><br><a href="https://registry.opendata.aws/commoncrawl/">registry.opendata.aws</a><br><a href="https://www.yelp.com/dataset">yelp.com</a><br><a href="http://open.weibo.com/developers/">weibo.com</a></td>
     </tr>
     <tr>
         <td>Taffic Flow</td>
@@ -274,7 +274,29 @@ Below is a list of open source datasets categorized by their type and source.
         <td>Beijing and North America Road Network<br>Road Network (CRN) OpenStreetMap</td>
         <td><a href="https://www.openstreetmap.org">openstreetmap.org</a><br><a href="https://www.openstreetmap.org">openstreetmap.org</a></td>
         <td>[204]<br>[93][211][200][48]</td>
-    </tr>          
+    </tr>       
+    <tr>
+        <td rowspan="4">Traffic Data</td>
+        <td>Traffic Trajectory</td>
+        <td>Trajectory</td>
+        <td>California-PEMS<br>METR-LA<br>Large-ST<br>Shenzhen UCar<br>Chicago Transportation<br>VED<br>Taxi Trajectory Shenzhen<br>NYC open data (Taxi trips)<br>Xiamen Taxi<br>Grab-Posisi</td>
+        <td><a href="http://pems.dot.ca.gov">pems.dot.ca.gov</a><br><a href="https://www.metro.net">metro.net</a><br><a href="https://github.com/liuxu77/LargeST">LargeST.com</a><br><a href="https://bit.ly/2MG47xz">SZ Ucar.com</a><br><a href="https://data.cityofchicago.org/">data.cityofchicago.org</a><br><a href="https://github.com/gsoh/VED">VED.com</a><br><a href="https://github.com/cbdog94/STL">SZ Taxi trajectory.com</a><br><a href="https://opendata.cityofnewyork.us/how-to/">data.cityofnewyork.us</a><br><a href="https://data.mendeley.com/datasets/6xg39x9vgd/1">data.mendeley.com</a><br><a href="https://goo.su/W3yD5m">goo.su</a></td>
+    </tr>
+    <tr>
+        <td>Taffic Flow</td>
+        <td>TODD</td>
+        <td>MobileBJ<br>DiDi (Traffic flows)<br>TaxiBJ<br>BikeNYC</td>
+        <td><a href="">mobileBJ.com</a><br><a href="https://outreach.didichuxing.com/research/opendata/">didichuxing.com</a><br><a href="https://goo.su/aQyjTAz">goo.su</a><br><a href="https://citibikenyc.com/">citibikenyc.com</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+    <tr>
+        <td>Logistics</td>
+        <td>TODD</td>
+        <td>JD Logistics in Bejing</td>
+        <td><a href="">JD logistics.com</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+
 </table>
 
 
