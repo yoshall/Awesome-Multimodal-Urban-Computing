@@ -207,26 +207,7 @@
 
 ## Dataset
 
-Below is a list of datasets categorized by their type and source, used in the Awesome-Multimodal-Urban-Computing project.
-
-
-
-| Category | Content | Format | Dataset | Link | Reference |
-|----------|---------|--------|---------|------|-----------|
-| Geographical Data | Satellite Image | Image | ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images) | [developers.arcgis.com](https://developers.arcgis.com)<br>[developers.planet.com](https://developers.planet.com/docs/data/planetscope/)<br>[developers.google.com](https://developers.google.com/maps/documentation/)<br>[openstreetmap.org](https://www.openstreetmap.org/)<br>[baidu.com](https://lbsyun.baidu.com) | [109]<br>[92]<br>[70]<br>[100]<br>[183][178] |
-| | Street View Image | Image | Baidu Map API (street view images)<br>Google Street API (street view images)<br>Tencent (street view images) | [baidu.com](https://lbsyun.baidu.com)<br>[google.com](https://developers.google.com/maps/)<br>[qq.com](https://lbs.qq.com/tool/streetview/index.html) | [109][77]<br>[109][4]<br>[67] |
-| | POIs | Point Vector | Tencent Map Service(POIs)<br>WeChat POIs<br>Baidu Map POIs<br>NYC Open Data (POIs)<br>Foursquare<br>Wikipedia POIs | [qq.com](https://lbs.qq.com/getPoint/)<br>[weixin.qq.com](https://open.weixin.qq.com/)<br>[baidu.com](https://lbsyun.baidu.com)<br>[nyc.gov](https://opendata.cityofnewyork.us/)<br>[foursquare.com](https://developer.foursquare.com/docs/checkins/checkins)<br>[wikipedia.org](https://www.wikipedia.org) | [177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217] |
-| | Map | TODD | US Census Bureau<br>OpenStreetMap(digital maps) | [census.gov](https://www.census.gov/data.html)<br>[openstreetmap.org](https://www.openstreetmap.org/) | [204]<br>[93][211][200][48] |
-| ... | ... | ... | ... | ... | ... |
-
-| Category | Content | Format | Dataset | Link | Reference |
-|----------|---------|--------|---------|------|-----------|
-|          | Satellite Image | Image | ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images) | [developers.arcgis.com](https://developers.arcgis.com)<br>[developers.planet.com](https://developers.planet.com/docs/data/planetscope/)<br>[developers.google.com](https://developers.google.com/maps/documentation/)<br>[openstreetmap.org](https://www.openstreetmap.org/)<br>[baidu.com](https://lbsyun.baidu.com) | [109]<br>[92]<br>[70]<br>[100]<br>[183][178] |
-|          | Street View Image | Image | Baidu Map API (street view images)<br>Google Street API (street view images)<br>Tencent (street view images) | [baidu.com](https://lbsyun.baidu.com)<br>[google.com](https://developers.google.com/maps/)<br>[qq.com](https://lbs.qq.com/tool/streetview/index.html) | [109][77]<br>[109][4]<br>[67] |
-| **Geographical Data** | POIs | Point Vector | Tencent Map Service(POIs)<br>WeChat POIs<br>Baidu Map POIs<br>NYC Open Data (POIs)<br>Foursquare<br>Wikipedia POIs | [qq.com](https://lbs.qq.com/getPoint/)<br>[weixin.qq.com](https://open.weixin.qq.com/)<br>[baidu.com](https://lbsyun.baidu.com)<br>[nyc.gov](https://opendata.cityofnewyork.us/)<br>[foursquare.com](https://developer.foursquare.com/docs/checkins/checkins)<br>[wikipedia.org](https://www.wikipedia.org) | [177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217] |
-|          | Map | TODD | US Census Bureau<br>OpenStreetMap(digital maps) | [census.gov](https://www.census.gov/data.html)<br>[openstreetmap.org](https://www.openstreetmap.org/) | [204]<br>[93][211][200][48] |
-| ...      | ... | ...    | ...      | ...  | ...       |
-
+Below is a list of open source datasets categorized by their type and source.
 
 <table>
     <tr>
@@ -241,7 +222,7 @@ Below is a list of datasets categorized by their type and source, used in the Aw
         <td rowspan="4">Geographical Data</td>
         <td>Satellite Image</td>
         <td>Image</td>
-        <td>ArcGIS<br>PlanetScope(satellite images)<br>Google Earth(satellite images)<br>OpenStreetMap(satellite images)<br>Baidu Maps(satellite images)</td>
+        <td>ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images)</td>
         <td><a href="https://developers.arcgis.com">developers.arcgis.com</a><br><a href="https://developers.planet.com/docs/data/planetscope/">developers.planet.com</a><br><a href="https://developers.google.com/maps/documentation/">developers.google.com</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a><br><a href="https://lbsyun.baidu.com">baidu.com</a></td>
         <td>[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
     </tr>
@@ -255,9 +236,9 @@ Below is a list of datasets categorized by their type and source, used in the Aw
     <tr>
         <td>POIs</td>
         <td>Point Vector</td>
-        <td>Tencent Map Service(POIs)<br>WeChat POIs<br>Baidu Map POIs<br>NYC Open Data (POIs)<br>Foursquare<br>Wikipedia POIs</td>
-        <td><a href="https://lbs.qq.com/getPoint/">qq.com</a><br><a href="https://open.weixin.qq.com/">weixin.qq.com</a><br><a href="https://lbsyun.baidu.com">baidu.com</a><br><a href="https://opendata.cityofnewyork.us/">nyc.gov</a><br><a href="https://developer.foursquare.com/docs/checkins/checkins">foursquare.com</a><br><a href="https://www.wikipedia.org">wikipedia.org</a></td>
-        <td>[177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217]</td>
+        <td>Tencent Map Service(POIs)<br>WeChat POIs<br>Baidu Map POIs<br>NYC Open Data (POIs)<br>Foursquare<br>Wikipedia POIs<br>AMap Service (POIs)<br>Yelp POIs<br>Dianping.com POIs<br>Weibo POI<br>Flickr (POIs)<br>Bing Map POIs</td>
+        <td><a href="https://lbs.qq.com/getPoint/">qq.com</a><br><a href="https://open.weixin.qq.com/">weixin.qq.com</a><br><a href="https://lbsyun.baidu.com">baidu.com</a><br><a href="https://opendata.cityofnewyork.us/">nyc.gov</a><br><a href="https://developer.foursquare.com/docs/checkins/checkins">foursquare.com</a><br><a href="https://www.wikipedia.org">wikipedia.org</a></td><a href="https://lbs.amap.com">amap.com</a><br><a href="https://www.yelp.com/developers">yelp.com</a><br><a href="https://api.dianping.com/">dianping.com</a><br><a href="https://open.weibo.com/wiki/API">weibo.com</a><br><a href="https://www.flickr.com/services/developer/api/">flickr.com</a><br><a href="https://www.bingmapsportal.com">bing map.com</a></td>
+        <td>[177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217]<br>[8]<br>[12][212][214]<br>[23][38]<br>[23][83][46]<br>[57]<br>[26]</td>
     </tr>
     <tr>
         <td>Map</td>
@@ -267,11 +248,34 @@ Below is a list of datasets categorized by their type and source, used in the Aw
         <td>[204]<br>[93][211][200][48]</td>
     </tr>
     <tr>
-        <td rowspan="3">Traffic Data</td>
+        <td rowspan="4">Traffic Data</td>
         <td>Traffic Trajectory</td>
         <td>Trajectory</td>
-        <td>California-PEMS<br>METR-LA<br>Large-ST<br>Shenzhen UCar</td>
+        <td>California-PEMS<br>METR-LA<br>Large-ST<br>Shenzhen UCar<br>Chicago Transportation<br>VED<br>Taxi Trajectory Shenzhen<br>NYC open data (Taxi trips)<br>Xiamen Taxi<br>Grab-Posisi</td>
         <td><a href="http://pems.dot.ca.gov">pems.dot.ca.gov</a><br><a href="http://www.metro.net">www.metro.net</a><br><a href="https://github.com/liuxl77/LargeST">github.com/liuxl77/LargeST</a><br><a href="https://bit.ly/2MG4rZx">bit.ly/2MG4rZx
+        <td><a href="http://pems.dot.ca.gov">pems.dot.ca.gov</a><br><a href="https://www.metro.net">metro.net</a><br><a href="https://github.com/liuxu77/LargeST">LargeST.com</a><br><a href="https://bit.ly/2MG47xz">SZ Ucar.com</a><br><a href="https://data.cityofchicago.org/">data.cityofchicago.org</a><br><a href="https://github.com/gsoh/VED">VED.com</a><br><a href="https://github.com/cbdog94/STL">SZ Taxi trajectory.com</a><br><a href="https://opendata.cityofnewyork.us/how-to/">data.cityofnewyork.us</a><br><a href="https://data.mendeley.com/datasets/6xg39x9vgd/1">data.mendeley.com</a><br><a href="https://goo.su/W3yD5m">goo.su</a></td>
+    </tr>
+    <tr>
+        <td>Taffic Flow</td>
+        <td>TODD</td>
+        <td>MobileBJ<br>DiDi (Traffic flows)<br>TaxiBJ<br>BikeNYC</td>
+        <td><a href="">mobileBJ.com</a><br><a href="https://outreach.didichuxing.com/research/opendata/">didichuxing.com</a><br><a href="https://goo.su/aQyjTAz">goo.su</a><br><a href="https://citibikenyc.com/">citibikenyc.com</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+    <tr>
+        <td>Logistics</td>
+        <td>TODD</td>
+        <td>JD Logistics in Bejing</td>
+        <td><a href="">JD logistics.com</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+    <tr>
+        <td>Road Network</td>
+        <td>TODD</td>
+        <td>Beijing and North America Road Network<br>Road Network (CRN) OpenStreetMap</td>
+        <td><a href="https://www.openstreetmap.org">openstreetmap.org</a><br><a href="https://www.openstreetmap.org">openstreetmap.org</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>          
 </table>
 
 
