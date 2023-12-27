@@ -229,20 +229,20 @@ Below is a list of datasets categorized by their type and source, used in the Aw
 
 <table>
     <tr>
-        <th>Category</th>
-        <th>Content</th>
-        <th>Format</th>
-        <th>Dataset</th>
-        <th>Link</th>
-        <th>Reference</th>
+        <th style="width: 20%;">Category</th>
+        <th style="width: 15%;">Content</th>
+        <th style="width: 10%;">Format</th>
+        <th style="width: 25%;">Dataset</th>
+        <th style="width: 20%;">Link</th>
+        <th style="width: 10%;">Reference</th>
     </tr>
     <tr>
-        <td rowspan="4">Geographical Data</td>
-        <td>Satellite Image</td>
-        <td>Image</td>
-        <td>ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images)</td>
-        <td><a href="https://developers.arcgis.com">developers.arcgis.com</a><br><a href="https://developers.planet.com/docs/data/planetscope/">developers.planet.com</a><br><a href="https://developers.google.com/maps/documentation/">developers.google.com</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a><br><a href="https://lbsyun.baidu.com">baidu.com</a></td>
-        <td>[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
+        <td rowspan="4" style="width: 20%;">Geographical Data</td>
+        <td style="width: 15%;">Satellite Image</td>
+        <td style="width: 10%;">Image</td>
+        <td style="width: 25%;">ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images)</td>
+        <td style="width: 20%;"><a href="https://developers.arcgis.com">developers.arcgis.com</a><br><a href="https://developers.planet.com/docs/data/planetscope/">developers.planet.com</a><br><a href="https://developers.google.com/maps/documentation/">developers.google.com</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a><br><a href="https://lbsyun.baidu.com">baidu.com</a></td>
+        <td style="width: 10%;">[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
     </tr>
     <tr>
         <td>Street View Image</td>
