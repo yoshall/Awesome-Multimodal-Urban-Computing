@@ -227,22 +227,23 @@ Below is a list of datasets categorized by their type and source, used in the Aw
 |          | Map | TODD | US Census Bureau<br>OpenStreetMap(digital maps) | [census.gov](https://www.census.gov/data.html)<br>[openstreetmap.org](https://www.openstreetmap.org/) | [204]<br>[93][211][200][48] |
 | ...      | ... | ...    | ...      | ...  | ...       |
 
+
 <table>
     <tr>
-        <th style="width: 20%;">Category</th>
-        <th style="width: 15%;">Content</th>
-        <th style="width: 10%;">Format</th>
-        <th style="width: 25%;">Dataset</th>
-        <th style="width: 20%;">Link</th>
-        <th style="width: 10%;">Reference</th>
+        <th>Category</th>
+        <th>Content</th>
+        <th>Format</th>
+        <th>Dataset</th>
+        <th>Link</th>
+        <th>Reference</th>
     </tr>
     <tr>
-        <td rowspan="4" style="width: 20%;">Geographical Data</td>
-        <td style="width: 15%;">Satellite Image</td>
-        <td style="width: 10%;">Image</td>
-        <td style="width: 25%;">ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images)</td>
-        <td style="width: 20%;"><a href="https://developers.arcgis.com">developers.arcgis.com</a><br><a href="https://developers.planet.com/docs/data/planetscope/">developers.planet.com</a><br><a href="https://developers.google.com/maps/documentation/">developers.google.com</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a><br><a href="https://lbsyun.baidu.com">baidu.com</a></td>
-        <td style="width: 10%;">[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
+        <td rowspan="4">Geographical Data</td>
+        <td>Satellite Image</td>
+        <td>Image</td>
+        <td>ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images)</td>
+        <td><a href="https://developers.arcgis.com">developers.arcgis.com</a><br><a href="https://developers.planet.com/docs/data/planetscope/">developers.planet.com</a><br><a href="https://developers.google.com/maps/documentation/">developers.google.com</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a><br><a href="https://lbsyun.baidu.com">baidu.com</a></td>
+        <td>[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
     </tr>
     <tr>
         <td>Street View Image</td>
@@ -264,6 +265,49 @@ Below is a list of datasets categorized by their type and source, used in the Aw
         <td>US Census Bureau<br>OpenStreetMap(digital maps)</td>
         <td><a href="https://www.census.gov/data.html">census.gov</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a></td>
         <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+    <!-- Continue adding rows as needed -->
+</table>
+
+
+
+<table>
+    <tr>
+        <th style="width: 20%;">Category</th>
+        <th style="width: 15%;">Content</th>
+        <th style="width: 7%;">Format</th>
+        <th style="width: 30%;">Dataset</th>
+        <th style="width: 20%;">Link</th>
+        <th style="width: 8%;">Reference</th>
+    </tr>
+    <tr>
+        <td rowspan="4" style="width: 20%;">Geographical Data</td>
+        <td style="width: 15%;">Satellite Image</td>
+        <td style="width: 7%;">Image</td>
+        <td style="width: 30%;">ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images)</td>
+        <td style="width: 20%;"><a href="https://developers.arcgis.com">developers.arcgis.com</a><br><a href="https://developers.planet.com/docs/data/planetscope/">developers.planet.com</a><br><a href="https://developers.google.com/maps/documentation/">developers.google.com</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a><br><a href="https://lbsyun.baidu.com">baidu.com</a></td>
+        <td style="width: 8%;">[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
+    </tr>
+    <tr>
+        <td style="width: 20%;">Street View Image</td>
+        <td style="width: 15%;">Image</td>
+        <td style="width: 7%;">Baidu Map API (street view images)<br>Google Street API (street view images)<br>Tencent (street view images)</td>
+        <td style="width: 30%;"><a href="https://lbsyun.baidu.com">baidu.com</a><br><a href="https://developers.google.com/maps/">google.com</a><br><a href="https://lbs.qq.com/tool/streetview/index.html">qq.com</a></td>
+        <td style="width: 8%;">[109][77]<br>[109][4]<br>[67]</td>
+    </tr>
+    <tr>
+        <td style="width: 20%;">POIs</td>
+        <td style="width: 15%;">Point Vector</td>
+        <td style="width: 7%;">Tencent Map Service(POIs)<br>WeChat POIs<br>Baidu Map POIs<br>NYC Open Data (POIs)<br>Foursquare<br>Wikipedia POIs</td>
+        <td style="width: 30%;"><a href="https://lbs.qq.com/getPoint/">qq.com</a><br><a href="https://open.weixin.qq.com/">weixin.qq.com</a><br><a href="https://lbsyun.baidu.com">baidu.com</a><br><a href="https://opendata.cityofnewyork.us/">nyc.gov</a><br><a href="https://developer.foursquare.com/docs/checkins/checkins">foursquare.com</a><br><a href="https://www.wikipedia.org">wikipedia.org</a></td>
+        <td style="width: 8%;">[177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217]</td>
+    </tr>
+    <tr>
+        <td style="width: 20%;">Map</td>
+        <td style="width: 15%;">TODD</td>
+        <td style="width: 7%;">US Census Bureau<br>OpenStreetMap(digital maps)</td>
+        <td style="width: 30%;"><a href="https://www.census.gov/data.html">census.gov</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a></td>
+        <td style="width: 8%;">[204]<br>[93][211][200][48]</td>
     </tr>
     <!-- Continue adding rows as needed -->
 </table>
