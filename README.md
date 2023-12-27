@@ -4,6 +4,7 @@
 
 - [Paper List](#paper-list) 
 - [Open Source Projects](#open-source-projects)
+- [Taxonomy and summary of open-sourced dataset](#Dataset)
 
 ## Paper List
 ### Li Yong group (THU)
@@ -209,17 +210,14 @@
 Below is a list of datasets categorized by their type and source, used in the Awesome-Multimodal-Urban-Computing project.
 
 
+
 | Category | Content | Format | Dataset | Link | Reference |
-|:--------:|:-------:|:------:|:-------:|:----:|:---------:|
-| Satellite Image | ArcGIS | Image | PlanetScope (satellite images) | [Link](https://developers.arcgis.com/) | [99] |
-| Street View Image | Baidu Map API (street view images) | Image | Google Street API (street view images) | [Link](https://lbsyun.baidu.com/) | [109][77] |
-| POIs | Tencent Map Service(POIs) | Point Vector | WeChat POIs | [Link](https://lbs.qq.com/getPoint/) | [177][136] |
-| Map | US Census Bureau | TODD | OpenStreetMap(digital maps) | [Link](https://www.census.gov/data.html) | [102][111][200][48] |
-| Traffic Trajectory | California-PEMS | Trajectory | METR-LA | [Link](http://pems.dot.ca.gov/) | [ ] |
-| Traffic Flow | DiDi (Traffic flows) | TODO | BikeNYC | [Link](https://outreach.didichuxing.com/research/opendata/) | [99][33][22] |
-| Logistics | JD Logistics in Beijing | TODO |  | [Link](#) | [160] |
-| Road Network | Beijing and North America Road Network | TODO | OpenStreetMap | [Link](https://www.openstreetmap.org/) | [15][263][214][202][156][178][140] |
-| Social Networking Data | Twitter (check-in & geo-tagged tweets) |  |  | [Link](https://developer.twitter.com/en/docs/) | [215][121][26] |
+|----------|---------|--------|---------|------|-----------|
+| Geographical Data | Satellite Image | Image | ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images) | [developers.arcgis.com](https://developers.arcgis.com)<br>[developers.planet.com](https://developers.planet.com/docs/data/planetscope/)<br>[developers.google.com](https://developers.google.com/maps/documentation/)<br>[openstreetmap.org](https://www.openstreetmap.org/)<br>[baidu.com](https://lbsyun.baidu.com) | [109]<br>[92]<br>[70]<br>[100]<br>[183][178] |
+| | Street View Image | Image | Baidu Map API (street view images)<br>Google Street API (street view images)<br>Tencent (street view images) | [baidu.com](https://lbsyun.baidu.com)<br>[google.com](https://developers.google.com/maps/)<br>[qq.com](https://lbs.qq.com/tool/streetview/index.html) | [109][77]<br>[109][4]<br>[67] |
+| | POIs | Point Vector | Tencent Map Service(POIs)<br>WeChat POIs<br>Baidu Map POIs<br>NYC Open Data (POIs)<br>Foursquare<br>Wikipedia POIs | [qq.com](https://lbs.qq.com/getPoint/)<br>[weixin.qq.com](https://open.weixin.qq.com/)<br>[baidu.com](https://lbsyun.baidu.com)<br>[nyc.gov](https://opendata.cityofnewyork.us/)<br>[foursquare.com](https://developer.foursquare.com/docs/checkins/checkins)<br>[wikipedia.org](https://www.wikipedia.org) | [177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217] |
+| | Map | TODD | US Census Bureau<br>OpenStreetMap(digital maps) | [census.gov](https://www.census.gov/data.html)<br>[openstreetmap.org](https://www.openstreetmap.org/) | [204]<br>[93][211][200][48] |
+| ... | ... | ... | ... | ... | ... |
 
 
 
