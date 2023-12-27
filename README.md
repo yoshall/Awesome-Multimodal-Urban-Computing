@@ -241,7 +241,7 @@ Below is a list of datasets categorized by their type and source, used in the Aw
         <td rowspan="4">Geographical Data</td>
         <td>Satellite Image</td>
         <td>Image</td>
-        <td>ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images)</td>
+        <td>ArcGIS<br>PlanetScope(satellite images)<br>Google Earth(satellite images)<br>OpenStreetMap(satellite images)<br>Baidu Maps(satellite images)</td>
         <td><a href="https://developers.arcgis.com">developers.arcgis.com</a><br><a href="https://developers.planet.com/docs/data/planetscope/">developers.planet.com</a><br><a href="https://developers.google.com/maps/documentation/">developers.google.com</a><br><a href="https://www.openstreetmap.org/">openstreetmap.org</a><br><a href="https://lbsyun.baidu.com">baidu.com</a></td>
         <td>[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
     </tr>
