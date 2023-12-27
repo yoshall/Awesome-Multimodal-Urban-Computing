@@ -208,6 +208,21 @@
 
 Below is a list of datasets categorized by their type and source, used in the Awesome-Multimodal-Urban-Computing project.
 
+
+| Category | Content | Format | Dataset | Link | Reference |
+|:--------:|:-------:|:------:|:-------:|:----:|:---------:|
+| Satellite Image | ArcGIS | Image | PlanetScope (satellite images) | [Link](https://developers.arcgis.com/) | [99] |
+| Street View Image | Baidu Map API (street view images) | Image | Google Street API (street view images) | [Link](https://lbsyun.baidu.com/) | [109][77] |
+| POIs | Tencent Map Service(POIs) | Point Vector | WeChat POIs | [Link](https://lbs.qq.com/getPoint/) | [177][136] |
+| Map | US Census Bureau | TODD | OpenStreetMap(digital maps) | [Link](https://www.census.gov/data.html) | [102][111][200][48] |
+| Traffic Trajectory | California-PEMS | Trajectory | METR-LA | [Link](http://pems.dot.ca.gov/) | [ ] |
+| Traffic Flow | DiDi (Traffic flows) | TODO | BikeNYC | [Link](https://outreach.didichuxing.com/research/opendata/) | [99][33][22] |
+| Logistics | JD Logistics in Beijing | TODO |  | [Link](#) | [160] |
+| Road Network | Beijing and North America Road Network | TODO | OpenStreetMap | [Link](https://www.openstreetmap.org/) | [15][263][214][202][156][178][140] |
+| Social Networking Data | Twitter (check-in & geo-tagged tweets) |  |  | [Link](https://developer.twitter.com/en/docs/) | [215][121][26] |
+
+
+
 ### Geographical Data
 
 #### Satellite Image
