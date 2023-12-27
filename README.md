@@ -237,7 +237,7 @@ Below is a list of open source datasets categorized by their type and source.
         <td>POIs</td>
         <td>Point Vector</td>
         <td>Tencent Map Service(POIs)<br>WeChat POIs<br>Baidu Map POIs<br>NYC Open Data (POIs)<br>Foursquare<br>Wikipedia POIs<br>AMap Service (POIs)<br>Yelp POIs<br>Dianping.com POIs<br>Weibo POI<br>Flickr (POIs)<br>Bing Map POIs</td>
-        <td><a href="https://lbs.qq.com/getPoint/">qq.com</a><br><a href="https://open.weixin.qq.com/">weixin.qq.com</a><br><a href="https://lbsyun.baidu.com">baidu.com</a><br><a href="https://opendata.cityofnewyork.us/">nyc.gov</a><br><a href="https://developer.foursquare.com/docs/checkins/checkins">foursquare.com</a><br><a href="https://www.wikipedia.org">wikipedia.org</a></td><a href="https://lbs.amap.com">amap.com</a><br><a href="https://www.yelp.com/developers">yelp.com</a><br><a href="https://api.dianping.com/">dianping.com</a><br><a href="https://open.weibo.com/wiki/API">weibo.com</a><br><a href="https://www.flickr.com/services/developer/api/">flickr.com</a><br><a href="https://www.bingmapsportal.com">bing map.com</a></td>
+        <td><a href="https://lbs.qq.com/getPoint/">qq.com</a><br><a href="https://open.weixin.qq.com/">weixin.qq.com</a><br><a href="https://lbsyun.baidu.com">baidu.com</a><br><a href="https://opendata.cityofnewyork.us/">nyc.gov</a><br><a href="https://developer.foursquare.com/docs/checkins/checkins">foursquare.com</a><br><a href="https://www.wikipedia.org">wikipedia.org</a><br><a href="https://lbs.amap.com">amap.com</a><br><a href="https://www.yelp.com/developers">yelp.com</a><br><a href="https://api.dianping.com/">dianping.com</a><br><a href="https://open.weibo.com/wiki/API">weibo.com</a><br><a href="https://www.flickr.com/services/developer/api/">flickr.com</a><br><a href="https://www.bingmapsportal.com">bing map.com</a></td>
         <td>[177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217]<br>[8]<br>[12][212][214]<br>[23][38]<br>[23][83][46]<br>[57]<br>[26]</td>
     </tr>
     <tr>
@@ -252,7 +252,6 @@ Below is a list of open source datasets categorized by their type and source.
         <td>Traffic Trajectory</td>
         <td>Trajectory</td>
         <td>California-PEMS<br>METR-LA<br>Large-ST<br>Shenzhen UCar<br>Chicago Transportation<br>VED<br>Taxi Trajectory Shenzhen<br>NYC open data (Taxi trips)<br>Xiamen Taxi<br>Grab-Posisi</td>
-        <td><a href="http://pems.dot.ca.gov">pems.dot.ca.gov</a><br><a href="http://www.metro.net">www.metro.net</a><br><a href="https://github.com/liuxl77/LargeST">github.com/liuxl77/LargeST</a><br><a href="https://bit.ly/2MG4rZx">bit.ly/2MG4rZx
         <td><a href="http://pems.dot.ca.gov">pems.dot.ca.gov</a><br><a href="https://www.metro.net">metro.net</a><br><a href="https://github.com/liuxu77/LargeST">LargeST.com</a><br><a href="https://bit.ly/2MG47xz">SZ Ucar.com</a><br><a href="https://data.cityofchicago.org/">data.cityofchicago.org</a><br><a href="https://github.com/gsoh/VED">VED.com</a><br><a href="https://github.com/cbdog94/STL">SZ Taxi trajectory.com</a><br><a href="https://opendata.cityofnewyork.us/how-to/">data.cityofnewyork.us</a><br><a href="https://data.mendeley.com/datasets/6xg39x9vgd/1">data.mendeley.com</a><br><a href="https://goo.su/W3yD5m">goo.su</a></td>
     </tr>
     <tr>
