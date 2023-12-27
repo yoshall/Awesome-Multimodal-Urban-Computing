@@ -219,5 +219,23 @@ Below is a list of datasets categorized by their type and source, used in the Aw
 | | Map | TODD | US Census Bureau<br>OpenStreetMap(digital maps) | [census.gov](https://www.census.gov/data.html)<br>[openstreetmap.org](https://www.openstreetmap.org/) | [204]<br>[93][211][200][48] |
 | ... | ... | ... | ... | ... | ... |
 
+| Category | Content | Format | Dataset | Link | Reference |
+|----------|---------|--------|---------|------|-----------|
+|          | Satellite Image | Image | ArcGIS<br>PlanetScope (satellite images)<br>Google Earth (satellite images)<br>OpenStreetMap (satellite images)<br>Baidu Maps (satellite images) | [developers.arcgis.com](https://developers.arcgis.com)<br>[developers.planet.com](https://developers.planet.com/docs/data/planetscope/)<br>[developers.google.com](https://developers.google.com/maps/documentation/)<br>[openstreetmap.org](https://www.openstreetmap.org/)<br>[baidu.com](https://lbsyun.baidu.com) | [109]<br>[92]<br>[70]<br>[100]<br>[183][178] |
+|          | Street View Image | Image | Baidu Map API (street view images)<br>Google Street API (street view images)<br>Tencent (street view images) | [baidu.com](https://lbsyun.baidu.com)<br>[google.com](https://developers.google.com/maps/)<br>[qq.com](https://lbs.qq.com/tool/streetview/index.html) | [109][77]<br>[109][4]<br>[67] |
+| **Geographical Data** | POIs | Point Vector | Tencent Map Service(POIs)<br>WeChat POIs<br>Baidu Map POIs<br>NYC Open Data (POIs)<br>Foursquare<br>Wikipedia POIs | [qq.com](https://lbs.qq.com/getPoint/)<br>[weixin.qq.com](https://open.weixin.qq.com/)<br>[baidu.com](https://lbsyun.baidu.com)<br>[nyc.gov](https://opendata.cityofnewyork.us/)<br>[foursquare.com](https://developer.foursquare.com/docs/checkins/checkins)<br>[wikipedia.org](https://www.wikipedia.org) | [177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217] |
+|          | Map | TODD | US Census Bureau<br>OpenStreetMap(digital maps) | [census.gov](https://www.census.gov/data.html)<br>[openstreetmap.org](https://www.openstreetmap.org/) | [204]<br>[93][211][200][48] |
+| ...      | ... | ...    | ...      | ...  | ...       |
+
+
+| :--------: | :-------: | :------: | :-------: | :----: | :---------: |
+|  Category  |  Content  |  Format  |  Dataset  |  Link  |  Reference  |
+|------------|-----------|----------|-----------|--------|-------------|
+|            | Satellite Image | Image | ArcGIS<br>PlanetScope<br>Google Earth<br>OpenStreetMap<br>Baidu Maps | [ArcGIS](https://...)<br>[PlanetScope](https://...)<br>[Google Earth](https://...)<br>[OpenStreetMap](https://...)<br>[Baidu Maps](https://...) | [1][2]<br>[3][4]<br>[5][6]<br>[7][8]<br>[9][10] |
+|            | Street View Image | Image | Baidu Map API<br>Google Street API<br>Tencent | [Baidu](https://...)<br>[Google Street](https://...)<br>[Tencent](https://...) | [11][12]<br>[13][14]<br>[15][16] |
+| **Geographical Data** | POIs | Point Vector | Tencent Map Service<br>WeChat POIs<br>Baidu Map POIs | [Tencent](https://...)<br>[WeChat](https://...)<br>[Baidu](https://...) | [17][18]<br>[19][20]<br>[21][22] |
+|            | Map | TODD | US Census Bureau<br>OpenStreetMap | [US Census](https://...)<br>[OpenStreetMap](https://...) | [23][24]<br>[25][26] |
+| ...        | ...       | ...      | ...       | ...    | ...         |
+
 
 
