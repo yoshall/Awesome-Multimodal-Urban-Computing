@@ -209,6 +209,71 @@
 
 Below is a list of open source datasets categorized by their type and source.
 
+
+
+<table>
+    <tr>
+        <th>Category</th>
+        <th>Content</th>
+        <th>Format</th>
+        <th>Dataset [Link]</th>
+        <th>Reference</th>
+    </tr>
+    <tr>
+        <td rowspan="4">Geographical Data</td>
+        <td>Satellite Image</td>
+        <td>Image</td>
+        <td><a href="https://developers.arcgis.com">ArcGIS</a><br><a href="https://developers.planet.com/docs/data/planetscope/">PlanetScope (satellite images)</a><br><a href="https://developers.google.com/maps/documentation/">Google Earth (satellite images)</a><br><a href="https://www.openstreetmap.org/">OpenStreetMap (satellite images)</a><br><a href="https://lbsyun.baidu.com">Baidu Maps (satellite images)</a></td>
+        <td>[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
+    </tr>
+    <tr>
+        <td>Street View Image</td>
+        <td>Image</td>
+        <td><a href="https://lbsyun.baidu.com">Baidu Map API (street view images)</a><br><a href="https://developers.google.com/maps/">Google Street API (street view images)</a><br><a href="https://lbs.qq.com/tool/streetview/index.html">Tencent (street view images)</a></td>
+        <td>[109][77]<br>[109][4]<br>[67]</td>
+    </tr>
+    <tr>
+        <td>POIs</td>
+        <td>Point Vector</td>
+        <td><a href="https://lbs.qq.com/getPoint/">Tencent Map Service(POIs)</a><br><a href="https://open.weixin.qq.com/">WeChat POIs</a><br><a href="https://lbsyun.baidu.com">Baidu Map POIs</a><br><a href="https://opendata.cityofnewyork.us/">NYC Open Data (POIs)</a><br><a href="https://developer.foursquare.com/docs/checkins/checkins">Foursquare</a><br><a href="https://www.wikipedia.org">Wikipedia POIs</a><br><a href="https://lbs.amap.com">AMap Service (POIs)</a><br><a href="https://www.yelp.com/developers">Yelp POIs</a><br><a href="https://api.dianping.com/">Dianping.com POIs</a><br><a href="https://open.weibo.com/wiki/API">Weibo POI</a><br><a href="https://www.flickr.com/services/developer/api/">Flickr (POIs)</a><br><a href="https://www.bingmapsportal.com">Bing Map POIs</a></td>
+        <td>[177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217]<br>[8]<br>[12][212][214]<br>[23][38]<br>[23][83][46]<br>[57]<br>[26]</td>
+    </tr>
+    <tr>
+        <td>Map</td>
+        <td>TODD</td>
+        <td><a href="https://www.census.gov/data.html">US Census Bureau</a><br><a href="https://www.openstreetmap.org/">OpenStreetMap(digital maps)</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+    <tr>
+        <td rowspan="4">Traffic Data</td>
+        <td>Traffic Trajectory</td>
+        <td>Trajectory</td>
+        <td><a href="http://pems.dot.ca.gov">California-PEMS</a><br><a href="https://www.metro.net">METR-LA</a><br><a href="https://github.com/liuxu77/LargeST">Large-ST</a><br><a href="https://bit.ly/2MG47xz">Shenzhen UCar</a><br><a href="https://data.cityofchicago.org/">Chicago Transportation</a><br><a href="https://github.com/gsoh/VED">VED</a><br><a href="https://github.com/cbdog94/STL">Taxi Trajectory Shenzhen</a><br><a href="https://opendata.cityofnewyork.us/how-to/">NYC open data (Taxi trips)</a><br><a href="https://data.mendeley.com/datasets/6xg39x9vgd/1">Xiamen Taxi</a><br><a href="https://goo.su/W3yD5m">Grab-Posisi</a></td>
+        <td>[]<br>[]<br>[]<br>[54]<br>[159][169][70]<br>[]<br>[68][174]<br>[205][204]<br>[93][211][200][48]</td>
+    </tr>
+    <tr>
+        <td>Traffic Flow</td>
+        <td>TODD</td>
+        <td><a href="https://outreach.didichuxing.com/research/opendata/">DiDi (Traffic flows)</a><br><a href="https://goo.su/aQyjTAz">TaxiBJ</a><br><a href="https://citibikenyc.com/">BikeNYC</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+    <tr>
+        <td>Logistics</td>
+        <td>TODD</td>
+        <td><a href="https://www.jd.com/">JD Logistics in Beijing</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+    <tr>
+        <td>Road Network</td>
+        <td>TODD</td>
+        <td><a href="https://www.openstreetmap.org">Beijing and North America Road Network</a><br><a href="https://www.openstreetmap.org">Road Network (CRN) OpenStreetMap</a></td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+
+</table>
+
+
+
 <table>
     <tr>
         <th>Category</th>
