@@ -319,6 +319,28 @@ Below is a list of open source datasets categorized by their type and source.
         <td><a href="https://www.worldpop.org/">worldpop.org</a></td>
         <td>[177][92][8]</td>
     </tr>  
+    <tr>
+      <td rowspan="3">Environmental Data</td>
+      <td>Meteorology</td>
+      <td>Time series</td>
+      <td>TipDM China Weather Dataset<br>DarkSky weather<br>WeatherNYC<br>WeatherChicago<br>Weather Underground</td>
+      <td><a href="https://www.tipdm.org/">tipdm.org</a><br><a href="https://support.apple.com/en-us/102594">support.apple.com</a><br><a href="https://opendata.cityofnewyork.us/">opendata.cityofnewyork.us</a><br><a href="https://data.cityofchicago.org/">data.cityofchicago.org</a><br><a href="https://www.wunderground.com/">wunderground.com</a></td>
+      <td>[106]<br>[200]<br>[159]<br>[159]<br>[196]</td>
+  </tr>
+  <tr>
+      <td>Greenery</td>
+      <td>Time series</td>
+      <td>Google Earth (tree coverage)</td>
+      <td><a href="https://earth.google.com/">earth.google.com</a></td>
+      <td>[113]</td>
+  </tr>
+  <tr>
+      <td>Air Quality</td>
+      <td>Time series</td>
+      <td>UrbanAir</td>
+      <td><a href="https://goo.su/hf2NB53">goo.su</a></td>
+      <td>[223]</td>
+  </tr>
 </table>
 
 
