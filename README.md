@@ -232,8 +232,103 @@ Below is a list of open source datasets categorized by their type and source.
         <td>Baidu Map API (street view images) [<a href="https://lbsyun.baidu.com">Link</a>]<br>Google Street API (street view images) [<a href="https://developers.google.com/maps/">Link</a>]<br>Tencent (street view images) [<a href="https://lbs.qq.com/tool/streetview/index.html">Link</a>]</td>
         <td>[109][77]<br>[109][4]<br>[67]</td>
     </tr>
+    <tr>
+        <td>POIs</td>
+        <td>Point Vector</td>
+        <td>Tencent Map Service(POIs) [<a href="https://lbs.qq.com/getPoint/">Link</a>]<br>WeChat POIs [<a href="https://open.weixin.qq.com/">Link</a>]<br>Baidu Map POIs [<a href="https://lbsyun.baidu.com">Link</a>]<br>NYC Open Data (POIs) [<a href="https://opendata.cityofnewyork.us/">Link</a>]<br>Foursquare [<a href="https://developer.foursquare.com/docs/checkins/checkins">Link</a>]<br>Wikipedia POIs [<a href="https://www.wikipedia.org">Link</a>]<br>AMap Service (POIs) [<a href="https://lbs.amap.com">Link</a>]<br>Yelp POIs [<a href="https://www.yelp.com/developers">Link</a>]<br>Dianping.com POIs [<a href="https://api.dianping.com/">Link</a>]<br>Weibo POI [<a href="https://open.weibo.com/wiki/API">Link</a>]<br>Flickr (POIs) [<a href="https://www.flickr.com/services/developer/api/">Link</a>]<br>Bing Map POIs [<a href="https://www.bingmapsportal.com">Link</a>]</td>
+        <td>[177][136]<br>[161]<br>[93][100][35][178]<br>[99][159][25][204][169]<br>[15][213][32][62][70]<br>[217]<br>[8]<br>[12][212][214]<br>[23][38]<br>[23][83][46]<br>[57]<br>[26]</td>
+    </tr>
+    <tr>
+        <td>Map</td>
+        <td>TODD</td>
+        <td>US Census Bureau [<a href="https://www.census.gov/data.html">Link</a>]<br>OpenStreetMap(digital maps) [<a href="https://www.openstreetmap.org/">Link</a>]</td>
+        <td>[204]<br>[93][211][200][48]</td>
+    </tr>
+    <tr>
+    <td rowspan="4">Traffic Data</td>
+    <td>Traffic Trajectory</td>
+    <td>Trajectory</td>
+    <td>California-PEMS [<a href="http://pems.dot.ca.gov">Link</a>]<br>METR-LA [<a href="https://www.metro.net">Link</a>]<br>Large-ST [<a href="https://github.com/liuxu77/LargeST">Link</a>]<br>Shenzhen UCar [<a href="https://bit.ly/2MG47xz">Link</a>]<br>Chicago Transportation [<a href="https://data.cityofchicago.org/">Link</a>]<br>VED [<a href="https://github.com/gsoh/VED">Link</a>]<br>Taxi Trajectory Shenzhen [<a href="https://github.com/cbdog94/STL">Link</a>]<br>NYC open data (Taxi trips) [<a href="https://opendata.cityofnewyork.us/how-to/">Link</a>]<br>Xiamen Taxi [<a href="https://data.mendeley.com/datasets/6xg39x9vgd/1">Link</a>]<br>Grab-Posisi [<a href="https://goo.su/W3yD5m">Link</a>]</td>
+    <td>[]<br>[]<br>[]<br>[54]<br>[159][169][70]<br>[]<br>[68][174]<br>[205][204]<br>[93][211][200][48]</td>
+</tr>
+<tr>
+    <td>Traffic Flow</td>
+    <td>TODD</td>
+    <td>MobileBJ [<a href="">Link</a>]<br>DiDi (Traffic flows) [<a href="https://outreach.didichuxing.com/research/opendata/">Link</a>]<br>TaxiBJ [<a href="https://goo.su/aQyjTAz">Link</a>]<br>BikeNYC [<a href="https://citibikenyc.com/">Link</a>]</td>
+    <td>[204]<br>[93][211][200][48]</td>
+</tr>
+<tr>
+    <td>Logistics</td>
+    <td>TODD</td>
+    <td>JD Logistics in Beijing [<a href="">Link</a>]</td>
+    <td>[204]<br>[93][211][200][48]</td>
+</tr>
+<tr>
+    <td>Road Network</td>
+    <td>TODD</td>
+    <td>Beijing and North America Road Network [<a href="https://www.openstreetmap.org">Link</a>]<br>Road Network (CRN) OpenStreetMap [<a href="https://www.openstreetmap.org">Link</a>]</td>
+    <td>[204]<br>[93][211][200][48]</td>
+</tr>
+<tr>
+    <td rowspan="3">Social Network Data</td>
+    <td>Text</td>
+    <td>Text</td>
+    <td>Twitter (check-in & geo-tagged tweets) [<a href="https://developer.twitter.com/en/docs">Link</a>]<br>Common Crawl web pages [<a href="https://registry.opendata.aws/commoncrawl/">Link</a>]<br>Yelp user reviews [<a href="https://www.yelp.com/dataset">Link</a>]<br>Weibo Xiamen Traffic Police [<a href="http://open.weibo.com/developers/">Link</a>]</td>
+    <td>[15, 213, 214, 202, 156, 173, 140]<br>[170, 165, 167, 166, 119, 107]<br>[211, 214]<br>[197]</td>
+</tr>
+<tr>
+    <td>Image & Video</td>
+    <td>Image & Video</td>
+    <td>YFCC100M (geo-tagged photo) [<a href="https://goo.su/ia2DdU">Link</a>]<br>NUS-WIDE (geo-tagged photo) [<a href="https://goo.su/dWPQzCD">Link</a>]<br>GeoUGV (geo-tagged mobile video) [<a href="https://qualinet.github.io/databases/video/">Link</a>]</td>
+    <td>[218, 194, 57]<br>[194, 192]<br>[110]</td>
+</tr>
+<tr>
+    <td>User' Info.</td>
+    <td>User' Info.</td>
+    <td>Jiepang user check-in [<a href="https://jiepang.app/">Link</a>]<br>Gowalla user location [<a href="http://konect.cc/networks/loc-gowalla_edges/">Link</a>]<br>WeChat BJ/SH user mobility [<a href="https://open.weixin.qq.com/">Link</a>]</td>
+    <td>[42]<br>[32, 202]<br>[161]</td>
+</tr>
+  <tr>
+    <td rowspan="3">Demographic Data</td>
+    <td>Crime</td>
+    <td>Time series</td>
+    <td>NYC Crime [<a href="https://opendata.cityofnewyork.us/">Link</a>]</td>
+    <td>[205]</td>
+</tr>
+<tr>
+    <td>Land Use</td>
+    <td>Time series</td>
+    <td>Land Use SG [<a href="https://www.ura.gov.sg/Corporate/Planning/Master-Plan">Link</a>]<br>Land Use NYC [<a href="https://goo.su/puTuG">Link</a>]</td>
+    <td>[95]</td>
+</tr>
+<tr>
+    <td>Population</td>
+    <td>Time series</td>
+    <td>WorldPop [<a href="https://www.worldpop.org/">Link</a>]</td>
+    <td>[177][92][8]</td>
+</tr>  
+<tr>
+    <td rowspan="3">Environmental Data</td>
+    <td>Meteorology</td>
+    <td>Time series</td>
+    <td>TipDM China Weather Dataset [<a href="https://www.tipdm.org/">Link</a>]<br>DarkSky weather [<a href="https://support.apple.com/en-us/102594">Link</a>]<br>WeatherNYC [<a href="https://opendata.cityofnewyork.us/">Link</a>]<br>WeatherChicago [<a href="https://data.cityofchicago.org/">Link</a>]<br>Weather Underground [<a href="https://www.wunderground.com/">Link</a>]</td>
+    <td>[106]<br>[200]<br>[159]<br>[159]<br>[196]</td>
+</tr>
+<tr>
+    <td>Greenery</td>
+    <td>Time series</td>
+    <td>Google Earth (tree coverage) [<a href="https://earth.google.com/">Link</a>]</td>
+    <td>[113]</td>
+</tr>
+<tr>
+    <td>Air Quality</td>
+    <td>Time series</td>
+    <td>UrbanAir [<a href="https://goo.su/hf2NB53">Link</a>]</td>
+    <td>[223]</td>
+</tr>
 
 </table>
+
 
 
 
