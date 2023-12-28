@@ -253,6 +253,7 @@ Below is a list of open source datasets categorized by their type and source.
         <td>Trajectory</td>
         <td>California-PEMS<br>METR-LA<br>Large-ST<br>Shenzhen UCar<br>Chicago Transportation<br>VED<br>Taxi Trajectory Shenzhen<br>NYC open data (Taxi trips)<br>Xiamen Taxi<br>Grab-Posisi</td>
         <td><a href="http://pems.dot.ca.gov">pems.dot.ca.gov</a><br><a href="https://www.metro.net">metro.net</a><br><a href="https://github.com/liuxu77/LargeST">LargeST.com</a><br><a href="https://bit.ly/2MG47xz">SZ Ucar.com</a><br><a href="https://data.cityofchicago.org/">data.cityofchicago.org</a><br><a href="https://github.com/gsoh/VED">VED.com</a><br><a href="https://github.com/cbdog94/STL">SZ Taxi trajectory.com</a><br><a href="https://opendata.cityofnewyork.us/how-to/">data.cityofnewyork.us</a><br><a href="https://data.mendeley.com/datasets/6xg39x9vgd/1">data.mendeley.com</a><br><a href="https://goo.su/W3yD5m">goo.su</a></td>
+        <td>[]<br>[]<br>[]<br>[54]<br>[159][169][70]<br>[]<br>[68][174]<br>[205][204]<br>[93][211][200][48]</td>
     </tr>
     <tr>
         <td>Taffic Flow</td>
