@@ -288,7 +288,7 @@ Below is a list of open source datasets categorized by their type and source.
     <td>Jiepang user check-in [<a href="https://jiepang.app/">Link</a>]<br>Gowalla user location [<a href="http://konect.cc/networks/loc-gowalla_edges/">Link</a>]<br>WeChat BJ/SH user mobility [<a href="https://open.weixin.qq.com/">Link</a>]</td>
     <td>[42]<br>[32, 202]<br>[161]</td>
 </tr>
-  <tr>
+<tr>
     <td rowspan="3">Demographic Data</td>
     <td>Crime</td>
     <td>Time series</td>
@@ -311,14 +311,14 @@ Below is a list of open source datasets categorized by their type and source.
     <td rowspan="3">Environmental Data</td>
     <td>Meteorology</td>
     <td>Time series</td>
-    <td>TipDM China Weather Dataset [<a href="https://www.tipdm.org/">Link</a>]<br>DarkSky weather [<a href="https://support.apple.com/en-us/102594">Link</a>]<br>WeatherNYC [<a href="https://opendata.cityofnewyork.us/">Link</a>]<br>WeatherChicago [<a href="https://data.cityofchicago.org/">Link</a>]<br>Weather Underground [<a href="https://www.wunderground.com/">Link</a>]</td>
-    <td>[106]<br>[200]<br>[159]<br>[159]<br>[196]</td>
+    <td>TipDM China Weather Dataset [<a href="https://www.tipdm.org/">Link</a>]<br>DarkSky weather [<a href="https://support.apple.com/en-us/102594">Link</a>]<br>WeatherNYC [<a href="https://opendata.cityofnewyork.us/">Link</a>]<br>WeatherChicago [<a href="https://data.cityofchicago.org/">Link</a>]<br>Weather Underground [<a href="https://www.wunderground.com/">Link</a>]<br>DidiSY (weather, temperature, wind speed) [<a href="https://www.didiglobal.com/">Link</a>]<br>WD BJ (weather) [<a href="https://goo.su/DmHFd">Link</a>]<br>WD_ISR & WD_USA (weather) [<a href="https://goo.su/RVhBA">Link</a>]</td>
+    <td>[106]<br>[200]<br>[159]<br>[159]<br>[196]<br>[11]<br>[113]<br>[113]</td>
 </tr>
 <tr>
     <td>Greenery</td>
     <td>Time series</td>
     <td>Google Earth (tree coverage) [<a href="https://earth.google.com/">Link</a>]</td>
-    <td>[113]</td>
+    <td>[196]</td>
 </tr>
 <tr>
     <td>Air Quality</td>
@@ -326,6 +326,7 @@ Below is a list of open source datasets categorized by their type and source.
     <td>UrbanAir [<a href="https://goo.su/hf2NB53">Link</a>]</td>
     <td>[223]</td>
 </tr>
+
 
 </table>
 
