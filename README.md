@@ -216,6 +216,32 @@ Below is a list of open source datasets categorized by their type and source.
         <th>Category</th>
         <th>Content</th>
         <th>Format</th>
+        <th>Dataset</th>
+        <th>Reference</th>
+    </tr>
+    <tr>
+        <td rowspan="4">Geographical Data</td>
+        <td>Satellite Image</td>
+        <td>Image</td>
+        <td>ArcGIS [<a href="https://developers.arcgis.com">Link</a>]<br>PlanetScope (satellite images) [<a href="https://developers.planet.com/docs/data/planetscope/">Link</a>]<br>Google Earth (satellite images) [<a href="https://developers.google.com/maps/documentation/">Link</a>]<br>OpenStreetMap (satellite images) [<a href="https://www.openstreetmap.org/">Link</a>]<br>Baidu Maps (satellite images) [<a href="https://lbsyun.baidu.com">Link</a>]</td>
+        <td>[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
+    </tr>
+    <tr>
+        <td>Street View Image</td>
+        <td>Image</td>
+        <td>Baidu Map API (street view images) [<a href="https://lbsyun.baidu.com">Link</a>]<br>Google Street API (street view images) [<a href="https://developers.google.com/maps/">Link</a>]<br>Tencent (street view images) [<a href="https://lbs.qq.com/tool/streetview/index.html">Link</a>]</td>
+        <td>[109][77]<br>[109][4]<br>[67]</td>
+    </tr>
+
+</table>
+
+
+
+<table>
+    <tr>
+        <th>Category</th>
+        <th>Content</th>
+        <th>Format</th>
         <th>Dataset [Link]</th>
         <th>Reference</th>
     </tr>
