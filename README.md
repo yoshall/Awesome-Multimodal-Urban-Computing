@@ -296,50 +296,6 @@ Below is a list of open source datasets categorized by their type and source.
         <td><a href="">JD logistics.com</a></td>
         <td>[204]<br>[93][211][200][48]</td>
     </tr>
-    <tr>
-    <td rowspan="4">Demographic Data</td>
-    <td>Crime</td>
-    <td>Time series</td>
-    <td>NYC Crime</td>
-    <td><a href="https://opendata.cityofnewyork.us/">nyc.gov</a></td>
-    <td>[205]</td>
-</tr>
-<tr>
-    <td>Land Use</td>
-    <td>Time series</td>
-    <td>Land Use SG<br>Land Use NYC</td>
-    <td><a href="https://www1.nyc.gov/site/planning/data-maps/open-data.page">nyc.gov</a></td>
-    <td>[95]</td>
-</tr>
-<tr>
-    <td>Population</td>
-    <td>Time series</td>
-    <td>WorldPop</td>
-    <td><a href="https://www.worldpop.org/">worldpop.org</a></td>
-    <td>[177][92][8]</td>
-</tr>
-<tr>
-    <td>Meteorology</td>
-    <td>Time series</td>
-    <td>TipDM China Weather Dataset<br>DarkSky weather<br>WeatherNYC<br>WeatherChicago<br>Weather Underground</td>
-    <td><a href="https://support.apple.com/en-us/102594">apple.com</a><br><a href="https://data.cityofchicago.org/">data.cityofchicago.org</a><br><a href="https://www.wunderground.com/">wunderground.com</a></td>
-    <td>[200]<br>[159]<br>[156]</td>
-</tr>
-<tr>
-    <td rowspan="3">Environmental Data</td>
-    <td>Greenery</td>
-    <td>Time series</td>
-    <td>Google Earth (tree coverage)</td>
-    <td><a href="https://earth.google.com/">google.com</a></td>
-    <td>[113]</td>
-</tr>
-<tr>
-    <td>Air Quality</td>
-    <td>Time series</td>
-    <td>UrbanAir</td>
-    <td><a href="https://goo.su/hf2NB53">goo.su</a></td>
-    <td>[223]</td>
-</tr>
 
 </table>
 
