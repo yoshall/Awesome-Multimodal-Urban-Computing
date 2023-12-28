@@ -224,7 +224,7 @@ Below is a list of open source datasets categorized by their type and source.
         <td>Satellite Image</td>
         <td>Image</td>
         <td>ArcGIS [<a href="https://developers.arcgis.com">Link</a>]<br>PlanetScope (satellite images) [<a href="https://developers.planet.com/docs/data/planetscope/">Link</a>]<br>Google Earth (satellite images) [<a href="https://developers.google.com/maps/documentation/">Link</a>]<br>OpenStreetMap (satellite images) [<a href="https://www.openstreetmap.org/">Link</a>]<br>Baidu Maps (satellite images) [<a href="https://lbsyun.baidu.com">Link</a>]</td>
-        <td>[109]<br>[92]<br>[70]<br>[100]<br>[183][178]</td>
+        <td>[<a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583876">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557153">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3357384.3358001">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3568683">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539029?casa_token=jpDze5OKkEwAAAAA:SPOOwnxmokWTICbKEE6hSwQQy7qZVCltzlVnGIB6mHHhnwFwY6GE7aTN06mirTTCKRJ23xvWZNklZIA">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf?casa_token=fpu9Q7eBi6oAAAAA:mwyKc0AgM0wUyAJQ-ZHrTgH0qrifBm0X9f9-0SdrtG_gLpMQvaFmXG_LujHPhB69KqTxzjFPa40LdQ">Paper</a>]</td>
     </tr>
     <tr>
         <td>Street View Image</td>
