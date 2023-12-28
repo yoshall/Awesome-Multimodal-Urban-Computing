@@ -297,6 +297,28 @@ Below is a list of open source datasets categorized by their type and source.
         <td><a href="https://jiepang.app/">jiepang.app</a><br><a href="http://konect.cc/networks/loc-gowalla_edges/">konect.cc</a><br><a href="https://open.weixin.qq.com/">weixin.qq.com</a></td>
         <td>[42]<br>[32, 202]<br>[161]</td>
     </tr>
+    <tr>
+        <td rowspan="3">Demographic Data</td>
+        <td>Crime</td>
+        <td>Time series</td>
+        <td>NYC Crime</td>
+        <td><a href="https://opendata.cityofnewyork.us/">opendata.cityofnewyork.us</a></td>
+        <td>[205]</td>
+    </tr>
+    <tr>
+        <td>Land Use</td>
+        <td>Time series</td>
+        <td>Land Use SG<br>Land Use NYC</td>
+        <td><a href="https://www.ura.gov.sg/Corporate/Planning/Master-Plan">ura.gov.sg</a><br><a href="https://goo.su/puTuG">goo.su</a></td>
+        <td>[95]</td>
+    </tr>
+    <tr>
+        <td>Population</td>
+        <td>Time series</td>
+        <td>WorldPop</td>
+        <td><a href="https://www.worldpop.org/">worldpop.org</a></td>
+        <td>[177][92][8]</td>
+    </tr>  
 </table>
 
 
