@@ -297,13 +297,13 @@ Below is a list of open source datasets categorized by their type and source.
     <td>Image & Video</td>
     <td>Image & Video</td>
     <td>YFCC100M (geo-tagged photo) [<a href="https://goo.su/ia2DdU">Link</a>]<br>NUS-WIDE (geo-tagged photo) [<a href="https://goo.su/dWPQzCD">Link</a>]<br>GeoUGV (geo-tagged mobile video) [<a href="https://qualinet.github.io/databases/video/">Link</a>]</td>
-    <td>[218, 194, 57]<br>[194, 192]<br>[110]</td>
+    <td>[218][194][57]<br>[194][192]<br>[110]</td>
 </tr>
 <tr>
     <td>User' Info.</td>
     <td>User' Info.</td>
     <td>Jiepang user check-in [<a href="https://jiepang.app/">Link</a>]<br>Gowalla user location [<a href="http://konect.cc/networks/loc-gowalla_edges/">Link</a>]<br>WeChat BJ/SH user mobility [<a href="https://open.weixin.qq.com/">Link</a>]</td>
-    <td>[42]<br>[32, 202]<br>[161]</td>
+    <td>[42]<br>[32][202]<br>[161]</td>
 </tr>
 <tr>
     <td rowspan="3">Demographic Data</td>
@@ -316,7 +316,7 @@ Below is a list of open source datasets categorized by their type and source.
     <td>Land Use</td>
     <td>Time series</td>
     <td>Land Use SG [<a href="https://www.ura.gov.sg/Corporate/Planning/Master-Plan">Link</a>]<br>Land Use NYC [<a href="https://goo.su/puTuG">Link</a>]</td>
-    <td>[95]</td>
+    <td>[95]<br>[95]</td>
 </tr>
 <tr>
     <td>Population</td>
