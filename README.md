@@ -265,32 +265,33 @@ Below is a list of open source datasets categorized by their type and source.
     <td>Traffic Trajectory</td>
     <td>Trajectory</td>
     <td>California-PEMS [<a href="http://pems.dot.ca.gov">Link</a>]<br>METR-LA [<a href="https://www.metro.net">Link</a>]<br>Large-ST [<a href="https://github.com/liuxu77/LargeST">Link</a>]<br>Shenzhen UCar [<a href="https://bit.ly/2MG47xz">Link</a>]<br>Chicago Transportation [<a href="https://data.cityofchicago.org/">Link</a>]<br>VED [<a href="https://github.com/gsoh/VED">Link</a>]<br>Taxi Trajectory Shenzhen [<a href="https://github.com/cbdog94/STL">Link</a>]<br>NYC open data (Taxi trips) [<a href="https://opendata.cityofnewyork.us/how-to/">Link</a>]<br>Xiamen Taxi [<a href="https://data.mendeley.com/datasets/6xg39x9vgd/1">Link</a>]<br>Grab-Posisi [<a href="https://goo.su/W3yD5m">Link</a>]</td>
-    <td>[]<br>[]<br>[]<br>[54]<br>[159][169][<a href="https://dl.acm.org/doi/pdf/10.1145/3357384.3358001">Paper</a>]<br>[]<br>[68][174]<br>[205][204]<br>[93][211][200][48]</td>
+    <td>[]<br>[]<br>[]<br>[<a href="https://ieeexplore.ieee.org/iel7/7755/4358975/09238459.pdf?casa_token=57UE6m0t1L4AAAAA:07EKUfKbquI7qsNojbUNLuOQdGbXPCSrZy4Sks_S33wg9G71PrufDENbTNq5Yznc3SI_RijjmPi4eg">Paper</a>]<br>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16566/16373">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/69/4358933/09652050.pdf?casa_token=eISzhi2pzpgAAAAA:gmISK_pWmvHmvtY_wYhb_59On3L_V_J1meomX4InftHQOirUx6I0VCoFvvLDAdrDXq5-IiCxPK0uUQ">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3357384.3358001">Paper</a>]<br>[]<br>[<a href="https://www.sciencedirect.com/science/article/pii/S0198971523001060/pdfft?md5=c8d1eda96b3ffca6c55ccb9fb21bfdde&pid=1-s2.0-S0198971523001060-main.pdf">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/7929494/7929895/07930067.pdf?casa_token=CkwTn_6Hum0AAAAA:s6A_-IHE7hzxTyEGhpQ01VNYYqw_jeEmw3rCi4jcgDE9yq5swEqH8WXJiigcVR0IJxl-hJ0t3Rxsag">Paper</a>]<br>[<a href="http://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/69/4358933/09973276.pdf?casa_token=zo4E3xIffU0AAAAA:tHqLRoRpGXmz2KRBUVjqKD5SykH6j2vjvOxobdAPGXCjnVpXMxuA6ufMzvvckfmZcZ-EdHTuwZEYcQ">Paper</a>]<br>[<a href="https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s42486-022-00095-5&casa_token=J_dIvLR1XM0AAAAA:s8Gjn1A6Va0OnmWxAfTky1g_DUypkZtGOOoL4UNNpX3IavlMQ56TNaG_EuDxJWCLqg-4BR2UtbM665DVIA">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3463495">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/4267003/4357939/09171429.pdf">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3161159">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3618108">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3366423.3380021">Paper</a>]</td>
 </tr>
 <tr>
     <td>Traffic Flow</td>
     <td>TODD</td>
     <td>MobileBJ [<a href="">Link</a>]<br>DiDi (Traffic flows) [<a href="https://outreach.didichuxing.com/research/opendata/">Link</a>]<br>TaxiBJ [<a href="https://goo.su/aQyjTAz">Link</a>]<br>BikeNYC [<a href="https://citibikenyc.com/">Link</a>]</td>
-    <td>[204]<br>[93][211][200][48]</td>
+    <td>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/3892/3770">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3340531.3412030">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/9671263/9671273/09672072.pdf">Paper</a>]<br>[<a href="https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3465058">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S0950705122013338/pdfft?md5=3671ad5212393d9fdaeb946a418ce05a&pid=1-s2.0-S0950705122013338-main.pdf">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539358">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3466687">Paper</a>]
+<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3442381.3449792">Paper</a>][<a href="https://arxiv.org/pdf/1905.10069">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/69/4358933/09864246.pdf">Paper</a>][<a href="http://dx.doi.org/10.1109/TITS.2022.3219626">Paper</a>][<a href="http://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf">Paper</a>][<a href="http://dx.doi.org/10.1609/aaai.v33i01.3301906">Paper</a>]<br>[<a href="https://doi.org/10.1609/aaai.v33i01.33011020">Paper</a>][<a href="https://arxiv.org/abs/1905.10069">Paper</a>][<a href="https://doi.org/10.1109/TKDE.2022.3200734">Paper</a>][<a href="http://dx.doi.org/10.1109/TITS.2022.3219626">Paper</a>]/td>
 </tr>
 <tr>
     <td>Logistics</td>
     <td>TODD</td>
     <td>JD Logistics in Beijing [<a href="">Link</a>]</td>
-    <td>[204]<br>[93][211][200][48]</td>
+    <td>[<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539027">Paper</a>]</td>
 </tr>
 <tr>
     <td>Road Network</td>
     <td>TODD</td>
     <td>Beijing and North America Road Network [<a href="https://www.openstreetmap.org">Link</a>]<br>Road Network (CRN) OpenStreetMap [<a href="https://www.openstreetmap.org">Link</a>]</td>
-    <td>[204]<br>[93][211][200][48]</td>
+    <td>[<a href="https://doi.org/10.1109/ICDE51399.2021.00037">Paper</a>]<br>[<a href="https://doi.org/10.1109/ICDE51399.2021.00037">Paper</a>]</td>
 </tr>
 <tr>
     <td rowspan="3">Social Network Data</td>
     <td>Text</td>
     <td>Text</td>
     <td>Twitter (check-in & geo-tagged tweets) [<a href="https://developer.twitter.com/en/docs">Link</a>]<br>Common Crawl web pages [<a href="https://registry.opendata.aws/commoncrawl/">Link</a>]<br>Yelp user reviews [<a href="https://www.yelp.com/dataset">Link</a>]<br>Weibo Xiamen Traffic Police [<a href="http://open.weibo.com/developers/">Link</a>]</td>
-    <td>[15, 213, 214, 202, 156, 173, 140]<br>[170, 165, 167, 166, 119, 107]<br>[211, 214]<br>[197]</td>
+    <td>[<a href="http://dx.doi.org/10.1109/TKDE.2022.3218851">Paper</a>][<a href="http://dx.doi.org/10.1145/2983323.2983850">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.14778/3007263.3007305">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3018661.3018680">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/2948649.2948652">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/2736277.2741675">Paper</a>][<a href="https://link.springer.com/article/10.1007/s11277-018-5495-x">Paper</a>]<br>[<a href="https://dl.acm.org/doi/abs/10.1145/3057281">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/7517494/7517753/07517782.pdf">Paper</a>][<a href="https://link.springer.com/chapter/10.1007/978-3-319-46227-1_16">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/2820783.2820829">Paper</a>][<a href="https://link.springer.com/article/10.1007/s11704-017-6464-3">Paper</a>][<a href="http://dx.doi.org/10.1109/TKDE.2020.2983892">Paper</a>]<br>[<a href="https://ieeexplore.ieee.org/iel7/69/4358933/09075417.pdf">Paper</a>]<br>[<a href="https://ieeexplore.ieee.org/iel7/69/4358933/09075417.pdf">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.14778/3007263.3007305">Paper</a>]<br>[<a href="https://link.springer.com/article/10.1007/s42486-022-00095-5">Paper</a>]</td>
 </tr>
 <tr>
     <td>Image & Video</td>
