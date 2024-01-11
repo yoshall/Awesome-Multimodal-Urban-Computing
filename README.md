@@ -297,51 +297,51 @@ Below is a list of open source datasets categorized by their type and source.
     <td>Image & Video</td>
     <td>Image & Video</td>
     <td>YFCC100M (geo-tagged photo) [<a href="https://goo.su/ia2DdU">Link</a>]<br>NUS-WIDE (geo-tagged photo) [<a href="https://goo.su/dWPQzCD">Link</a>]<br>GeoUGV (geo-tagged mobile video) [<a href="https://qualinet.github.io/databases/video/">Link</a>]</td>
-    <td>[218][194][57]<br>[194][192]<br>[110]</td>
+    <td>[<a href="https://dl.acm.org/doi/pdf/10.1145/3123266.3123336">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3474085.3475268">Paper</a>][<a href="http://dx.doi.org/10.1109/ICDE.2019.00034">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3474085.3475268">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3347146.3359067">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/2910017.2910617">Paper</a>]</td>
 </tr>
 <tr>
     <td>User' Info.</td>
     <td>User' Info.</td>
     <td>Jiepang user check-in [<a href="https://jiepang.app/">Link</a>]<br>Gowalla user location [<a href="http://konect.cc/networks/loc-gowalla_edges/">Link</a>]<br>WeChat BJ/SH user mobility [<a href="https://open.weixin.qq.com/">Link</a>]</td>
-    <td>[42]<br>[32][202]<br>[161]</td>
+    <td>[<a href="https://doi.org/10.1609/aaai.v33i01.3301906">Paper</a>]<br>[<a href="http://dx.doi.org/10.1609/aaai.v29i1.9191">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3018661.3018680">Paper</a>]<br>[<a href="http://arxiv.org/abs/2111.03465">Paper</a>]</td>
 </tr>
 <tr>
     <td rowspan="3">Demographic Data</td>
     <td>Crime</td>
     <td>Time series</td>
     <td>NYC Crime [<a href="https://opendata.cityofnewyork.us/">Link</a>]</td>
-    <td>[205]</td>
+    <td>[<a href="http://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf">Paper</a>]</td>
 </tr>
 <tr>
     <td>Land Use</td>
     <td>Time series</td>
     <td>Land Use SG [<a href="https://www.ura.gov.sg/Corporate/Planning/Master-Plan">Link</a>]<br>Land Use NYC [<a href="https://goo.su/puTuG">Link</a>]</td>
-    <td>[95]<br>[95]</td>
+    <td>[<a href="http://dx.doi.org/10.1145/3580305.3599538">Paper</a>]<br>[<a href="http://dx.doi.org/10.1145/3580305.3599538">Paper</a>]</td>
 </tr>
 <tr>
     <td>Population</td>
     <td>Time series</td>
     <td>WorldPop [<a href="https://www.worldpop.org/">Link</a>]</td>
-    <td>[177][92][8]</td>
+    <td>[<a href="http://dx.doi.org/10.1145/3485447.3512149">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557153">Paper</a>][<a href="http://dx.doi.org/10.1016/j.isprsjprs.2023.05.006">Paper</a>]</td>
 </tr>  
 <tr>
     <td rowspan="3">Environmental Data</td>
     <td>Meteorology</td>
     <td>Time series</td>
     <td>TipDM China Weather Dataset [<a href="https://www.tipdm.org/">Link</a>]<br>DarkSky weather [<a href="https://support.apple.com/en-us/102594">Link</a>]<br>WeatherNYC [<a href="https://opendata.cityofnewyork.us/">Link</a>]<br>WeatherChicago [<a href="https://data.cityofchicago.org/">Link</a>]<br>Weather Underground [<a href="https://www.wunderground.com/">Link</a>]<br>DidiSY (weather, temperature, wind speed) [<a href="https://www.didiglobal.com/">Link</a>]<br>WD BJ (weather) [<a href="https://goo.su/DmHFd">Link</a>]<br>WD_ISR & WD_USA (weather) [<a href="https://goo.su/RVhBA">Link</a>]</td>
-    <td>[106]<br>[200]<br>[159]<br>[159]<br>[196]<br>[11]<br>[113]<br>[113]</td>
+    <td>[<a href="https://doi.org/10.1016/j.ins.2022.07.118">Paper</a>]<br>[<a href="http://dx.doi.org/10.1109/ICDE51399.2021.00037">Paper</a>]<br>[<a href="http://dx.doi.org/10.1609/aaai.v35i5.16566">Paper</a>]<br>[<a href="http://dx.doi.org/10.1609/aaai.v35i5.16566">Paper</a>]<br>[<a href="http://dx.doi.org/10.1007/s42486-022-00095-5">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3357384.3358097">Paper</a>]<br>[<a href="http://arxiv.org/abs/2201.09101">Paper</a>]<br>[<a href="http://arxiv.org/abs/2201.09101">Paper</a>]</td>
 </tr>
 <tr>
     <td>Greenery</td>
     <td>Time series</td>
     <td>Google Earth (tree coverage) [<a href="https://earth.google.com/">Link</a>]</td>
-    <td>[196]</td>
+    <td>[<a href="http://dx.doi.org/10.1007/s42486-022-00095-5">Paper</a>]</td>
 </tr>
 <tr>
     <td>Air Quality</td>
     <td>Time series</td>
     <td>UrbanAir [<a href="https://goo.su/hf2NB53">Link</a>]</td>
-    <td>[223]</td>
+    <td>[<a href="http://dx.doi.org/10.1145/2783258.2788573">Paper</a>]</td>
 </tr>
 
 
