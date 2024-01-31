@@ -104,40 +104,40 @@ If you find our work useful in your research, please consider citing:
 
 ### [SUSTech Lab (Prof. Xuan Song)](https://www.sustech.edu.cn/en/faculties/songxuan.html)
   - DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level
-  [[paper](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]<br>
+  [[paper](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]<br>*In Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence, 2016*
   - Optimization of Causative Factors for Landslide Susceptibility Evaluation Using Remote Sensing and GIS Data in Parts of Niigata, Japan
-  [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133262)]<br>
+  [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133262)]<br>*In PloS One, 2015*
   - DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3057280?casa_token=RDXjxqCYCCEAAAAA:iXOtzNRcK_fO5bKzVA9GgKtIoQRho1cJSerow7khjv7Jh0c_VD5wULGeUC_EkAINn0vdvL2VuZkJ_I2h)]<br>
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3057280?casa_token=RDXjxqCYCCEAAAAA:iXOtzNRcK_fO5bKzVA9GgKtIoQRho1cJSerow7khjv7Jh0c_VD5wULGeUC_EkAINn0vdvL2VuZkJ_I2h)]<br>*In ACM Transactions on Information Systems, 2017*
   - DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330654?casa_token=1-tOoL9o8jIAAAAA:_vaxaOlhK7v-Ry480JpcKkBhhJhtkhylJ1M2cVGJwulqPYixYadUo7ZrihS3CfDFQunNfFW7hmRuZF3e)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330654?casa_token=1-tOoL9o8jIAAAAA:_vaxaOlhK7v-Ry480JpcKkBhhJhtkhylJ1M2cVGJwulqPYixYadUo7ZrihS3CfDFQunNfFW7hmRuZF3e)]<br>*In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2019*
   - DeepMob: Integrating GPS trajectory and topics from Twitter stream for human mobility estimation
-  [[paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=19960)]<br>
+  [[paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=19960)]<br>*In Frontiers of Computer Science, 2019*
 
 ### [Big Data for Urban Intelligence Lab (Prof. Senzhang Wang - CSU)](https://faculty.csu.edu.cn/wangsenzhang/en/index.htm) 
   - Citywide traffic congestion estimation with social media
-  [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820829)]<br>
+  [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820829)]<br>*In Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2015*
   - Estimating Urban Traffic Congestions with Multi-sourced Data
-  [[paper](https://ieeexplore.ieee.org/abstract/document/7517782?casa_token=H4WsNdho-kgAAAAA:W6-cfFsKIaaZaFl2ZTMmQHwF_nIGlf8w6CLCmq2LPXCDWD8d1NucR_hFmKrYqbYWbgZTya22KmMXyxU)]<br>
+  [[paper](https://ieeexplore.ieee.org/abstract/document/7517782?casa_token=H4WsNdho-kgAAAAA:W6-cfFsKIaaZaFl2ZTMmQHwF_nIGlf8w6CLCmq2LPXCDWD8d1NucR_hFmKrYqbYWbgZTya22KmMXyxU)]<br>*In Proceedings of the 17th IEEE International Conference on Mobile Data Management, 2016*
   - Enhancing Traffic Congestion Estimation with Social Media by Coupled Hidden Markov Model
-  [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46227-1_16)]<br>
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46227-1_16)]<br>*In Proceedings of the European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2016*
   - Computing urban traffic congestions by incorporating sparse GPS probe data and social media data
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3057281)]<br>
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3057281)]<br>*In ACM Transactions on Information Systems, 2017*
   - Forecasting Citywide Traffic Congestion Based on Social Media
-  [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]<br>
+  [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]<br>*In Wireless Personal Communications, 2018*
   - Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks
-  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br>
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br*IEEE Transactions on Knowledge and Data Engineering, 2021*
 
 
 ### [CityMind Lab (Prof. Yuxuan Liang - USTGZ)](https://yuxuanliang.com/)
   - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]<br>*In Proceedings of the 30th ACM International Conference on Multimedia, 2022*
   - Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]<br>*In Proceedings of the 29th ACM International Conference on Multimedia, 2021*
 
 ### [Data Intelligence Lab (Prof. Chao Huang - HKU)](https://sites.google.com/view/chaoh)
   - Exploiting spatial-temporal-social constraints for localness inference using online social media
-  [[paper](https://ieeexplore.ieee.org/abstract/document/7752247)]<br>
+  [[paper](https://ieeexplore.ieee.org/abstract/document/7752247)]<br>*In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2016*
 
 ### [ASC Lab (Prof. Xiaoliang Fan - XMU)](https://fanxlxmu.github.io/)
   - PANDA: predicting road risks after natural disasters leveraging heterogeneous urban data
