@@ -234,7 +234,7 @@ If you find our work useful in your research, please consider citing:
 |                                                  | ST-ResNet \cite{zhang2018predicting}       | Transportation | Microsoft      | 2018 |
 |                                                  | ST-MetaNet+ \cite{pan2020spatio}           | Transportation | JD Research    | 2020 |
 |                                                  | DeepCrime \cite{huang2018deepcrime}        | Social         | JD Research    | 2021 |
-|                                                  | STUKG \cite{wang2021spatio}                | Transportation | THU            | 2021 |
+|                                                  | Spatio-temporal urban knowledge graph enabled mobility prediction               | Transportation | THU            | 2021 |
 |                                                  | DeepSTN+ \cite{lin2019deepstn+}            | Transportation | THU            | 2019 |
 |                                                  | DeepTP \cite{yuan2021effective}            | Transportation | THU            | 2021 |
 |                                                  | \citet{guo2019rod}                         | Transportation | BUAA           | 2019 |
