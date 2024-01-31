@@ -300,67 +300,67 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0198971523001060">\citet{Comprehensive urban space representation with varying numbers of street-level images}</a></td>
+        <td>Huang et al. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0198971523001060">\citet{Comprehensive urban space representation with varying numbers of street-level images}</a></td>
         <td>Urban planning</td>
         <td>PKU</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td><a href="citation_link">\citet{liang2021fine-grained}</a></td>
+        <td>Liang et al. <a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449792">\citet{Fine-Grained Urban Flow Prediction}</a></td>
         <td>Transportation</td>
         <td>NUS</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="citation_link">\citet{balsebreGeospatialEntityResolution2022}</a></td>
+        <td>Balsebre et al. <a href="https://dl.acm.org/doi/abs/10.1145/3485447.3512026?casa_token=TcjgmEYZsLwAAAAA:IJw5q3FT8czLrqBcABIX_hyftUKBQi5VLX-BR933ERmvG_igo-K3HTubFn_CHMkBTn-L7Po0gIzFW_s">\citet{Geospatial Entity Resolution}</a></td>
         <td>Urban Planning</td>
         <td>NTU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td><a href="citation_link">\citet{ruan2022service}</a></td>
+        <td>Ruan et al. <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539027?casa_token=l12aHjEUcmYAAAAA:-YFMXUW7HizB9W3ZVPQT68AIwVMU0b7Ub1atgQSCwu-hANKaIjgNyF9zmCLSMj_OJKeUpC7kYKRCGS4">\citet{Service Time Prediction for Delivery Tasks via Spatial Meta-Learning}</a></td>
         <td>Transportation</td>
         <td>NTU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td><a href="citation_link">\citet{liu2023characterizing}</a></td>
+        <td>Liu et al. <a href="https://dl.acm.org/doi/full/10.1145/3568683?casa_token=sx9zdRtM96gAAAAA%3AAT6yrSzEHY5zOdfppjBT-DGasK1oTtFjp6YG9YvR65g6gsvftPoNZwIomxEDLJFXQugNJZzaF2kMSsQ">\citet{Characterizing and Forecasting Urban Vibrancy Evolution: {{A}} Multi-View Graph Mining Perspective}</a></td>
         <td>Economy</td>
         <td>HKUST(GZ)</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>PANDA <a href="your_citation_link">[you2022panda]</a></td>
+        <td>PANDA <a href="https://link.springer.com/article/10.1007/s42486-022-00095-5">[PANDA: predicting road risks after natural disasters leveraging heterogeneous urban data]</a></td>
         <td>Public Safety</td>
         <td>XMU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>UVLens <a href="your_citation_link">[chenUVLensUrbanVillage2021]</a></td>
+        <td>UVLens <a href="https://dl.acm.org/doi/abs/10.1145/3463495?casa_token=FXS3CKSYEOYAAAAA:9zyC-QJQ1cltV5WC_s1SVbwQdxtXX9TbyFf5-cIXlPkhD4fU78GpQgDj7VEpZhg19vQ0jzjQKmfatxc">[Urban Village Boundary Identification and Population Estimation Leveraging Open Government Data]</a></td>
         <td>Urban Planning</td>
         <td>XMU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{miyazawa2019integrating}</a></td>
+        <td><a href="https://link.springer.com/article/10.1007/s11704-017-6464-3">\citet{Integrating GPS trajectory and topics from Twitter stream for human mobility estimation}</a></td>
         <td>Transportation</td>
         <td>SUSTech</td>
         <td>2019</td>
     </tr>
     <tr>
-        <td>NodeSense2Vec <a href="your_citation_link">[chandraNodeSense2VecSpatiotemporalContextaware2021]</a></td>
+        <td>NodeSense2Vec <a href="https://ieeexplore.ieee.org/abstract/document/9672072?casa_token=yCr8VJMcxgIAAAAA:MF5hGc70fexPrvJVq4v_U-ltFbAx_oqbmbtWUMRoH-GAz82rLnmjrCx8hIYKGM6AGQTaTdFZ1JTB_A">[Spatiotemporal Context-Aware Network Embedding for Heterogeneous Urban Mobility Data]</a></td>
         <td>Social</td>
         <td>UCF</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{keerthi2020collective}</a></td>
+        <td>Liu et al. <a href="https://dl.acm.org/doi/full/10.1145/3568683?casa_token=ZEtTxOhR8awAAAAA%3A_Xr6B-JkoEKDnY6rx-ykQ8IFTaSWG9xJNekc4edC6vjO4n8mlBH88BnpzWieRQtrM_WACQJxCkw2Fac">\citet{Characterizing and Forecasting Urban Vibrancy Evolution: A Multi-View Graph Mining Perspective}</a></td>
         <td>Urban Planning</td>
         <td>UCF</td>
         <td>2020</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{fu2019efficient}</a></td>
+        <td>Fu et al. <a href="Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations">\citet{Efficient region embedding with multi-view spatial networks: A perspective of locality-constrained spatial autocorrelations}</a></td>
         <td>General</td>
         <td>UCF</td>
         <td>2019</td>
