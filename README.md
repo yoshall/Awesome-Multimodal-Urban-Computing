@@ -498,14 +498,6 @@ If you find our work useful in your research, please consider citing:
         <td>SWJTU</td>
         <td>2023</td>
     </tr>
-
-    <tr>
-        <td rowspan="8">**_Contrast Based Data Fusion_**</td>
-        <td>KnowCL <a href="citation_link">[liu2023knowledge]</a></td>
-        <td>Economy</td>
-        <td>THU</td>
-        <td>2023</td>
-    </tr>
     <tr>
         <td rowspan="8"><strong><em>Contrast Based Data Fusion</em></strong></td>
         <td>KnowCL <a href="your_citation_link">[liu2023knowledge]</a></td>
