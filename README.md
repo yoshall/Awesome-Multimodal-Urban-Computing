@@ -440,7 +440,6 @@ If you find our work useful in your research, please consider citing:
         <td>THU</td>
         <td>2023</td>
     </tr>
-    <!-- Repeat for other rows in this category -->
 
     <tr>
         <td rowspan="9"><strong><em>Generation Based Data Fusion</em></strong></td>
