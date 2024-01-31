@@ -246,25 +246,25 @@ If you find our work useful in your research, please consider citing:
         <td>2016</td>
     </tr>
     <tr>
-        <td>ST-ResNet <a href="citation_link">[zhang2018predicting]</a></td>
+        <td>ST-ResNet <a href="https://www.sciencedirect.com/science/article/pii/S0004370218300973">[Predicting citywide crowd flows using deep spatio-temporal residual networks]</a></td>
         <td>Transportation</td>
         <td>Microsoft</td>
         <td>2018</td>
     </tr>
     <tr>
-        <td>ST-MetaNet+ <a href="citation_link">[pan2020spatio]</a></td>
+        <td>ST-MetaNet+ <a href="https://ieeexplore.ieee.org/abstract/document/9096591?casa_token=ijqIbcMRQVwAAAAA:Gt8bwXyrEaiJgqpRHBRVWQfsmWPhzQXbYHVTmUbM2jTqwVKv7t9c9SSjqx7lIO_szB2Fsv6ZYBCZbw">[Spatio-temporal meta learning for urban traffic prediction]</a></td>
         <td>Transportation</td>
         <td>JD Research</td>
         <td>2020</td>
     </tr>
     <tr>
-        <td>DeepCrime <a href="citation_link">[huang2018deepcrime]</a></td>
+        <td>DeepCrime <a href="https://dl.acm.org/doi/abs/10.1145/3269206.3271793">[DeepCrime: Attentive hierarchical recurrent networks for crime prediction]</a></td>
         <td>Social</td>
         <td>JD Research</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td>Spatio-temporal urban knowledge graph enabled mobility prediction</td>
+        <td>STUKG <a href="[https://dl.acm.org/doi/abs/10.1145/3269206.3271793](https://dl.acm.org/doi/abs/10.1145/3494993?casa_token=Ec8UzKCeygsAAAAA:MDByKbtaJ7Et2zOQc6DH4e2QplTsuEyFXUmGZMXIrhpJxXZvucWRptgvQG7CxYYDeZyssM7XIpJVqqE)">[Spatio-temporal urban knowledge graph enabled mobility prediction]</a></td>
         <td>Transportation</td>
         <td>THU</td>
         <td>2021</td>
