@@ -240,7 +240,7 @@ If you find our work useful in your research, please consider citing:
     </tr>
     <tr>
         <td rowspan="30"><strong><em>Feature Based Data Fusion</em></strong></td>
-        <td>DeepST <a href="citation_link">[zhang2016dnn]</a></td>
+        <td>DeepST <a href="https://dl.acm.org/doi/abs/10.1145/2996913.2997016?casa_token=_Jllet6u2ycAAAAA:Vy0yBHwpqaUzveBMWJRl3x6EXqRfkM1SQ6OqDqUEsN4WCeyVR2wGNYPuDuXhXngE_HYlj_WugEgfyDk">[DNN-based prediction model for spatio-temporal data]</a></td>
         <td>Transportation</td>
         <td>Microsoft</td>
         <td>2016</td>
