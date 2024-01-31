@@ -345,8 +345,39 @@ If you find our work useful in your research, please consider citing:
         <td>Transportation</
 
 
-</table>
+    <tr>
+        <td rowspan="7">**_Alignment Based Data Fusion_**</td>
+        <td>\citet{xiFirstLawGeography2022b}</td>
+        <td>General</td>
+        <td>THU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>\citet{zhangMultiviewJointGraph2021a}</td>
+        <td>General</td>
+        <td>THU</td>
+        <td>2021</td>
+    </tr>
+    <!-- Continue for other rows in this category -->
 
+    <tr>
+        <td rowspan="8">**_Contrast Based Data Fusion_**</td>
+        <td>KnowCL \cite{liu2023knowledge}</td>
+        <td>Economy</td>
+        <td>THU</td>
+        <td>2023</td>
+    </tr>
+    <!-- Continue for other rows in this category -->
+
+    <tr>
+        <td rowspan="9">**_Generation Based Data Fusion_**</td>
+        <td>SG-GAN \cite{zhang2020enhanced}</td>
+        <td>Urban Planning</td>
+        <td>NUS</td>
+        <td>2020</td>
+    </tr>
+    <!-- Continue for other rows in this category -->
+</table>
 
 ## Related works
 
