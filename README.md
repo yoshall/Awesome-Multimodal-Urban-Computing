@@ -270,37 +270,37 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>DeepSTN+ <a href="citation_link">[lin2019deepstn+]</a></td>
+        <td>DeepSTN+ <a href="https://ojs.aaai.org/index.php/AAAI/article/view/3892">[Deepstn+: Context-aware spatial-temporal neural network for crowd flow prediction in metropolis]</a></td>
         <td>Transportation</td>
         <td>THU</td>
         <td>2019</td>
     </tr>
     <tr>
-        <td>DeepTP <a href="citation_link">[yuan2021effective]</a></td>
+        <td>DeepTP <a href="https://ieeexplore.ieee.org/abstract/document/9458698?casa_token=5ncUMsqZWyUAAAAA:JjxJwWcT6YcBkrJaXzvLmTplU69stDA6BYxp-ptvIiRenNq3nSg3G7xYKuLSzLs0Gl5h7gi_mG9FvA">[An effective joint prediction model for travel demands and traffic flows]</a></td>
         <td>Transportation</td>
         <td>THU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="citation_link">\citet{guo2019rod}</a></td>
+        <td>Rod revenue<a href="https://ieeexplore.ieee.org/abstract/document/8733999?casa_token=1jir5pSYyG0AAAAA:HRF2TP71TjcegnudXQwIaG2XaPKJ8gc4hMjU4G4OIHH-_pWKh9nfFFWc-97gmQ9tbh90HwcqcQiQ0A">\citet{Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data}</a></td>
         <td>Transportation</td>
         <td>BUAA</td>
         <td>2019</td>
     </tr>
     <tr>
-        <td>Photo2Trip <a href="citation_link">[zhao2017photo2trip]</a></td>
+        <td>Photo2Trip <a href="https://dl.acm.org/doi/abs/10.1145/3123266.3123336?casa_token=UtTlSNFAsj8AAAAA:RuSzJLjD2ZVOEMdfgSbEquuvvIuDPgQDnsr_ZLk6tMTacGuE65XlxxIrc8r20QJ6i6ZSUOVYsKnDpss">[Photo2Trip: Exploiting visual contents in geo-tagged photos for personalized tour recommendation]</a></td>
         <td>Transportation</td>
         <td>USTC/RU</td>
         <td>2017</td>
     </tr>
     <tr>
-        <td>ST-SHN <a href="citation_link">[xia2021spatial]</a></td>
+        <td>ST-SHN <a href="https://arxiv.org/abs/2201.02435">[Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning]</a></td>
         <td>Public Safety</td>
         <td>SCUT/HKU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="citation_link">\citet{huang2023comprehensive}</a></td>
+        <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0198971523001060">\citet{Comprehensive urban space representation with varying numbers of street-level images}</a></td>
         <td>Urban planning</td>
         <td>PKU</td>
         <td>2023</td>
