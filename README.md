@@ -312,7 +312,7 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>Balsebre et al. <a href="https://dl.acm.org/doi/abs/10.1145/3485447.3512026?casa_token=TcjgmEYZsLwAAAAA:IJw5q3FT8czLrqBcABIX_hyftUKBQi5VLX-BR933ERmvG_igo-K3HTubFn_CHMkBTn-L7Po0gIzFW_s">\citet{Geospatial Entity Resolution}</a></td>
+        <td>Balsebre et al. <a href="https://dl.acm.org/doi/abs/10.1145/3485447.3512026?casa_token=TcjgmEYZsLwAAAAA:IJw5q3FT8czLrqBcABIX_hyftUKBQi5VLX-BR933ERmvG_igo-K3HTubFn_CHMkBTn-L7Po0gIzFW_s">[Geospatial Entity Resolution]</a></td>
         <td>Urban Planning</td>
         <td>NTU</td>
         <td>2022</td>
