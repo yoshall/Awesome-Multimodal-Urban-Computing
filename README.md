@@ -211,7 +211,7 @@ If you find our work useful in your research, please consider citing:
   - Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting
   [[paper](https://www.mdpi.com/2071-1050/14/19/12397/pdf)]
 
-### Li Zhenhui group (Penn State University)
+### [PSU Group (Prof. Zhenhui Li)](https://faculty.ist.psu.edu/jessieli/Site/index.html)
   - Unsupervised Representation Learning of Spatial Data via Multimodal Embedding
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]
   - Deep multi-view spatial-temporal network for taxi demand prediction
