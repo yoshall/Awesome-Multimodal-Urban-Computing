@@ -419,6 +419,36 @@ If you find our work useful in your research, please consider citing:
         <td>HKUST</td>
         <td>2019</td>
     </tr>
+    <tr>
+        <td rowspan="8">**_Alignment Based Data Fusion_**</td>
+        <td><a href="citation_link">[xiFirstLawGeography2022b]</a></td>
+        <td>General</td>
+        <td>THU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td><a href="citation_link">[zhangMultiviewJointGraph2021a]</a></td>
+        <td>General</td>
+        <td>THU</td>
+        <td>2021</td>
+    </tr>
+
+    <tr>
+        <td rowspan="8">**_Contrast Based Data Fusion_**</td>
+        <td>KnowCL <a href="citation_link">[liu2023knowledge]</a></td>
+        <td>Economy</td>
+        <td>THU</td>
+        <td>2023</td>
+    </tr>
+    <!-- Repeat for other rows in this category -->
+
+    <tr>
+        <td rowspan="9"><strong><em>Generation Based Data Fusion</em></strong></td>
+        <td>SG-GAN <a href="citation_link">[zhang2020enhanced]</a></td>
+        <td>Urban Planning</td>
+        <td>NUS</td>
+        <td>2020</td>
+    </tr>
 </table>
 
 
