@@ -60,21 +60,21 @@ If you find our work useful in your research, please consider citing:
 
 ### [Database Research Group (Prof. Guoliang Li - THU)](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458698&casa_token=MaWtkqMEWUUAAAAA:fzmHqfiVsKMVPPYfRV1f9wdyr1jKdVpLlPIphl7Z6ioXE0tvFv_-CIjif62LnBrCZpaDwuBwhIjIeM8&tag=1)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458698&casa_token=MaWtkqMEWUUAAAAA:fzmHqfiVsKMVPPYfRV1f9wdyr1jKdVpLlPIphl7Z6ioXE0tvFv_-CIjif62LnBrCZpaDwuBwhIjIeM8&tag=1)]<br> *In Proceedings of the IEEE 37th International Conference on Data Engineering, 2021*
 
 ### [BIGSCity Lab (Prof. Jingyuan Wang - BUAA)](https://www.bigscity.com/jingyuan-wang/)
   - A force-directed approach to seeking route recommendation in ride-on-demand service using multi-source urban data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9238459&casa_token=KDIHSyCbjKgAAAAA:HqI7iwTEB5YqDECOkfZ1DidS2sx2iq6uM48TXRlzX3WyL8QqyWf2z0tAhtFkDEfLoWXln-OEwJ6Q4C8&tag=1)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9238459&casa_token=KDIHSyCbjKgAAAAA:HqI7iwTEB5YqDECOkfZ1DidS2sx2iq6uM48TXRlzX3WyL8QqyWf2z0tAhtFkDEfLoWXln-OEwJ6Q4C8&tag=1)]<br>*In IEEE Transactions on Mobile Computing, 2020*
   - Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8733999&casa_token=lhJGs3710j8AAAAA:VhS8TO4oyI1uU-Fe-TNbogjxVoHmXHAAJX15ciwL0w5nHIMlcJl-WbsQAJpgD2soweuEpA5l_OUROSc)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8733999&casa_token=lhJGs3710j8AAAAA:VhS8TO4oyI1uU-Fe-TNbogjxVoHmXHAAJX15ciwL0w5nHIMlcJl-WbsQAJpgD2soweuEpA5l_OUROSc)]<br>*In IEEE Transactions on Mobile Computing, 2019*
 
 ### [BJTU Lab (Prof. Huaiyu Wan)](https://faculty.bjtu.edu.cn/8793/)
   - GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16566)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16566)] <br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2021*
 
 ### [BUCT Lab (Prof. Danhuai Guo)](https://www.researchgate.net/lab/Danhuai-Guo-Lab)
-  - Inferring region significance by using multi-source spatial data
-  [[paper](https://link.springer.com/article/10.1007/s00521-019-04070-7)]
+  - Inferring region significance by using multi-source spatial data 
+  [[paper](https://link.springer.com/article/10.1007/s00521-019-04070-7)]<br>*In Neural Computing and Applications, 2020*
 
 ### [SDU Lab (Prof. Meng Chen)](https://faculty.sdu.edu.cn/chenmeng2/en/index/815589/list/index.htm)
   - Pre-Trained Semantic Embeddings for POI Categories Based on Multiple Contexts
