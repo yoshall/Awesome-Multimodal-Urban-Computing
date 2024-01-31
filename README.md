@@ -239,7 +239,7 @@ If you find our work useful in your research, please consider citing:
         <th>Year</th>
     </tr>
     <tr>
-        <td rowspan="20"><strong><em>Feature Based Data Fusion</em></strong></td>
+        <td rowspan="30"><strong><em>Feature Based Data Fusion</em></strong></td>
         <td>DeepST <a href="citation_link">[zhang2016dnn]</a></td>
         <td>Transportation</td>
         <td>Microsoft</td>
