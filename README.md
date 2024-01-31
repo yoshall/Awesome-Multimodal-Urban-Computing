@@ -187,7 +187,7 @@ If you find our work useful in your research, please consider citing:
   - Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data
   [[paper](https://arxiv.org/pdf/2206.02353)]
 
-### Huang Jizhou group (Baidu Map)
+### [Baidu Intelligent Driving Group (IDG) (Dr. Jizhou Huang - Baidu Map)](https://huangjizhou.github.io/)
   - DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]
   - ERNIE-GeoL: A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps
@@ -197,7 +197,7 @@ If you find our work useful in your research, please consider citing:
   - A Contextual Master-Slave Framework on Urban Region Graph for Urban Village Detection
   [[paper](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf)]
 
-### Bai Lei group (Shanghai AI Lab)
+### [Shanghai AI Lab (Dr. Lei Bai)](http://leibai.site/)
   - Jointly Contrastive Representation Learning on Road Network and Trajectory
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]
   - Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction
@@ -205,7 +205,7 @@ If you find our work useful in your research, please consider citing:
   - STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
   [[paper](https://arxiv.org/pdf/1905.10069)]
 
-### Ye Jieping group (Alibaba DAMO)
+### [Alibaba Group (Dr. Jieping Ye)](http://www.yelabs.net/)
   - Joint predictions of multi-modal ride-hailing demands: A deep multi-task multi-graph learning-based approach
   [[paper](https://arxiv.org/pdf/2011.05602)]
   - Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting
