@@ -47,7 +47,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)] 
   - Spatio-Temporal Urban Knowledge Graph Enabled Mobility Prediction
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3494993)]
-  - Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
+  - Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483987?casa_token=r4GTEmlgSw0AAAAA:xf6jN-fH70AW65lWF7JL82CvYxYshvS1b9-rQe9Sww8UI0j5nrI9ScjB2euIdP9Zt_2FRpczvpoi6lVC)]
   - Predicting multi-level socioeconomic indicators from structural urban imagery
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)]
