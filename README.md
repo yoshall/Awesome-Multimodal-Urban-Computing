@@ -229,7 +229,7 @@ If you find our work useful in your research, please consider citing:
 
 ## Data Fusion Methods
 
-## Data Fusion Methods
+
 <table>
     <tr>
         <th>Category</th>
@@ -328,6 +328,7 @@ If you find our work useful in your research, please consider citing:
         <td>Economy</td>
         <td>HKUST(GZ)</td>
         <td>2023</td>
+    </tr>
     <tr>
         <td>PANDA <a href="your_citation_link">[you2022panda]</a></td>
         <td>Public Safety</td>
