@@ -78,29 +78,29 @@ If you find our work useful in your research, please consider citing:
 
 ### [SDU Lab (Prof. Meng Chen)](https://faculty.sdu.edu.cn/chenmeng2/en/index/815589/list/index.htm)
   - Pre-Trained Semantic Embeddings for POI Categories Based on Multiple Contexts
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]<br>
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2022*
 
 ### [UESTC Lab (Prof. Kai Zheng)](https://zheng-kai.com/)
   - Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]<br>*In Proceedings of the 25th ACM International Conference on Multimedia, 2017*
 
 ### [CPS-DSC Lab(Prof. Chao Chen - CQU)](http://cps.cqu.edu.cn/info/1006/1647.htm)
   - TripPlanner: Personalized Trip Planning Leveraging Heterogeneous Crowdsourced Digital Footprints
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6951432&casa_token=RHnlU4MWS-AAAAAA:LQ9gSNTx_KByl4JRJeHbhRZKbbZF4vSeQNESLSX6TS8ErIe4qL7DhoEbD249JdzLG46vUmipzKbv7EU)]<br>
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6951432&casa_token=RHnlU4MWS-AAAAAA:LQ9gSNTx_KByl4JRJeHbhRZKbbZF4vSeQNESLSX6TS8ErIe4qL7DhoEbD249JdzLG46vUmipzKbv7EU)]<br>*In IEEE Transactions on Intelligent Transportation Systems, 2014*
 
 ### [Cloud Computing and Intelligent Techniques Lab (Prof. Tianrui Li - SWJTU)](https://faculty.swjtu.edu.cn/litianrui/en/index/33185/list/index.htm)
   - Forecasting Fine-Grained Air Quality Based on Big Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]<br>*In Proceedings of the 21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2015*
   - Urban Sensing Based on Human Mobility
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>*In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2016*
   - Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>*In Information Fusion, 2023*
   - Symbolic aggregate approximation based data fusion model for dangerous driving behavior detection
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008076)]<br>
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008076)]<br>*In Information Sciences, 2022*
   - Contextual spatio-temporal graph representation learning for reinforced human mobility mining
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819)]<br>
-  - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]<br>
-  - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]<br>
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819)]<br>*In Information Sciences, 2022*
+  - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]<br>*In Information Sciences, 2023*
+  - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]<br>*In Knowledge-Based Systems, 2023*
 
 ### [SUSTech Lab (Prof. Xuan Song)](https://www.sustech.edu.cn/en/faculties/songxuan.html)
   - DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level
