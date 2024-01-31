@@ -228,68 +228,122 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2206.00007)]
 
 ## Data Fusion Methods
-| Category                                         | Method                                     | Application    | Institution    | Year |
-| ------------------------------------------------ | ------------------------------------------ | -------------- | -------------- | ---- |
-| **_Feature Based Data Fusion_**                  | DeepST \cite{zhang2016dnn}                 | Transportation | Microsoft      | 2016 |
-|                                                  | ST-ResNet \cite{zhang2018predicting}       | Transportation | Microsoft      | 2018 |
-|                                                  | ST-MetaNet+ \cite{pan2020spatio}           | Transportation | JD Research    | 2020 |
-|                                                  | DeepCrime \cite{huang2018deepcrime}        | Social         | JD Research    | 2021 |
-|                                                  | Spatio-temporal urban knowledge graph enabled mobility prediction               | Transportation | THU            | 2021 |
-|                                                  | DeepSTN+ \cite{lin2019deepstn+}            | Transportation | THU            | 2019 |
-|                                                  | DeepTP \cite{yuan2021effective}            | Transportation | THU            | 2021 |
-|                                                  | \citet{guo2019rod}                         | Transportation | BUAA           | 2019 |
-|                                                  | Photo2Trip \cite{zhao2017photo2trip}       | Transportation | USTC/RU        | 2017 |
-|                                                  | ST-SHN \cite{xia2021spatial}               | Public Safety  | SCUT/HKU       | 2021 |
-|                                                  | \citet{huang2023comprehensive}             | Urban planning | PKU            | 2023 |
-|                                                  | \citet{liang2021fine-grained}              | Transportation | NUS            | 2021 |
-|                                                  | \citet{balsebreGeospatialEntityResolution2022} | Urban Planning  | NTU            | 2022 |
-|                                                  | \citet{ruan2022service}                    | Transportation | NTU            | 2022 |
-|                                                  | \citet{liu2023characterizing}              | Economy        | HKUST(GZ)      | 2023 |
-|                                                  | PANDA \cite{you2022panda}                  | Public Safety  | XMU            | 2022 |
-|                                                  | UVLens \cite{chenUVLensUrbanVillage2021}   | Urban Planning | XMU            | 2021 |
-|                                                  | \citet{miyazawa2019integrating}            | Transportation | SUSTech        | 2019 |
-|                                                  | NodeSense2Vec \cite{chandraNodeSense2VecSpatiotemporalContextaware2021} | Social         | UCF            | 2021 |
-|                                                  | \citet{keerthi2020collective}              | Urban Planning | UCF            | 2020 |
-|                                                  | \citet{fu2019efficient}                    | General        | UCF            | 2019 |
-|                                                  | \citet{liu2020spatiotemporal}              | Social         | Gatech         | 2022 |
-|                                                  | \citet{yuan2021effective}                  | Transportation | RMIT           | 2021 |
-|                                                  | \citet{bai2019spatio}                      | Transportation | Shanghai AI Lab| 2019 |
-|                                                  | \citet{ke2021joint}                        | Transportation | Alibaba        | 2021 |
-|                                                  | \citet{gengMultimodalGraphInteraction2019} | Transportation | Alibaba        | 2019 |
-|                                                  | \citet{yao2018deep}                        | Transportation | PSU            | 2018 |
-|                                                  | \citet{gao2022contextual}                  | Transportation | SWJTU          | 2022 |
-|                                                  | DeepMob \cite{songDeepMobLearningDeep2017} | Public Safety  | SUSTech        | 2017 |
-|                                                  | \citet{geng2019spatiotemporal}             | Transportation | HKUST          | 2019 |
-| **_Alignment Based Data Fusion_**                | \citet{xiFirstLawGeography2022b}           | General        | THU            | 2022 |
-|                                                  | \citet{zhangMultiviewJointGraph2021a}      | General        | THU            | 2021 |
-|                                                  | \citet{yuan2021effective}                  | Transportation | THU            | 2021 |
-|                                                  | \citet{yinMultitaskLearningFramework2020a} | Urban Planning | NUS            | 2020 |
-|                                                  | GSNet \cite{wang2021gsnet}                 | Public Safety  | BJTU           | 2021 |
-|                                                  | \citet{hashem2023urban}                    | General        | NTU            | 2023 |
-|                                                  | TrajGAT \cite{yao2022trajgat}              | Transportation | NTU            | 2022 |
-|                                                  | RADAR \cite{chen2018radar}                 | General        | XMU            | 2018 |
-|                                                  | \citet{wang2021traffic}                    | General        | CSU            | 2021 |
-|                                                  | \citet{tedjopurnomo2021similar}            | Transportation | RMIT           | 2021 |
-|                                                  | ERNIE-GeoL \cite{huang2022ernie}           | General        | Baidu          | 2022 |
-|                                                  | SAInf \cite{ma2023sainf}                   | Transportation | JD Research    | 2023 |
-|                                                  | \citet{gao2023dual}                        | Transportation | SWJTU          | 2023 |
-| **_Contrast Based Data Fusion_**                 | KnowCL \cite{liu2023knowledge}             | Economy        | THU            | 2023 |
-|                                                  | \citet{li2022predicting}                   | Economy        | THU            | 2022 |
-|                                                  | MMGR \cite{bai2023geographic}              | General        | NTU            | 2023 |
-|                                                  | ReMVC \cite{zhangRegionEmbeddingIntra2023} | Urban Planning | NTU            | 2022 |
-|                                                  | HMTRL \cite{liu2023unified}                | Transportation | UCF            | 2023 |
-|                                                  | \citet{mao2022jointly}                     | Transportation | Shanghai AI Lab| 2022 |
-|                                                  | UrbanSTC \cite{qu2022forecasting}          | Transportation | JD Research    | 2022 |
-|                                                  | UrbanCLIP \cite{yan2023urban}              | General        | HKUST(GZ)      | 2023 |
-| **_Generation Based Data Fusion_**               | SG-GAN \cite{zhang2020enhanced}            | Urban Planning | NUS            | 2020 |
-|                                                  | ActSTD \cite{yuan2022activity}             | Transportation | THU            | 2022 |
-|                                                  | DiffSTG \cite{wen2023diffstg}              | General        | BJTU           | 2023 |
-|                                                  | CP-Route \cite{wen2023modeling}            | Transportation | BJTU           | 2023 |
-|                                                  | G2PTL \cite{wu2023g2ptl}                   | Transportation | Cainiao        | 2023 |
-|                                                  | DiffUFlow \cite{zheng2023diffuflow}        | Transportation | CSU            | 2023 |
-|                                                  | DP-TFI \cite{xu2023diffusion}              | Transportation | UEST           | 2023 |
-|                                                  | \citet{wang2021deep}                       | Urban Planning | UCF            | 2021 |
-|                                                  | MGEO \cite{ding2023mgeo}                   | General        | Alibaba        | 2023 |
+
+<table>
+    <tr>
+        <th>Category</th>
+        <th>Method</th>
+        <th>Application</th>
+        <th>Institution</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td rowspan="20">**_Feature Based Data Fusion_**</td>
+        <td>DeepST \cite{zhang2016dnn}</td>
+        <td>Transportation</td>
+        <td>Microsoft</td>
+        <td>2016</td>
+    </tr>
+    <tr>
+        <td>ST-ResNet \cite{zhang2018predicting}</td>
+        <td>Transportation</td>
+        <td>Microsoft</td>
+        <td>2018</td>
+    </tr>
+    <tr>
+        <td>ST-MetaNet+ \cite{pan2020spatio}</td>
+        <td>Transportation</td>
+        <td>JD Research</td>
+        <td>2020</td>
+    </tr>
+    <tr>
+        <td>DeepCrime \cite{huang2018deepcrime}</td>
+        <td>Social</td>
+        <td>JD Research</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>Spatio-temporal urban knowledge graph enabled mobility prediction</td>
+        <td>Transportation</td>
+        <td>THU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>DeepSTN+ \cite{lin2019deepstn+}</td>
+        <td>Transportation</td>
+        <td>THU</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>DeepTP \cite{yuan2021effective}</td>
+        <td>Transportation</td>
+        <td>THU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>\citet{guo2019rod}</td>
+        <td>Transportation</td>
+        <td>BUAA</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>Photo2Trip \cite{zhao2017photo2trip}</td>
+        <td>Transportation</td>
+        <td>USTC/RU</td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>ST-SHN \cite{xia2021spatial}</td>
+        <td>Public Safety</td>
+        <td>SCUT/HKU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>\citet{huang2023comprehensive}</td>
+        <td>Urban planning</td>
+        <td>PKU</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>\citet{liang2021fine-grained}</td>
+        <td>Transportation</td>
+        <td>NUS</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>\citet{balsebreGeospatialEntityResolution2022}</td>
+        <td>Urban Planning</td>
+        <td>NTU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>\citet{ruan2022service}</td>
+        <td>Transportation</td>
+        <td>NTU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>\citet{liu2023characterizing}</td>
+        <td>Economy</td>
+        <td>HKUST(GZ)</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>PANDA \cite{you2022panda}</td>
+        <td>Public Safety</td>
+        <td>XMU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>UVLens \cite{chenUVLensUrbanVillage2021}</td>
+        <td>Urban Planning</td>
+        <td>XMU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>\citet{miyazawa2019integrating}</td>
+        <td>Transportation</
+
 
 
 ## Related works
