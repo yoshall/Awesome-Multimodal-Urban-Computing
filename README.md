@@ -420,17 +420,83 @@ If you find our work useful in your research, please consider citing:
         <td>2019</td>
     </tr>
     <tr>
-        <td rowspan="8">**_Alignment Based Data Fusion_**</td>
-        <td><a href="citation_link">[xiFirstLawGeography2022b]</a></td>
+        <td rowspan="13"><strong><em>Alignment Based Data Fusion</em></strong></td>
+        <td><a href="your_citation_link">\citet{xiFirstLawGeography2022b}</a></td>
         <td>General</td>
         <td>THU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td><a href="citation_link">[zhangMultiviewJointGraph2021a]</a></td>
+        <td><a href="your_citation_link">\citet{zhangMultiviewJointGraph2021a}</a></td>
         <td>General</td>
         <td>THU</td>
         <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{yuan2021effective}</a></td>
+        <td>Transportation</td>
+        <td>THU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{yinMultitaskLearningFramework2020a}</a></td>
+        <td>Urban Planning</td>
+        <td>NUS</td>
+        <td>2020</td>
+    </tr>
+    <tr>
+        <td>GSNet <a href="your_citation_link">[wang2021gsnet]</a></td>
+        <td>Public Safety</td>
+        <td>BJTU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{hashem2023urban}</a></td>
+        <td>General</td>
+        <td>NTU</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>TrajGAT <a href="your_citation_link">[yao2022trajgat]</a></td>
+        <td>Transportation</td>
+        <td>NTU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>RADAR <a href="your_citation_link">[chen2018radar]</a></td>
+        <td>General</td>
+        <td>XMU</td>
+        <td>2018</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{wang2021traffic}</a></td>
+        <td>General</td>
+        <td>CSU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{tedjopurnomo2021similar}</a></td>
+        <td>Transportation</td>
+        <td>RMIT</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>ERNIE-GeoL <a href="your_citation_link">[huang2022ernie]</a></td>
+        <td>General</td>
+        <td>Baidu</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>SAInf <a href="your_citation_link">[ma2023sainf]</a></td>
+        <td>Transportation</td>
+        <td>JD Research</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{gao2023dual}</a></td>
+        <td>Transportation</td>
+        <td>SWJTU</td>
+        <td>2023</td>
     </tr>
 
     <tr>
@@ -449,6 +515,7 @@ If you find our work useful in your research, please consider citing:
         <td>2020</td>
     </tr>
 </table>
+
 
 
 
