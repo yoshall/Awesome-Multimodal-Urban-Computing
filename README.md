@@ -227,7 +227,7 @@ If you find our work useful in your research, please consider citing:
   - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
   [[paper](https://arxiv.org/pdf/2206.00007)]
 
-## Open Source Projects
+## Data Fusion Methods
 | Category                                         | Method                                     | Application    | Institution    | Year |
 | ------------------------------------------------ | ------------------------------------------ | -------------- | -------------- | ---- |
 | **_Feature Based Data Fusion_**                  | DeepST \cite{zhang2016dnn}                 | Transportation | Microsoft      | 2016 |
