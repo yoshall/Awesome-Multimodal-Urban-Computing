@@ -39,24 +39,24 @@ If you find our work useful in your research, please consider citing:
 ### [Future Intelligence Lab (FIB) (Prof. Yong Li - THU)](https://fi.ee.tsinghua.edu.cn/)
  
 
-  - Will You Come Back / Check-in Again? Understanding Characteristics Leading to Urban Revisitation and Re-check-in, *in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020*
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3411812?casa_token=-603bVK6scwAAAAA:13Whn8f41erDnU4x9ttxXyCUQfGjJzMik8jn2Sf9kt0IYUXrT9x7-c_evhMfc37VLhxL6aezYCfl95Ig)] 
-  - Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data, *in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539186)] 
-  - Beyond the First Law of Geography: Learning Representations ofSatellite Imagery by Leveraging Point-of-Interests, *in ACM Web Conference, 2022*
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)] 
-  - Spatio-Temporal Urban Knowledge Graph Enabled Mobility Prediction, *in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2021*
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3494993)]
-  - Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data, *in Proceedings of the 29th International Conference on Advances in Geographic Information Systems, 2021.*
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483987?casa_token=r4GTEmlgSw0AAAAA:xf6jN-fH70AW65lWF7JL82CvYxYshvS1b9-rQe9Sww8UI0j5nrI9ScjB2euIdP9Zt_2FRpczvpoi6lVC)]
-  - Predicting multi-level socioeconomic indicators from structural urban imagery, *in Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)]
-  - Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction, *in ACM Web Conference, 2023*
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)]
-  - Multi-View Joint Graph Representation Learning for Urban Region Embedding, *in Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence, 2021*
-  [[paper](https://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf)]
-  - DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis, *in Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3892)]
+  - Will You Come Back / Check-in Again? Understanding Characteristics Leading to Urban Revisitation and Re-check-in
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3411812?casa_token=-603bVK6scwAAAAA:13Whn8f41erDnU4x9ttxXyCUQfGjJzMik8jn2Sf9kt0IYUXrT9x7-c_evhMfc37VLhxL6aezYCfl95Ig)] <br>  *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020*
+  - Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539186)] <br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
+  - Beyond the First Law of Geography: Learning Representations ofSatellite Imagery by Leveraging Point-of-Interests
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)] <br>*In ACM Web Conference, 2022*
+  - Spatio-Temporal Urban Knowledge Graph Enabled Mobility Prediction 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3494993)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2021*
+  - Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483987?casa_token=r4GTEmlgSw0AAAAA:xf6jN-fH70AW65lWF7JL82CvYxYshvS1b9-rQe9Sww8UI0j5nrI9ScjB2euIdP9Zt_2FRpczvpoi6lVC)]<br>*In Proceedings of the 29th International Conference on Advances in Geographic Information Systems, 2021.*
+  - Predicting multi-level socioeconomic indicators from structural urban imagery 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
+  - Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)]<br>*In ACM Web Conference, 2023*
+  - Multi-View Joint Graph Representation Learning for Urban Region Embedding
+  [[paper](https://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf)]<br>*In Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence, 2021*
+  - DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3892)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
 
 ### [Database Research Group (Prof. Guoliang Li - THU)](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
