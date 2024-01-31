@@ -344,6 +344,7 @@ If you find our work useful in your research, please consider citing:
         <td>\citet{miyazawa2019integrating}</td>
         <td>Transportation</
     </tr>
+
     <tr>
         <td rowspan="7">**_Alignment Based Data Fusion_**</td>
         <td>\citet{xiFirstLawGeography2022b}</td>
