@@ -239,31 +239,19 @@ If you find our work useful in your research, please consider citing:
         <th>Year</th>
     </tr>
     <tr>
-        <td rowspan="19">**_Feature Based Data Fusion_**</td>
-        <td>DeepST <a href="citation_link">[zhang2016dnn]</a></td>
+        <td rowspan="19"><strong><em>Feature Based Data Fusion</em></strong></td>
+        <td>DeepST <a href="your_citation_link">[zhang2016dnn]</a></td>
         <td>Transportation</td>
         <td>Microsoft</td>
         <td>2016</td>
     </tr>
     <tr>
-        <td>ST-ResNet <a href="citation_link">[zhang2018predicting]</a></td>
+        <td>ST-ResNet <a href="your_citation_link">[zhang2018predicting]</a></td>
         <td>Transportation</td>
         <td>Microsoft</td>
         <td>2018</td>
     </tr>
-    <!-- Repeat for other rows -->
-    
-    <!-- When starting a new category, use rowspan to specify the number of rows for that category -->
-    <tr>
-        <td rowspan="7">**_Alignment Based Data Fusion_**</td>
-        <td><a href="citation_link">[xiFirstLawGeography2022b]</a></td>
-        <td>General</td>
-        <td>THU</td>
-        <td>2022</td>
-    </tr>
     <!-- Repeat for other rows in this category -->
-    
-    <!-- Continue with other categories similarly -->
 </table>
 
 
