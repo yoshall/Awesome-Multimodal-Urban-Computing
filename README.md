@@ -173,11 +173,11 @@ If you find our work useful in your research, please consider citing:
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows
   [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]
 
-### Jianzhong Qi group (UniMelb)
+### [Artificial Intelligence (AI) research group (Prof. Jianzhong Qi - UniMelb)](https://people.eng.unimelb.edu.au/jianzhongq/)
   - A Joint Context-Aware Embedding for Trip Recommendations
   [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]
 
-### Flora Salim group (UNSW)
+### [Context Recognition and Urban Intelligence (CRUISE) Lab (Prof. Flora Salim - UNSW)](https://cruiseresearchgroup.florasalim.com/)
   - Multimodal Trajectory Prediction: A Survey
   [[paper](https://arxiv.org/pdf/2302.10463)]
   - Explainable spatiotemporal reasoning for geospatial intelligence applications
