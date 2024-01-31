@@ -439,7 +439,7 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>Yin et al. <a href="https://ieeexplore.ieee.org/abstract/document/9458698?casa_token=PuqlRYsABxAAAAAA:xTdwTjLwlWzZvF5BShhkLvAlzE15AB9lwySluVlXYeNAlxKFC6aUibBFsvUYYDQlBaEGalw5zoObvQ">\citet{yinMultitaskLearningFramework2020a}</a></td>
+        <td>Yin et al. <a href="https://ieeexplore.ieee.org/abstract/document/9458698?casa_token=PuqlRYsABxAAAAAA:xTdwTjLwlWzZvF5BShhkLvAlzE15AB9lwySluVlXYeNAlxKFC6aUibBFsvUYYDQlBaEGalw5zoObvQ">[yinMultitaskLearningFramework2020a]</a></td>
         <td>Urban Planning</td>
         <td>NUS</td>
         <td>2020</td>
@@ -452,49 +452,49 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>Hashem et al. <a href="your_citation_link">\citet{hashem2023urban}</a></td>
+        <td>Hashem et al. <a href="https://www.mdpi.com/2071-1050/15/5/3916">[Urban Computing for Sustainable Smart Cities: Recent Advances, Taxonomy, and Open Research Challenges]</a></td>
         <td>General</td>
         <td>NTU</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>TrajGAT <a href="your_citation_link">[yao2022trajgat]</a></td>
+        <td>TrajGAT <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539358">[Trajgat: A graph-based long-term dependency modeling approach for trajectory similarity computation]</a></td>
         <td>Transportation</td>
         <td>NTU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>RADAR <a href="your_citation_link">[chen2018radar]</a></td>
+        <td>RADAR <a href="https://dl.acm.org/doi/abs/10.1145/3161159?casa_token=nvO52WgM2ZkAAAAA:_9G52wzJNs8pTwEcYH-H4rflNZG3u_8OIFJOMq-Wyw5wswIIaUwk_MZdfTZf0JPrnkt-ZhQTgeakOQk">[RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data]</a></td>
         <td>General</td>
         <td>XMU</td>
         <td>2018</td>
     </tr>
     <tr>
-        <td>Wang et al. <a href="your_citation_link">\citet{wang2021traffic}</a></td>
+        <td>Wang et al. <a href="https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=rn1XylthWVMAAAAA:kjVgIM9mtuyxMa26yQ_zfIM3wquE6xyl6aFwJZ42RM_PbdfGT6kuTvIaEqk9hY_4YWLvnuHQpLbA_g">[Traffic accident risk prediction via multi-view multi-task spatio-temporal networks]</a></td>
         <td>General</td>
         <td>CSU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td>Ted et al. <a href="your_citation_link">\citet{tedjopurnomo2021similar}</a></td>
+        <td>Ted et al. <a href="https://link.springer.com/article/10.1007/s00778-022-00748-y">[Unified Route Representation Learning for Multi-Modal Transportation Recommendation with Spatiotemporal Pre-Training]</a></td>
         <td>Transportation</td>
         <td>RMIT</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td>ERNIE-GeoL <a href="your_citation_link">[huang2022ernie]</a></td>
+        <td>ERNIE-GeoL <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539021?casa_token=gL8mL0Lz5AMAAAAA:2pHxGWb8f5k8PtQ8awFHUeW9tl9t98eRqmU3eL4e4kRPtKjlgqtadvyp2dHLKyGkJGZM8N9vqyZmZ_U">[A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps]</a></td>
         <td>General</td>
         <td>Baidu</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>SAInf <a href="your_citation_link">[ma2023sainf]</a></td>
+        <td>SAInf <a href="https://urban-computing.com/pdf/KDD2023_stay.pdf">[SAInf: Stay Area Inference of Vehicles using Surveillance Camera Records]</a></td>
         <td>Transportation</td>
         <td>JD Research</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>Gao et al. <a href="your_citation_link">\citet{gao2023dual}</a></td>
+        <td>Gao et al. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253522002287">[Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion]</a></td>
         <td>Transportation</td>
         <td>SWJTU</td>
         <td>2023</td>
