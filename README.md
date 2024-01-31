@@ -352,43 +352,43 @@ If you find our work useful in your research, please consider citing:
         <td>2020</td>
     </tr>
     <tr>
-        <td>Fu et al. <a href="Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations">[Efficient region embedding with multi-view spatial networks: A perspective of locality-constrained spatial autocorrelations]</a></td>
+        <td>Fu et al. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/3879">[Efficient region embedding with multi-view spatial networks: A perspective of locality-constrained spatial autocorrelations]</a></td>
         <td>General</td>
         <td>UCF</td>
         <td>2019</td>
     </tr>
     <tr>
-        <td>Liu et al. <a href="https://ieeexplore.ieee.org/abstract/document/9050875?casa_token=YPSDqpHkFikAAAAA:b4SM0qjUjl0kUhiLViCigGhK47DPVZ2po4jHmrj-9t_0NQ_i-js7QE_yFixN38WUEtDnGVRztGs6fg">\citet{Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding}</a></td>
+        <td>Liu et al. <a href="https://ieeexplore.ieee.org/abstract/document/9050875?casa_token=YPSDqpHkFikAAAAA:b4SM0qjUjl0kUhiLViCigGhK47DPVZ2po4jHmrj-9t_0NQ_i-js7QE_yFixN38WUEtDnGVRztGs6fg">[Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding]</a></td>
         <td>Social</td>
         <td>Gatech</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{yuan2021effective}</a></td>
+        <td>Yuan et al. <a href="https://ieeexplore.ieee.org/abstract/document/9458698?casa_token=5ncUMsqZWyUAAAAA:JjxJwWcT6YcBkrJaXzvLmTplU69stDA6BYxp-ptvIiRenNq3nSg3G7xYKuLSzLs0Gl5h7gi_mG9FvA">[An effective joint prediction model for travel demands and traffic flows]</a></td>
         <td>Transportation</td>
         <td>RMIT</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{bai2019spatio}</a></td>
+        <td>Bai et al. <a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557370">\citet{Spatio-temporal graph convolutional and recurrent networks for citywide passenger demand prediction}</a></td>
         <td>Transportation</td>
         <td>Shanghai AI Lab</td>
         <td>2019</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{ke2021joint}</a></td>
+        <td>Ke et. al <a href="https://arxiv.org/pdf/2011.05602">[Joint predictions of multi-modal ride-hailing demands: A deep multi-task multi-graph learning-based approach]</a></td>
         <td>Transportation</td>
         <td>Alibaba</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{gengMultimodalGraphInteraction2019}</a></td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9238459?casa_token=VxAEiwiSInAAAAAA:_NM3ge3f3pliOAsbipKBQPn1Z9-PMxzXJSYy5PHYAaaqkVWcEzGkyx_l_DsdaC83CmQPVwevvj-Byw">[A Force-Directed Approach to Seeking Route Recommendation in Ride-on-Demand Service Using Multi-Source Urban Data]</a></td>
         <td>Transportation</td>
         <td>Alibaba</td>
         <td>2019</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{yao2018deep}</a></td>
+        <td>Yao et al.<a href="https://ojs.aaai.org/index.php/AAAI/article/view/11836">\citet{Deep multi-view spatial-temporal network for taxi demand prediction}</a></td>
         <td>Transportation</td>
         <td>PSU</td>
         <td>2018</td>
@@ -419,19 +419,19 @@ If you find our work useful in your research, please consider citing:
         <td>2022</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{zhangMultiviewJointGraph2021a}</a></td>
+        <td>Zhang et al. <a href="your_citation_link">\citet{zhangMultiviewJointGraph2021a}</a></td>
         <td>General</td>
         <td>THU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{yuan2021effective}</a></td>
+        <td>Yuan et al. <a href="your_citation_link">\citet{yuan2021effective}</a></td>
         <td>Transportation</td>
         <td>THU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{yinMultitaskLearningFramework2020a}</a></td>
+        <td>Yin et al. <a href="your_citation_link">\citet{yinMultitaskLearningFramework2020a}</a></td>
         <td>Urban Planning</td>
         <td>NUS</td>
         <td>2020</td>
@@ -443,7 +443,7 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{hashem2023urban}</a></td>
+        <td>Hashem et al. <a href="your_citation_link">\citet{hashem2023urban}</a></td>
         <td>General</td>
         <td>NTU</td>
         <td>2023</td>
@@ -461,13 +461,13 @@ If you find our work useful in your research, please consider citing:
         <td>2018</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{wang2021traffic}</a></td>
+        <td>Wang et al. <a href="your_citation_link">\citet{wang2021traffic}</a></td>
         <td>General</td>
         <td>CSU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{tedjopurnomo2021similar}</a></td>
+        <td>Ted et al. <a href="your_citation_link">\citet{tedjopurnomo2021similar}</a></td>
         <td>Transportation</td>
         <td>RMIT</td>
         <td>2021</td>
@@ -485,7 +485,7 @@ If you find our work useful in your research, please consider citing:
         <td>2023</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{gao2023dual}</a></td>
+        <td>Gao et al. <a href="your_citation_link">\citet{gao2023dual}</a></td>
         <td>Transportation</td>
         <td>SWJTU</td>
         <td>2023</td>
@@ -498,7 +498,7 @@ If you find our work useful in your research, please consider citing:
         <td>2023</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{li2022predicting}</a></td>
+        <td>Li et al. <a href="your_citation_link">\citet{li2022predicting}</a></td>
         <td>Economy</td>
         <td>THU</td>
         <td>2022</td>
@@ -522,7 +522,7 @@ If you find our work useful in your research, please consider citing:
         <td>2023</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{mao2022jointly}</a></td>
+        <td>Mao et al. <a href="your_citation_link">\citet{mao2022jointly}</a></td>
         <td>Transportation</td>
         <td>Shanghai AI Lab</td>
         <td>2022</td>
@@ -583,7 +583,7 @@ If you find our work useful in your research, please consider citing:
         <td>2023</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{wang2021deep}</a></td>
+        <td>Wang et al. <a href="your_citation_link">\citet{wang2021deep}</a></td>
         <td>Urban Planning</td>
         <td>UCF</td>
         <td>2021</td>
@@ -595,7 +595,6 @@ If you find our work useful in your research, please consider citing:
         <td>2023</td>
     </tr>
 </table>
-
 
 
 
