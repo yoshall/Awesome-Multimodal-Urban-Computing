@@ -36,7 +36,7 @@ If you find our work useful in your research, please consider citing:
 - [Taxonomy and summary of open-sourced dataset](#Dataset)
 
 ## Paper List
-### Li Yong group (THU)
+### Future Intelligence Lab (FIB) (Yong Li - THU)  https://fi.ee.tsinghua.edu.cn/
 
   - Will You Come Back / Check-in Again? Understanding Characteristics Leading to Urban Revisitation and Re-check-in
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3411812?casa_token=-603bVK6scwAAAAA:13Whn8f41erDnU4x9ttxXyCUQfGjJzMik8jn2Sf9kt0IYUXrT9x7-c_evhMfc37VLhxL6aezYCfl95Ig)] 
@@ -57,37 +57,37 @@ If you find our work useful in your research, please consider citing:
   - DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3892)]
 
-### Li Guoliang group (THU)
+### Database Research Group (Guoliang Li - THU)  https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458698&casa_token=MaWtkqMEWUUAAAAA:fzmHqfiVsKMVPPYfRV1f9wdyr1jKdVpLlPIphl7Z6ioXE0tvFv_-CIjif62LnBrCZpaDwuBwhIjIeM8&tag=1)]
 
-### Wang Jingyuan group (BUAA)
+### BIGSCity Lab led by Prof. Jingyuan Wang (BUAA) https://www.bigscity.com/jingyuan-wang/
   - A force-directed approach to seeking route recommendation in ride-on-demand service using multi-source urban data
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9238459&casa_token=KDIHSyCbjKgAAAAA:HqI7iwTEB5YqDECOkfZ1DidS2sx2iq6uM48TXRlzX3WyL8QqyWf2z0tAhtFkDEfLoWXln-OEwJ6Q4C8&tag=1)]
   - Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8733999&casa_token=lhJGs3710j8AAAAA:VhS8TO4oyI1uU-Fe-TNbogjxVoHmXHAAJX15ciwL0w5nHIMlcJl-WbsQAJpgD2soweuEpA5l_OUROSc)]
 
-### Wan Huaiyu group (BJTU)
+### BJTU Lab led by Huaiyu Wan   https://faculty.bjtu.edu.cn/8793/
   - GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16566)]
 
-### Guo Danhuai group (BUCT)
+### BUCT Lab led by Danhuai Guo    https://www.researchgate.net/lab/Danhuai-Guo-Lab
   - Inferring region significance by using multi-source spatial data
   [[paper](https://link.springer.com/article/10.1007/s00521-019-04070-7)]
 
-### Chen Meng group (SDU)
+### SDU Lab led by Meng Chen  https://faculty.sdu.edu.cn/chenmeng2/en/index/815589/list/index.htm
   - Pre-Trained Semantic Embeddings for POI Categories Based on Multiple Contexts
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]
 
-### Zheng Kai group (UESTC)
+### UESTC Lab led by Kai Zheng   https://zheng-kai.com/
   - Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]
 
-### Chen Chao group (CQU)
+### CPS-DSC Lab(Chao Chen - CQU)  http://cps.cqu.edu.cn/info/1006/1647.htm
   - TripPlanner: Personalized Trip Planning Leveraging Heterogeneous Crowdsourced Digital Footprints
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6951432&casa_token=RHnlU4MWS-AAAAAA:LQ9gSNTx_KByl4JRJeHbhRZKbbZF4vSeQNESLSX6TS8ErIe4qL7DhoEbD249JdzLG46vUmipzKbv7EU)]
 
-### Li Tianrui group (SWJTU)
+### Cloud Computing and Intelligent Techniques Lab led by Tianrui Li (SWJTU)  https://faculty.swjtu.edu.cn/litianrui/en/index/33185/list/index.htm
   - Forecasting Fine-Grained Air Quality Based on Big Data
   [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]
   - Urban Sensing Based on Human Mobility
