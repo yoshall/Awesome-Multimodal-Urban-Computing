@@ -36,7 +36,8 @@ If you find our work useful in your research, please consider citing:
 - [Taxonomy and summary of open-sourced dataset](#Dataset)
 
 ## Paper List
-### Future Intelligence Lab (FIB) (Yong Li - THU)  https://fi.ee.tsinghua.edu.cn/
+### [Future Intelligence Lab (FIB) (Yong Li - THU)](https://fi.ee.tsinghua.edu.cn/)
+ 
 
   - Will You Come Back / Check-in Again? Understanding Characteristics Leading to Urban Revisitation and Re-check-in
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3411812?casa_token=-603bVK6scwAAAAA:13Whn8f41erDnU4x9ttxXyCUQfGjJzMik8jn2Sf9kt0IYUXrT9x7-c_evhMfc37VLhxL6aezYCfl95Ig)] 
