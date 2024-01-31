@@ -328,8 +328,96 @@ If you find our work useful in your research, please consider citing:
         <td>Economy</td>
         <td>HKUST(GZ)</td>
         <td>2023</td>
+    <tr>
+        <td>PANDA <a href="your_citation_link">[you2022panda]</a></td>
+        <td>Public Safety</td>
+        <td>XMU</td>
+        <td>2022</td>
     </tr>
-    <!-- Repeat for other rows in this category -->
+    <tr>
+        <td>UVLens <a href="your_citation_link">[chenUVLensUrbanVillage2021]</a></td>
+        <td>Urban Planning</td>
+        <td>XMU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{miyazawa2019integrating}</a></td>
+        <td>Transportation</td>
+        <td>SUSTech</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>NodeSense2Vec <a href="your_citation_link">[chandraNodeSense2VecSpatiotemporalContextaware2021]</a></td>
+        <td>Social</td>
+        <td>UCF</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{keerthi2020collective}</a></td>
+        <td>Urban Planning</td>
+        <td>UCF</td>
+        <td>2020</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{fu2019efficient}</a></td>
+        <td>General</td>
+        <td>UCF</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{liu2020spatiotemporal}</a></td>
+        <td>Social</td>
+        <td>Gatech</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{yuan2021effective}</a></td>
+        <td>Transportation</td>
+        <td>RMIT</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{bai2019spatio}</a></td>
+        <td>Transportation</td>
+        <td>Shanghai AI Lab</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{ke2021joint}</a></td>
+        <td>Transportation</td>
+        <td>Alibaba</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{gengMultimodalGraphInteraction2019}</a></td>
+        <td>Transportation</td>
+        <td>Alibaba</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{yao2018deep}</a></td>
+        <td>Transportation</td>
+        <td>PSU</td>
+        <td>2018</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{gao2022contextual}</a></td>
+        <td>Transportation</td>
+        <td>SWJTU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>DeepMob <a href="your_citation_link">[songDeepMobLearningDeep2017]</a></td>
+        <td>Public Safety</td>
+        <td>SUSTech</td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{geng2019spatiotemporal}</a></td>
+        <td>Transportation</td>
+        <td>HKUST</td>
+        <td>2019</td>
+    </tr>
 </table>
 
 
