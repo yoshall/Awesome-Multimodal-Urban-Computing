@@ -36,7 +36,7 @@ If you find our work useful in your research, please consider citing:
 - [Taxonomy and summary of open-sourced dataset](#Dataset)
 
 ## Paper List
-### [Future Intelligence Lab (FIB) (Yong Li - THU)](https://fi.ee.tsinghua.edu.cn/)
+### [Future Intelligence Lab (FIB) (Prof.Yong Li - THU)](https://fi.ee.tsinghua.edu.cn/)
  
 
   - Will You Come Back / Check-in Again? Understanding Characteristics Leading to Urban Revisitation and Re-check-in
@@ -58,7 +58,7 @@ If you find our work useful in your research, please consider citing:
   - DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3892)]
 
-### [Database Research Group (Guoliang Li - THU)](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
+### [Database Research Group (Prof.Guoliang Li - THU)](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458698&casa_token=MaWtkqMEWUUAAAAA:fzmHqfiVsKMVPPYfRV1f9wdyr1jKdVpLlPIphl7Z6ioXE0tvFv_-CIjif62LnBrCZpaDwuBwhIjIeM8&tag=1)]
 
@@ -68,27 +68,27 @@ If you find our work useful in your research, please consider citing:
   - Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8733999&casa_token=lhJGs3710j8AAAAA:VhS8TO4oyI1uU-Fe-TNbogjxVoHmXHAAJX15ciwL0w5nHIMlcJl-WbsQAJpgD2soweuEpA5l_OUROSc)]
 
-### [BJTU Lab led by Huaiyu Wan](https://faculty.bjtu.edu.cn/8793/)
+### [BJTU Lab led by Prof.Huaiyu Wan](https://faculty.bjtu.edu.cn/8793/)
   - GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16566)]
 
-### [BUCT Lab led by Danhuai Guo](https://www.researchgate.net/lab/Danhuai-Guo-Lab)
+### [BUCT Lab led by Prof.Danhuai Guo](https://www.researchgate.net/lab/Danhuai-Guo-Lab)
   - Inferring region significance by using multi-source spatial data
   [[paper](https://link.springer.com/article/10.1007/s00521-019-04070-7)]
 
-### [SDU Lab led by Meng Chen](https://faculty.sdu.edu.cn/chenmeng2/en/index/815589/list/index.htm)
+### [SDU Lab led by Prof.Meng Chen](https://faculty.sdu.edu.cn/chenmeng2/en/index/815589/list/index.htm)
   - Pre-Trained Semantic Embeddings for POI Categories Based on Multiple Contexts
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]
 
-### [UESTC Lab led by Kai Zheng](https://zheng-kai.com/)
+### [UESTC Lab led by Prof.Kai Zheng](https://zheng-kai.com/)
   - Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]
 
-### [CPS-DSC Lab(Chao Chen - CQU)](http://cps.cqu.edu.cn/info/1006/1647.htm)
+### [CPS-DSC Lab(Prof.Chao Chen - CQU)](http://cps.cqu.edu.cn/info/1006/1647.htm)
   - TripPlanner: Personalized Trip Planning Leveraging Heterogeneous Crowdsourced Digital Footprints
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6951432&casa_token=RHnlU4MWS-AAAAAA:LQ9gSNTx_KByl4JRJeHbhRZKbbZF4vSeQNESLSX6TS8ErIe4qL7DhoEbD249JdzLG46vUmipzKbv7EU)]
 
-### [Cloud Computing and Intelligent Techniques Lab led by Tianrui Li (SWJTU)](https://faculty.swjtu.edu.cn/litianrui/en/index/33185/list/index.htm)
+### [Cloud Computing and Intelligent Techniques Lab led by Prof.Tianrui Li (SWJTU)](https://faculty.swjtu.edu.cn/litianrui/en/index/33185/list/index.htm)
   - Forecasting Fine-Grained Air Quality Based on Big Data
   [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]
   - Urban Sensing Based on Human Mobility
