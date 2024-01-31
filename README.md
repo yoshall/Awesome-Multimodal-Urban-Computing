@@ -547,6 +547,61 @@ If you find our work useful in your research, please consider citing:
         <td>HKUST(GZ)</td>
         <td>2023</td>
     </tr>
+    <tr>
+        <td rowspan="9"><strong><em>Generation Based Data Fusion</em></strong></td>
+        <td>SG-GAN <a href="your_citation_link">[zhang2020enhanced]</a></td>
+        <td>Urban Planning</td>
+        <td>NUS</td>
+        <td>2020</td>
+    </tr>
+    <tr>
+        <td>ActSTD <a href="your_citation_link">[yuan2022activity]</a></td>
+        <td>Transportation</td>
+        <td>THU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>DiffSTG <a href="your_citation_link">[wen2023diffstg]</a></td>
+        <td>General</td>
+        <td>BJTU</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>CP-Route <a href="your_citation_link">[wen2023modeling]</a></td>
+        <td>Transportation</td>
+        <td>BJTU</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>G2PTL <a href="your_citation_link">[wu2023g2ptl]</a></td>
+        <td>Transportation</td>
+        <td>Cainiao</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>DiffUFlow <a href="your_citation_link">[zheng2023diffuflow]</a></td>
+        <td>Transportation</td>
+        <td>CSU</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>DP-TFI <a href="your_citation_link">[xu2023diffusion]</a></td>
+        <td>Transportation</td>
+        <td>UEST</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{wang2021deep}</a></td>
+        <td>Urban Planning</td>
+        <td>UCF</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>MGEO <a href="your_citation_link">[ding2023mgeo]</a></td>
+        <td>General</td>
+        <td>Alibaba</td>
+        <td>2023</td>
+    </tr>
 </table>
 
 
