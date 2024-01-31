@@ -239,17 +239,95 @@ If you find our work useful in your research, please consider citing:
         <th>Year</th>
     </tr>
     <tr>
-        <td rowspan="19"><strong><em>Feature Based Data Fusion</em></strong></td>
-        <td>DeepST <a href="your_citation_link">[zhang2016dnn]</a></td>
+        <td rowspan="20"><strong><em>Feature Based Data Fusion</em></strong></td>
+        <td>DeepST <a href="citation_link">[zhang2016dnn]</a></td>
         <td>Transportation</td>
         <td>Microsoft</td>
         <td>2016</td>
     </tr>
     <tr>
-        <td>ST-ResNet <a href="your_citation_link">[zhang2018predicting]</a></td>
+        <td>ST-ResNet <a href="citation_link">[zhang2018predicting]</a></td>
         <td>Transportation</td>
         <td>Microsoft</td>
         <td>2018</td>
+    </tr>
+    <tr>
+        <td>ST-MetaNet+ <a href="citation_link">[pan2020spatio]</a></td>
+        <td>Transportation</td>
+        <td>JD Research</td>
+        <td>2020</td>
+    </tr>
+    <tr>
+        <td>DeepCrime <a href="citation_link">[huang2018deepcrime]</a></td>
+        <td>Social</td>
+        <td>JD Research</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>Spatio-temporal urban knowledge graph enabled mobility prediction</td>
+        <td>Transportation</td>
+        <td>THU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td>DeepSTN+ <a href="citation_link">[lin2019deepstn+]</a></td>
+        <td>Transportation</td>
+        <td>THU</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>DeepTP <a href="citation_link">[yuan2021effective]</a></td>
+        <td>Transportation</td>
+        <td>THU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="citation_link">\citet{guo2019rod}</a></td>
+        <td>Transportation</td>
+        <td>BUAA</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>Photo2Trip <a href="citation_link">[zhao2017photo2trip]</a></td>
+        <td>Transportation</td>
+        <td>USTC/RU</td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>ST-SHN <a href="citation_link">[xia2021spatial]</a></td>
+        <td>Public Safety</td>
+        <td>SCUT/HKU</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="citation_link">\citet{huang2023comprehensive}</a></td>
+        <td>Urban planning</td>
+        <td>PKU</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td><a href="citation_link">\citet{liang2021fine-grained}</a></td>
+        <td>Transportation</td>
+        <td>NUS</td>
+        <td>2021</td>
+    </tr>
+    <tr>
+        <td><a href="citation_link">\citet{balsebreGeospatialEntityResolution2022}</a></td>
+        <td>Urban Planning</td>
+        <td>NTU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td><a href="citation_link">\citet{ruan2022service}</a></td>
+        <td>Transportation</td>
+        <td>NTU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td><a href="citation_link">\citet{liu2023characterizing}</a></td>
+        <td>Economy</td>
+        <td>HKUST(GZ)</td>
+        <td>2023</td>
     </tr>
     <!-- Repeat for other rows in this category -->
 </table>
