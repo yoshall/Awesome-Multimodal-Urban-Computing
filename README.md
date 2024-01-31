@@ -80,7 +80,7 @@ If you find our work useful in your research, please consider citing:
   - Pre-Trained Semantic Embeddings for POI Categories Based on Multiple Contexts
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]
 
-### [UESTC Lab led by Prof.Kai Zheng](https://zheng-kai.com/)
+### [UESTC Lab (Prof.Kai Zheng)](https://zheng-kai.com/)
   - Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]
 
