@@ -149,7 +149,7 @@ If you find our work useful in your research, please consider citing:
   - RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]
 
-### Yanjie Fu group (UCF)
+### [KDD Lab (Prof. Yanjie Fu - UCF)](https://yanjiefu.com/)
   - Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training
   [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]
   - NodeSense2Vec: Spatiotemporal Context-Aware Network Embedding for Heterogeneous Urban Mobility Data
@@ -163,11 +163,11 @@ If you find our work useful in your research, please consider citing:
   - Efficient Region Embedding with Multi-View Spatial Networks:A Perspective of Locality-Constrained Spatial Autocorrelations
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]
 
-### Zhang Chao group (Gatech)
+### [Gatech Lab (Prof. Chao Zhang)](http://chaozhang.org/)
   - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]
 
-### Bao Zhifeng group (RMIT)
+### [Big Data and Database Group (Prof. Zhifeng Bao - RMIT)](https://baozhifeng.net/)
   - Similar Trajectory Search with Spatio-Temporal Deep Representation Learning
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows
