@@ -282,7 +282,7 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>Rod revenue<a href="https://ieeexplore.ieee.org/abstract/document/8733999?casa_token=1jir5pSYyG0AAAAA:HRF2TP71TjcegnudXQwIaG2XaPKJ8gc4hMjU4G4OIHH-_pWKh9nfFFWc-97gmQ9tbh90HwcqcQiQ0A">\citet{Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data}</a></td>
+        <td>Rod revenue<a href="https://ieeexplore.ieee.org/abstract/document/8733999?casa_token=1jir5pSYyG0AAAAA:HRF2TP71TjcegnudXQwIaG2XaPKJ8gc4hMjU4G4OIHH-_pWKh9nfFFWc-97gmQ9tbh90HwcqcQiQ0A">[Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data]</a></td>
         <td>Transportation</td>
         <td>BUAA</td>
         <td>2019</td>
