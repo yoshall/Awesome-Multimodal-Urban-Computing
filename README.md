@@ -217,7 +217,7 @@ If you find our work useful in your research, please consider citing:
   - Deep multi-view spatial-temporal network for taxi demand prediction
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]
 
-### Zheng Yu group (JD iCity)
+### [JD iCity Lab (Prof. Yu Zheng)](http://urban-computing.com/yuzheng)
   - Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]
   - Spatio-Temporal Self-Supervised Learning for Traffc Flow Prediction
