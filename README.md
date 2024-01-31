@@ -264,7 +264,7 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>STUKG <a href="[https://dl.acm.org/doi/abs/10.1145/3494993?casa_token=Ec8UzKCeygsAAAAA:MDByKbtaJ7Et2zOQc6DH4e2QplTsuEyFXUmGZMXIrhpJxXZvucWRptgvQG7CxYYDeZyssM7XIpJVqqE]">[Spatio-temporal urban knowledge graph enabled mobility prediction]</a></td>
+        <td>STUKG <a href="https://dl.acm.org/doi/abs/10.1145/3494993?casa_token=Ec8UzKCeygsAAAAA:MDByKbtaJ7Et2zOQc6DH4e2QplTsuEyFXUmGZMXIrhpJxXZvucWRptgvQG7CxYYDeZyssM7XIpJVqqE">[Spatio-temporal urban knowledge graph enabled mobility prediction]</a></td>
         <td>Transportation</td>
         <td>THU</td>
         <td>2021</td>
