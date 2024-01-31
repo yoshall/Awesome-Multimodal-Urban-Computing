@@ -300,13 +300,13 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>Huang et al. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0198971523001060">\citet{Comprehensive urban space representation with varying numbers of street-level images}</a></td>
+        <td>Huang et al. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0198971523001060">[Comprehensive urban space representation with varying numbers of street-level images]</a></td>
         <td>Urban planning</td>
         <td>PKU</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>Liang et al. <a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449792">\citet{Fine-Grained Urban Flow Prediction}</a></td>
+        <td>Liang et al. <a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449792">[Fine-Grained Urban Flow Prediction]</a></td>
         <td>Transportation</td>
         <td>NUS</td>
         <td>2021</td>
@@ -318,13 +318,13 @@ If you find our work useful in your research, please consider citing:
         <td>2022</td>
     </tr>
     <tr>
-        <td>Ruan et al. <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539027?casa_token=l12aHjEUcmYAAAAA:-YFMXUW7HizB9W3ZVPQT68AIwVMU0b7Ub1atgQSCwu-hANKaIjgNyF9zmCLSMj_OJKeUpC7kYKRCGS4">\citet{Service Time Prediction for Delivery Tasks via Spatial Meta-Learning}</a></td>
+        <td>Ruan et al. <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539027?casa_token=l12aHjEUcmYAAAAA:-YFMXUW7HizB9W3ZVPQT68AIwVMU0b7Ub1atgQSCwu-hANKaIjgNyF9zmCLSMj_OJKeUpC7kYKRCGS4">[Service Time Prediction for Delivery Tasks via Spatial Meta-Learning]</a></td>
         <td>Transportation</td>
         <td>NTU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>Liu et al. <a href="https://dl.acm.org/doi/full/10.1145/3568683?casa_token=sx9zdRtM96gAAAAA%3AAT6yrSzEHY5zOdfppjBT-DGasK1oTtFjp6YG9YvR65g6gsvftPoNZwIomxEDLJFXQugNJZzaF2kMSsQ">\citet{Characterizing and Forecasting Urban Vibrancy Evolution: {{A}} Multi-View Graph Mining Perspective}</a></td>
+        <td>Liu et al. <a href="https://dl.acm.org/doi/full/10.1145/3568683?casa_token=sx9zdRtM96gAAAAA%3AAT6yrSzEHY5zOdfppjBT-DGasK1oTtFjp6YG9YvR65g6gsvftPoNZwIomxEDLJFXQugNJZzaF2kMSsQ">[Characterizing and Forecasting Urban Vibrancy Evolution: A Multi-View Graph Mining Perspective]</a></td>
         <td>Economy</td>
         <td>HKUST(GZ)</td>
         <td>2023</td>
@@ -342,7 +342,7 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="https://link.springer.com/article/10.1007/s11704-017-6464-3">\citet{Integrating GPS trajectory and topics from Twitter stream for human mobility estimation}</a></td>
+        <td><a href="https://link.springer.com/article/10.1007/s11704-017-6464-3">[Integrating GPS trajectory and topics from Twitter stream for human mobility estimation]</a></td>
         <td>Transportation</td>
         <td>SUSTech</td>
         <td>2019</td>
@@ -354,7 +354,7 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>Liu et al. <a href="https://dl.acm.org/doi/full/10.1145/3568683?casa_token=ZEtTxOhR8awAAAAA%3A_Xr6B-JkoEKDnY6rx-ykQ8IFTaSWG9xJNekc4edC6vjO4n8mlBH88BnpzWieRQtrM_WACQJxCkw2Fac">\citet{Characterizing and Forecasting Urban Vibrancy Evolution: A Multi-View Graph Mining Perspective}</a></td>
+        <td>Liu et al. <a href="https://dl.acm.org/doi/full/10.1145/3568683?casa_token=ZEtTxOhR8awAAAAA%3A_Xr6B-JkoEKDnY6rx-ykQ8IFTaSWG9xJNekc4edC6vjO4n8mlBH88BnpzWieRQtrM_WACQJxCkw2Fac">[Characterizing and Forecasting Urban Vibrancy Evolution: A Multi-View Graph Mining Perspective]</a></td>
         <td>Urban Planning</td>
         <td>UCF</td>
         <td>2020</td>
