@@ -360,13 +360,13 @@ If you find our work useful in your research, please consider citing:
         <td>2020</td>
     </tr>
     <tr>
-        <td>Fu et al. <a href="Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations">\citet{Efficient region embedding with multi-view spatial networks: A perspective of locality-constrained spatial autocorrelations}</a></td>
+        <td>Fu et al. <a href="Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations">[Efficient region embedding with multi-view spatial networks: A perspective of locality-constrained spatial autocorrelations]</a></td>
         <td>General</td>
         <td>UCF</td>
         <td>2019</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{liu2020spatiotemporal}</a></td>
+        <td>Liu et al. <a href="https://ieeexplore.ieee.org/abstract/document/9050875?casa_token=YPSDqpHkFikAAAAA:b4SM0qjUjl0kUhiLViCigGhK47DPVZ2po4jHmrj-9t_0NQ_i-js7QE_yFixN38WUEtDnGVRztGs6fg">\citet{Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding}</a></td>
         <td>Social</td>
         <td>Gatech</td>
         <td>2022</td>
