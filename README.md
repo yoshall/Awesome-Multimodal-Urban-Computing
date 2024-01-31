@@ -102,7 +102,7 @@ If you find our work useful in your research, please consider citing:
   - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]
   - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]
 
-### Song Xuan group (SUSTech)
+### [SUSTech Lab (Prof. Xuan Song)](https://www.sustech.edu.cn/en/faculties/songxuan.html)
   - DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level
   [[paper](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]
   - Optimization of Causative Factors for Landslide Susceptibility Evaluation Using Remote Sensing and GIS Data in Parts of Niigata, Japan
@@ -114,7 +114,7 @@ If you find our work useful in your research, please consider citing:
   - DeepMob: Integrating GPS trajectory and topics from Twitter stream for human mobility estimation
   [[paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=19960)]
 
-### Wang Senzhang (CSU)
+### [Big Data for Urban Intelligence Lab (Prof. Senzhang Wang - CSU)](https://faculty.csu.edu.cn/wangsenzhang/en/index.htm) 
   - Citywide traffic congestion estimation with social media
   [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820829)]
   - Estimating Urban Traffic Congestions with Multi-sourced Data
