@@ -378,7 +378,7 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td>Bai et al. <a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557370">\citet{Spatio-temporal graph convolutional and recurrent networks for citywide passenger demand prediction}</a></td>
+        <td>Bai et al. <a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557370">[Spatio-temporal graph convolutional and recurrent networks for citywide passenger demand prediction]</a></td>
         <td>Transportation</td>
         <td>Shanghai AI Lab</td>
         <td>2019</td>
@@ -390,62 +390,63 @@ If you find our work useful in your research, please consider citing:
         <td>2021</td>
     </tr>
     <tr>
-        <td><a href="https://ieeexplore.ieee.org/abstract/document/9238459?casa_token=VxAEiwiSInAAAAAA:_NM3ge3f3pliOAsbipKBQPn1Z9-PMxzXJSYy5PHYAaaqkVWcEzGkyx_l_DsdaC83CmQPVwevvj-Byw">[A Force-Directed Approach to Seeking Route Recommendation in Ride-on-Demand Service Using Multi-Source Urban Data]</a></td>
+        <td>Guo et al. <a href="https://ieeexplore.ieee.org/abstract/document/9238459?casa_token=VxAEiwiSInAAAAAA:_NM3ge3f3pliOAsbipKBQPn1Z9-PMxzXJSYy5PHYAaaqkVWcEzGkyx_l_DsdaC83CmQPVwevvj-Byw">[A Force-Directed Approach to Seeking Route Recommendation in Ride-on-Demand Service Using Multi-Source Urban Data]</a></td>
         <td>Transportation</td>
         <td>Alibaba</td>
         <td>2019</td>
     </tr>
     <tr>
-        <td>Yao et al.<a href="https://ojs.aaai.org/index.php/AAAI/article/view/11836">\citet{Deep multi-view spatial-temporal network for taxi demand prediction}</a></td>
+        <td>Yao et al.<a href="https://ojs.aaai.org/index.php/AAAI/article/view/11836">[Deep multi-view spatial-temporal network for taxi demand prediction]</a></td>
         <td>Transportation</td>
         <td>PSU</td>
         <td>2018</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{gao2022contextual}</a></td>
+        <td>Gao et al. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819">[Contextual spatio-temporal graph representation learning for reinforced human mobility mining]</a></td>
         <td>Transportation</td>
         <td>SWJTU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>DeepMob <a href="your_citation_link">[songDeepMobLearningDeep2017]</a></td>
+        <td>DeepMob <a href="https://dl.acm.org/doi/abs/10.1145/3057280?casa_token=-MQz6aOv_WgAAAAA:dfBZ8q-WljFjUH5OFWtFkykguS5Q2bMQsNrcZPUMrjuQNw16eOdSk83I6DTHlERoTL8VTXKSf-ZerdQ">[Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data]</a></td>
         <td>Public Safety</td>
         <td>SUSTech</td>
         <td>2017</td>
     </tr>
     <tr>
-        <td><a href="your_citation_link">\citet{geng2019spatiotemporal}</a></td>
+        <td>Geng<a href="https://ojs.aaai.org/index.php/AAAI/article/view/4247">\[Spatiotemporal multi-graph convolution network for ride-hailing demand forecasting]</a></td>
         <td>Transportation</td>
         <td>HKUST</td>
         <td>2019</td>
     </tr>
     <tr>
         <td rowspan="13"><strong><em>Alignment Based Data Fusion</em></strong></td>
-        <td><a href="your_citation_link">\citet{xiFirstLawGeography2022b}</a></td>
+        <td><a href="https://dl.acm.org/doi/abs/10.1145/3485447.3512149">[Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests]</a></td>
         <td>General</td>
         <td>THU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>Zhang et al. <a href="your_citation_link">\citet{zhangMultiviewJointGraph2021a}</a></td>
+        <td>Zhang et al. <a href="https://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf">\[Multi-View Joint Graph Representation Learning for Urban Region Embedding]</a></td>
         <td>General</td>
         <td>THU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td>Yuan et al. <a href="your_citation_link">\citet{yuan2021effective}</a></td>
+        <td>Yuan et al. <a href="your_citation_link">[An effective joint prediction model for travel demands and traffic flows]</a></td>
         <td>Transportation</td>
         <td>THU</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td>Yin et al. <a href="your_citation_link">\citet{yinMultitaskLearningFramework2020a}</a></td>
+        <td>Yin et al. <a href="https://ieeexplore.ieee.org/abstract/document/9458698?casa_token=PuqlRYsABxAAAAAA:xTdwTjLwlWzZvF5BShhkLvAlzE15AB9lwySluVlXYeNAlxKFC6aUibBFsvUYYDQlBaEGalw5zoObvQ">\citet{yinMultitaskLearningFramework2020a}</a></td>
         <td>Urban Planning</td>
         <td>NUS</td>
         <td>2020</td>
     </tr>
     <tr>
-        <td>GSNet <a href="your_citation_link">[wang2021gsnet]</a></td>
+        <td>GSNet <a href="https://ojs.aaai.org/index.php/AAAI/article/view/16566">[GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting
+]</a></td>
         <td>Public Safety</td>
         <td>BJTU</td>
         <td>2021</td>
@@ -603,6 +604,8 @@ If you find our work useful in your research, please consider citing:
         <td>2023</td>
     </tr>
 </table>
+
+
 
 
 
