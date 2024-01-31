@@ -126,7 +126,7 @@ If you find our work useful in your research, please consider citing:
   - Forecasting Citywide Traffic Congestion Based on Social Media
   [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]<br>*In Wireless Personal Communications, 2018*
   - Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks
-  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br*IEEE Transactions on Knowledge and Data Engineering, 2021*
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br>*IEEE Transactions on Knowledge and Data Engineering, 2021*
 
 
 ### [CityMind Lab (Prof. Yuxuan Liang - USTGZ)](https://yuxuanliang.com/)
