@@ -506,13 +506,54 @@ If you find our work useful in your research, please consider citing:
         <td>THU</td>
         <td>2023</td>
     </tr>
-
     <tr>
-        <td rowspan="9"><strong><em>Generation Based Data Fusion</em></strong></td>
-        <td>SG-GAN <a href="citation_link">[zhang2020enhanced]</a></td>
+        <td rowspan="8"><strong><em>Contrast Based Data Fusion</em></strong></td>
+        <td>KnowCL <a href="your_citation_link">[liu2023knowledge]</a></td>
+        <td>Economy</td>
+        <td>THU</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{li2022predicting}</a></td>
+        <td>Economy</td>
+        <td>THU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>MMGR <a href="your_citation_link">[bai2023geographic]</a></td>
+        <td>General</td>
+        <td>NTU</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>ReMVC <a href="your_citation_link">[zhangRegionEmbeddingIntra2023]</a></td>
         <td>Urban Planning</td>
-        <td>NUS</td>
-        <td>2020</td>
+        <td>NTU</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>HMTRL <a href="your_citation_link">[liu2023unified]</a></td>
+        <td>Transportation</td>
+        <td>UCF</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td><a href="your_citation_link">\citet{mao2022jointly}</a></td>
+        <td>Transportation</td>
+        <td>Shanghai AI Lab</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>UrbanSTC <a href="your_citation_link">[qu2022forecasting]</a></td>
+        <td>Transportation</td>
+        <td>JD Research</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>UrbanCLIP <a href="your_citation_link">[yan2023urban]</a></td>
+        <td>General</td>
+        <td>HKUST(GZ)</td>
+        <td>2023</td>
     </tr>
 </table>
 
