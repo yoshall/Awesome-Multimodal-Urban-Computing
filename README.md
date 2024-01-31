@@ -78,154 +78,154 @@ If you find our work useful in your research, please consider citing:
 
 ### [SDU Lab (Prof. Meng Chen)](https://faculty.sdu.edu.cn/chenmeng2/en/index/815589/list/index.htm)
   - Pre-Trained Semantic Embeddings for POI Categories Based on Multiple Contexts
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]<br>
 
 ### [UESTC Lab (Prof. Kai Zheng)](https://zheng-kai.com/)
   - Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]<br>
 
 ### [CPS-DSC Lab(Prof. Chao Chen - CQU)](http://cps.cqu.edu.cn/info/1006/1647.htm)
   - TripPlanner: Personalized Trip Planning Leveraging Heterogeneous Crowdsourced Digital Footprints
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6951432&casa_token=RHnlU4MWS-AAAAAA:LQ9gSNTx_KByl4JRJeHbhRZKbbZF4vSeQNESLSX6TS8ErIe4qL7DhoEbD249JdzLG46vUmipzKbv7EU)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6951432&casa_token=RHnlU4MWS-AAAAAA:LQ9gSNTx_KByl4JRJeHbhRZKbbZF4vSeQNESLSX6TS8ErIe4qL7DhoEbD249JdzLG46vUmipzKbv7EU)]<br>
 
 ### [Cloud Computing and Intelligent Techniques Lab (Prof. Tianrui Li - SWJTU)](https://faculty.swjtu.edu.cn/litianrui/en/index/33185/list/index.htm)
   - Forecasting Fine-Grained Air Quality Based on Big Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]<br>
   - Urban Sensing Based on Human Mobility
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>
   - Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>
   - Symbolic aggregate approximation based data fusion model for dangerous driving behavior detection
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008076)]
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008076)]<br>
   - Contextual spatio-temporal graph representation learning for reinforced human mobility mining
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819)]
-  - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]
-  - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819)]<br>
+  - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]<br>
+  - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]<br>
 
 ### [SUSTech Lab (Prof. Xuan Song)](https://www.sustech.edu.cn/en/faculties/songxuan.html)
   - DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level
-  [[paper](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]
+  [[paper](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]<br>
   - Optimization of Causative Factors for Landslide Susceptibility Evaluation Using Remote Sensing and GIS Data in Parts of Niigata, Japan
-  [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133262)]
+  [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133262)]<br>
   - DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3057280?casa_token=RDXjxqCYCCEAAAAA:iXOtzNRcK_fO5bKzVA9GgKtIoQRho1cJSerow7khjv7Jh0c_VD5wULGeUC_EkAINn0vdvL2VuZkJ_I2h)]
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3057280?casa_token=RDXjxqCYCCEAAAAA:iXOtzNRcK_fO5bKzVA9GgKtIoQRho1cJSerow7khjv7Jh0c_VD5wULGeUC_EkAINn0vdvL2VuZkJ_I2h)]<br>
   - DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330654?casa_token=1-tOoL9o8jIAAAAA:_vaxaOlhK7v-Ry480JpcKkBhhJhtkhylJ1M2cVGJwulqPYixYadUo7ZrihS3CfDFQunNfFW7hmRuZF3e)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330654?casa_token=1-tOoL9o8jIAAAAA:_vaxaOlhK7v-Ry480JpcKkBhhJhtkhylJ1M2cVGJwulqPYixYadUo7ZrihS3CfDFQunNfFW7hmRuZF3e)]<br>
   - DeepMob: Integrating GPS trajectory and topics from Twitter stream for human mobility estimation
-  [[paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=19960)]
+  [[paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=19960)]<br>
 
 ### [Big Data for Urban Intelligence Lab (Prof. Senzhang Wang - CSU)](https://faculty.csu.edu.cn/wangsenzhang/en/index.htm) 
   - Citywide traffic congestion estimation with social media
-  [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820829)]
+  [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820829)]<br>
   - Estimating Urban Traffic Congestions with Multi-sourced Data
-  [[paper](https://ieeexplore.ieee.org/abstract/document/7517782?casa_token=H4WsNdho-kgAAAAA:W6-cfFsKIaaZaFl2ZTMmQHwF_nIGlf8w6CLCmq2LPXCDWD8d1NucR_hFmKrYqbYWbgZTya22KmMXyxU)]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/7517782?casa_token=H4WsNdho-kgAAAAA:W6-cfFsKIaaZaFl2ZTMmQHwF_nIGlf8w6CLCmq2LPXCDWD8d1NucR_hFmKrYqbYWbgZTya22KmMXyxU)]<br>
   - Enhancing Traffic Congestion Estimation with Social Media by Coupled Hidden Markov Model
-  [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46227-1_16)]
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46227-1_16)]<br>
   - Computing urban traffic congestions by incorporating sparse GPS probe data and social media data
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3057281)]
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3057281)]<br>
   - Forecasting Citywide Traffic Congestion Based on Social Media
-  [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]
+  [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]<br>
   - Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks
-  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br>
 
 
 ### [CityMind Lab (Prof. Yuxuan Liang - USTGZ)](https://yuxuanliang.com/)
   - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]<br>
   - Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]<br>
 
 ### [Data Intelligence Lab (Prof. Chao Huang - HKU)](https://sites.google.com/view/chaoh)
   - Exploiting spatial-temporal-social constraints for localness inference using online social media
-  [[paper](https://ieeexplore.ieee.org/abstract/document/7752247)]
+  [[paper](https://ieeexplore.ieee.org/abstract/document/7752247)]<br>
 
 ### [ASC Lab (Prof. Xiaoliang Fan - XMU)](https://fanxlxmu.github.io/)
   - PANDA: predicting road risks after natural disasters leveraging heterogeneous urban data
-  [[paper](https://link.springer.com/article/10.1007/s42486-022-00095-5)]
+  [[paper](https://link.springer.com/article/10.1007/s42486-022-00095-5)]<br>
   - UVLens: Urban Village Boundary Identification and Population Estimation Leveraging Open Government Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3463495)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3463495)]<br>
   - iTV: Inferring Traffic Violation-Prone Locations With Vehicle Trajectories and Road Environment Data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9171429)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9171429)]<br>
   - RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]<br>
 
 ### [KDD Lab (Prof. Yanjie Fu - UCF)](https://yanjiefu.com/)
   - Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training
-  [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]
+  [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]<br>
   - NodeSense2Vec: Spatiotemporal Context-Aware Network Embedding for Heterogeneous Urban Mobility Data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672072)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672072)]<br>
   - Collective embedding with feature importance: A unified approach for spatiotemporal network embedding
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412030)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412030)]<br>
   - Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970913)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970913)]<br>
   - Joint Representation Learning for Multi-Modal Transportation Recommendation
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]<br>
   - Efficient Region Embedding with Multi-View Spatial Networks:A Perspective of Locality-Constrained Spatial Autocorrelations
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]<br>
 
 ### [Gatech Lab (Prof. Chao Zhang)](http://chaozhang.org/)
   - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]<br>
 
 ### [Big Data and Database Group (Prof. Zhifeng Bao - RMIT)](https://baozhifeng.net/)
   - Similar Trajectory Search with Spatio-Temporal Deep Representation Learning
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]<br>
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows
-  [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]
+  [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]<br>
 
 ### [Artificial Intelligence (AI) research group (Prof. Jianzhong Qi - UniMelb)](https://people.eng.unimelb.edu.au/jianzhongq/)
   - A Joint Context-Aware Embedding for Trip Recommendations
-  [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]
+  [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]<br>
 
 ### [Context Recognition and Urban Intelligence (CRUISE) Lab (Prof. Flora Salim - UNSW)](https://cruiseresearchgroup.florasalim.com/)
   - Multimodal Trajectory Prediction: A Survey
-  [[paper](https://arxiv.org/pdf/2302.10463)]
+  [[paper](https://arxiv.org/pdf/2302.10463)]<br>
   - Explainable spatiotemporal reasoning for geospatial intelligence applications
-  [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12939)]
+  [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12939)]<br>
   - Event-Aware Multimodal Mobility Nowcasting
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)]<br>
   - Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data
-  [[paper](https://arxiv.org/pdf/2206.02353)]
+  [[paper](https://arxiv.org/pdf/2206.02353)]<br>
 
 ### [Baidu Intelligent Driving Group (IDG) (Dr. Jizhou Huang - Baidu Map)](https://huangjizhou.github.io/)
   - DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]<br>
   - ERNIE-GeoL: A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539021)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539021)]<br>
   - DuTraffic: Live Traffic Condition Prediction with Trajectory Data and Street Views at Baidu Mapss
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557151)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557151)]<br>
   - A Contextual Master-Slave Framework on Urban Region Graph for Urban Village Detection
-  [[paper](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf)]
+  [[paper](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf)]<br>
 
 ### [Shanghai AI Lab (Dr. Lei Bai)](http://leibai.site/)
   - Jointly Contrastive Representation Learning on Road Network and Trajectory
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>
   - Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>
   - STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
-  [[paper](https://arxiv.org/pdf/1905.10069)]
+  [[paper](https://arxiv.org/pdf/1905.10069)]<br>
 
 ### [Alibaba Group (Dr. Jieping Ye)](http://www.yelabs.net/)
   - Joint predictions of multi-modal ride-hailing demands: A deep multi-task multi-graph learning-based approach
-  [[paper](https://arxiv.org/pdf/2011.05602)]
+  [[paper](https://arxiv.org/pdf/2011.05602)]<br>
   - Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting
-  [[paper](https://www.mdpi.com/2071-1050/14/19/12397/pdf)]
+  [[paper](https://www.mdpi.com/2071-1050/14/19/12397/pdf)]<br>
 
 ### [PSU Group (Prof. Zhenhui Li)](https://faculty.ist.psu.edu/jessieli/Site/index.html)
   - Unsupervised Representation Learning of Spatial Data via Multimodal Embedding
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]<br>
   - Deep multi-view spatial-temporal network for taxi demand prediction
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]<br>
 
 ### [JD Intelligent Cities Research Lab (Prof. Yu Zheng)](http://urban-computing.com/yuzheng)
   - Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]<br>
   - Spatio-Temporal Self-Supervised Learning for Traffc Flow Prediction
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25555/25327)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25555/25327)]<br>
   - Spatio-Temporal Contrastive Self-Supervised Learning for POI-level Crowd Flow Inference
-  [[paper](https://arxiv.org/pdf/2309.03239)]
+  [[paper](https://arxiv.org/pdf/2309.03239)]<br>
   - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
-  [[paper](https://arxiv.org/pdf/2206.00007)]
+  [[paper](https://arxiv.org/pdf/2206.00007)]<br>
 
 ## Data Fusion Methods
 
