@@ -189,43 +189,43 @@ If you find our work useful in your research, please consider citing:
 
 ### [Baidu Intelligent Driving Group (IDG) (Dr. Jizhou Huang - Baidu Map)](https://huangjizhou.github.io/)
   - DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
   - ERNIE-GeoL: A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539021)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539021)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
   - DuTraffic: Live Traffic Condition Prediction with Trajectory Data and Street Views at Baidu Mapss
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557151)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557151)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
   - A Contextual Master-Slave Framework on Urban Region Graph for Urban Village Detection
-  [[paper](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf)]<br>
+  [[paper](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf)]<br>*In Proceedings of the IEEE 39th International Conference on Data Engineering (ICDE), 2023*
 
 ### [Shanghai AI Lab (Dr. Lei Bai)](http://leibai.site/)
   - Jointly Contrastive Representation Learning on Road Network and Trajectory
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
   - Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>*In Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019*
   - STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
-  [[paper](https://arxiv.org/pdf/1905.10069)]<br>
+  [[paper](https://arxiv.org/pdf/1905.10069)]<br>*In arXiv, 2019*
 
 ### [Alibaba Group (Dr. Jieping Ye)](http://www.yelabs.net/)
   - Joint predictions of multi-modal ride-hailing demands: A deep multi-task multi-graph learning-based approach
-  [[paper](https://arxiv.org/pdf/2011.05602)]<br>
+  [[paper](https://arxiv.org/pdf/2011.05602)]<br>*In Transportation Research Part C: Emerging Technologies, 2021*
   - Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting
-  [[paper](https://www.mdpi.com/2071-1050/14/19/12397/pdf)]<br>
+  [[paper](https://www.mdpi.com/2071-1050/14/19/12397/pdf)]<br>*In Sustainability, 2022*
 
 ### [PSU Group (Prof. Zhenhui Li)](https://faculty.ist.psu.edu/jessieli/Site/index.html)
   - Unsupervised Representation Learning of Spatial Data via Multimodal Embedding
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]<br>*In Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019*
   - Deep multi-view spatial-temporal network for taxi demand prediction
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]<br>
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2018*
 
 ### [JD Intelligent Cities Research Lab (Prof. Yu Zheng)](http://urban-computing.com/yuzheng)
   - Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]<br>
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2022*
   - Spatio-Temporal Self-Supervised Learning for Traffc Flow Prediction
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25555/25327)]<br>
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25555/25327)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
   - Spatio-Temporal Contrastive Self-Supervised Learning for POI-level Crowd Flow Inference
-  [[paper](https://arxiv.org/pdf/2309.03239)]<br>
+  [[paper](https://arxiv.org/pdf/2309.03239)]<br>*In arXiv, 2023*
   - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
-  [[paper](https://arxiv.org/pdf/2206.00007)]<br>
+  [[paper](https://arxiv.org/pdf/2206.00007)]<br>*In arXiv, 2022*
 
 ## Data Fusion Methods
 
