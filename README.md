@@ -4,7 +4,7 @@
 
 # Awesome-Multimodal-Urban-Computing
 
-By [Citymind LAB](https://citymind.top) [HKUST(GZ)](https://www.hkust-gz.edu.cn/). If there are any areas, papers, and datasets I missed, please let me know!
+By [Citymind LAB](https://citymind.top), [HKUST(GZ)](https://www.hkust-gz.edu.cn/). If there are any areas, papers, and datasets I missed, please let me know!
 
 Check out our comprehsensive tutorial paper:
 > **Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook.** Xingchen Zou, Yibo Yan, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdong Liu, Junbo Zhang, Yong Li, Tianrui Li, Yu Zheng, Yuxuan Liang. [[homepage](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing)]
