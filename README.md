@@ -562,43 +562,43 @@ If you find our work useful in your research, please consider citing:
         <td>2022</td>
     </tr>
     <tr>
-        <td>DiffSTG <a href="your_citation_link">[wen2023diffstg]</a></td>
+        <td>DiffSTG <a href="https://dl.acm.org/doi/abs/10.1145/3589132.3625614?casa_token=e0UhNIJm1vkAAAAA:QSm-ru_XX4j1L3vLGdyuCoB7-W5i577s-Oj7hGiNq4b30uyOhjb_VgrjZn7llT2QVEuqAdXYD7wFOhc">[Diffstg: Probabilistic spatio-temporal graph forecasting with denoising diffusion models]</a></td>
         <td>General</td>
         <td>BJTU</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>CP-Route <a href="your_citation_link">[wen2023modeling]</a></td>
+        <td>CP-Route <a href="https://ieeexplore.ieee.org/abstract/document/10225450?casa_token=HlK3IvZc4lgAAAAA:5z4ys4Kwv4fQiewvbexydlFEN4GPCuF1TgZEkChcsWR8Dek2gO7uahAnInfUtu1diEk1HzI8p-HAOw">[Modeling Spatial–Temporal Constraints and Spatial-Transfer Patterns for Couriers’ Package Pick-up Route Prediction]</a></td>
         <td>Transportation</td>
         <td>BJTU</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>G2PTL <a href="your_citation_link">[wu2023g2ptl]</a></td>
+        <td>G2PTL <a href="https://arxiv.org/abs/2304.01559">[G2PTL: A Pre-trained Model for Delivery Address and its Applications in Logistics System]</a></td>
         <td>Transportation</td>
         <td>Cainiao</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>DiffUFlow <a href="your_citation_link">[zheng2023diffuflow]</a></td>
+        <td>DiffUFlow <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3614842?casa_token=70EI8xajwnQAAAAA:NJsEthSc0GvyPNwhInIIYPf8qeT3pTXsmTd9XopAX9LbkngMhw-26CGtUsG9JOU1Uiy2hsiH7AAOfiI">[DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model]</a></td>
         <td>Transportation</td>
         <td>CSU</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>DP-TFI <a href="your_citation_link">[xu2023diffusion]</a></td>
+        <td>DP-TFI <a href="https://ieeexplore.ieee.org/abstract/document/10096169?casa_token=0L_1VDGADUMAAAAA:KYxU5gEGb8hiE1r4KrVpnmvhJdueSGAAVdAB6zMEpEmljJmqwG_RnN3YWrCVZ8ah3CdvNWpCkh5Tcw">[Diffusion Probabilistic Modeling for Fine-Grained Urban Traffic Flow Inference with Relaxed Structural Constraint]</a></td>
         <td>Transportation</td>
         <td>UEST</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>Wang et al. <a href="your_citation_link">\citet{wang2021deep}</a></td>
+        <td>Wang et al. <a href="https://ieeexplore.ieee.org/abstract/document/9679173?casa_token=qKgtNCihtjgAAAAA:qVVSo6ZpIq2A6DNlzQ-2ry8DNp3tvP5IFm3l_2wPydQwn9bFdjLNh9a8IdfSsR2cE4z_khwNCHNunQ">[Deep Human-guided Conditional Variational Generative Modeling for Automated Urban Planning]</a></td>
         <td>Urban Planning</td>
         <td>UCF</td>
         <td>2021</td>
     </tr>
     <tr>
-        <td>MGEO <a href="your_citation_link">[ding2023mgeo]</a></td>
+        <td>MGEO <a href="https://ieeexplore.ieee.org/abstract/document/9679173?casa_token=qKgtNCihtjgAAAAA:qVVSo6ZpIq2A6DNlzQ-2ry8DNp3tvP5IFm3l_2wPydQwn9bFdjLNh9a8IdfSsR2cE4z_khwNCHNunQ">[Deep Human-guided Conditional Variational Generative Modeling for Automated Urban Planning]</a></td>
         <td>General</td>
         <td>Alibaba</td>
         <td>2023</td>
