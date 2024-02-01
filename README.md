@@ -537,26 +537,26 @@ If you find our work useful in your research, please consider citing:
         <td>2022</td>
     </tr>
     <tr>
-        <td>UrbanSTC <a href="your_citation_link">[qu2022forecasting]</a></td>
+        <td>UrbanSTC <a href="https://ieeexplore.ieee.org/abstract/document/9864246?casa_token=fLbArl8AbuMAAAAA:YxtQGcPEhkFnfdA7FSB4lF3rQ8QOZ2vaoSO2alvXVndSs-wrpFStGvLvdTfoQQdcCTYdNEehEWkmxQ">[Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision]</a></td>
         <td>Transportation</td>
         <td>JD Research</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>UrbanCLIP <a href="your_citation_link">[yan2023urban]</a></td>
+        <td>UrbanCLIP <a href="https://arxiv.org/abs/2310.18340">[When Urban Region Profiling Meets Large Language Models]</a></td>
         <td>General</td>
         <td>HKUST(GZ)</td>
         <td>2023</td>
     </tr>
     <tr>
         <td rowspan="9"><strong><em>Generation Based Data Fusion</em></strong></td>
-        <td>SG-GAN <a href="your_citation_link">[zhang2020enhanced]</a></td>
+        <td>SG-GAN <a href="https://ieeexplore.ieee.org/abstract/document/9200630">[An enhanced gan model for automatic satellite-to-map image conversion]</a></td>
         <td>Urban Planning</td>
         <td>NUS</td>
         <td>2020</td>
     </tr>
     <tr>
-        <td>ActSTD <a href="your_citation_link">[yuan2022activity]</a></td>
+        <td>ActSTD <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3542671">[Activity trajectory generation via modeling spatiotemporal dynamics]</a></td>
         <td>Transportation</td>
         <td>THU</td>
         <td>2022</td>
