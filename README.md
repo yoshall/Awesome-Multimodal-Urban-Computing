@@ -414,7 +414,7 @@ If you find our work useful in your research, please consider citing:
         <td>2017</td>
     </tr>
     <tr>
-        <td>Geng<a href="https://ojs.aaai.org/index.php/AAAI/article/view/4247">\[Spatiotemporal multi-graph convolution network for ride-hailing demand forecasting]</a></td>
+        <td>Geng<a href="https://ojs.aaai.org/index.php/AAAI/article/view/4247">[Spatiotemporal multi-graph convolution network for ride-hailing demand forecasting]</a></td>
         <td>Transportation</td>
         <td>HKUST</td>
         <td>2019</td>
@@ -427,7 +427,7 @@ If you find our work useful in your research, please consider citing:
         <td>2022</td>
     </tr>
     <tr>
-        <td>Zhang et al. <a href="https://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf">\[Multi-View Joint Graph Representation Learning for Urban Region Embedding]</a></td>
+        <td>Zhang et al. <a href="https://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf">[Multi-View Joint Graph Representation Learning for Urban Region Embedding]</a></td>
         <td>General</td>
         <td>THU</td>
         <td>2021</td>
@@ -501,37 +501,37 @@ If you find our work useful in your research, please consider citing:
     </tr>
     <tr>
         <td rowspan="8"><strong><em>Contrast Based Data Fusion</em></strong></td>
-        <td>KnowCL <a href="your_citation_link">[liu2023knowledge]</a></td>
+        <td>KnowCL <a href="https://dl.acm.org/doi/abs/10.1145/3543507.3583876">[Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction]</a></td>
         <td>Economy</td>
         <td>THU</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>Li et al. <a href="your_citation_link">\citet{li2022predicting}</a></td>
+        <td>Li et al. <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557153">[Predicting Multi-level Socioeconomic Indicators from Structural Urban Imagery]</a></td>
         <td>Economy</td>
         <td>THU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>MMGR <a href="your_citation_link">[bai2023geographic]</a></td>
+        <td>MMGR <a href="https://www.sciencedirect.com/science/article/pii/S0924271623001235">[Geographic mapping with unsupervised multi-modal representation learning from VHR images and POIs]</a></td>
         <td>General</td>
         <td>NTU</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>ReMVC <a href="your_citation_link">[zhangRegionEmbeddingIntra2023]</a></td>
+        <td>ReMVC <a href="https://ieeexplore.ieee.org/abstract/document/9973276/?casa_token=4YaGlNScjNwAAAAA:pMi6gloGOsjEL6AtdY6CCqaOxFj_E6ik0UWEUOVVv_hj1k1f6rOOOUtutJG-LmPkw1tECCzWa_2IBQ">[Region Embedding with Intra and Inter-View Contrastive Learning]</a></td>
         <td>Urban Planning</td>
         <td>NTU</td>
         <td>2022</td>
     </tr>
     <tr>
-        <td>HMTRL <a href="your_citation_link">[liu2023unified]</a></td>
+        <td>HMTRL <a href="https://link.springer.com/article/10.1007/s00778-022-00748-y">[Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training]</a></td>
         <td>Transportation</td>
         <td>UCF</td>
         <td>2023</td>
     </tr>
     <tr>
-        <td>Mao et al. <a href="your_citation_link">\citet{mao2022jointly}</a></td>
+        <td>Mao et al. <a href="Jointly Contrastive Representation Learning on Road Network and Trajectory">[Jointly contrastive representation learning on road network and trajectory]</a></td>
         <td>Transportation</td>
         <td>Shanghai AI Lab</td>
         <td>2022</td>
