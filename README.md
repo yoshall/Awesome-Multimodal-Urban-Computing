@@ -141,13 +141,13 @@ If you find our work useful in your research, please consider citing:
 
 ### [ASC Lab (Prof. Xiaoliang Fan - XMU)](https://fanxlxmu.github.io/)
   - PANDA: predicting road risks after natural disasters leveraging heterogeneous urban data
-  [[paper](https://link.springer.com/article/10.1007/s42486-022-00095-5)]<br>
+  [[paper](https://link.springer.com/article/10.1007/s42486-022-00095-5)]<br>*In CCF Transactions on Pervasive Computing and Interaction, 2022*
   - UVLens: Urban Village Boundary Identification and Population Estimation Leveraging Open Government Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3463495)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3463495)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2021*
   - iTV: Inferring Traffic Violation-Prone Locations With Vehicle Trajectories and Road Environment Data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9171429)]<br>
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9171429)]<br>*In IEEE Systems Journal, 2021*
   - RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2018*
 
 ### [KDD Lab (Prof. Yanjie Fu - UCF)](https://yanjiefu.com/)
   - Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training
