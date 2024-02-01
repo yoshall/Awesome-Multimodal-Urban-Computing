@@ -33,7 +33,7 @@ If you find our work useful in your research, please consider citing:
 
 - [Paper List](#paper-list) 
 - [Data Fusion Methods](#data-fusion-methods)
-- [Taxonomy and summary of open-sourced dataset](#Taxonomy and summary of open-sourced dataset)
+- [Taxonomy and summary of open-sourced dataset](#Taxonomy-and-summary-of-open-sourced-dataset)
 
 ## Paper List
 ### [Future Intelligence Lab (FIB) (Prof. Yong Li - THU)](https://fi.ee.tsinghua.edu.cn/)
