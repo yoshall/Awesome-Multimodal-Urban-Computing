@@ -654,9 +654,8 @@ Below is a list of open source datasets categorized by their type and source.
 ]<br>[<a href="https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf?casa_token=XePczjLegakAAAAA:Pk74Vu7znrMR4gZJ3yZbiFZYHZ7xs7JUebgP92rLj-9vlOMWBgw0j3TF3Y-qA15tsscrPd2a6ShzoA">Paper</a>
 ]<br>[<a href="https://arxiv.org/pdf/2206.00007">Paper</a>
 ]</td>
-    </tr>
- 
-    <tr>
+</tr>
+<tr>
     <td rowspan="4">Traffic Data</td>
     <td>Traffic Trajectory</td>
     <td>Spatio-temporal Trajectory</td>
