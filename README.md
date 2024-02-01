@@ -32,7 +32,7 @@ If you find our work useful in your research, please consider citing:
 ## Contents
 
 - [Paper List](#paper-list) 
-- [Open Source Projects](#open-source-projects)
+- [Data Fusion Method](#open-source-projects)
 - [Taxonomy and summary of open-sourced dataset](#Dataset)
 
 ## Paper List
