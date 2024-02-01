@@ -165,27 +165,27 @@ If you find our work useful in your research, please consider citing:
 
 ### [Gatech Lab (Prof. Chao Zhang)](http://chaozhang.org/)
   - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]<br>
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
 
 ### [Big Data and Database Group (Prof. Zhifeng Bao - RMIT)](https://baozhifeng.net/)
   - Similar Trajectory Search with Spatio-Temporal Deep Representation Learning
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]<br>*In ACM Transactions on Intelligent Systems and Technology, 2021*
   - An Effective Joint Prediction Model for Travel Demands and Traffic Flows
-  [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]<br>
+  [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]<br>*In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), 2021
 
 ### [Artificial Intelligence (AI) research group (Prof. Jianzhong Qi - UniMelb)](https://people.eng.unimelb.edu.au/jianzhongq/)
   - A Joint Context-Aware Embedding for Trip Recommendations
-  [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]<br>
+  [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]<br>*In Proceedings of the IEEE 35th International Conference on Data Engineering (ICDE), 2019*
 
 ### [Context Recognition and Urban Intelligence (CRUISE) Lab (Prof. Flora Salim - UNSW)](https://cruiseresearchgroup.florasalim.com/)
   - Multimodal Trajectory Prediction: A Survey
-  [[paper](https://arxiv.org/pdf/2302.10463)]<br>
+  [[paper](https://arxiv.org/pdf/2302.10463)]<br>*In arXiv, 2023*
   - Explainable spatiotemporal reasoning for geospatial intelligence applications
-  [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12939)]<br>
+  [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12939)]<br>*In Transactions in GIS, 2022*
   - Event-Aware Multimodal Mobility Nowcasting
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)]<br>
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2022*
   - Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data
-  [[paper](https://arxiv.org/pdf/2206.02353)]<br>
+  [[paper](https://arxiv.org/pdf/2206.02353)]<br>*In arXiv, 2022*
 
 ### [Baidu Intelligent Driving Group (IDG) (Dr. Jizhou Huang - Baidu Map)](https://huangjizhou.github.io/)
   - DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
