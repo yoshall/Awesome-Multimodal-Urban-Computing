@@ -668,7 +668,7 @@ Below is a list of open source datasets categorized by their type and source.
 <tr>
     <td>Traffic Flow</td>
     <td>Spatial-temporal Graph</td>
-    <td>California-PEMS [<a href="http://pems.dot.ca.gov">Link</a>]<br>METR-LA [<a href="https://www.metro.net">Link</a>]<br>Large-ST [<a href="https://github.com/liuxu77/LargeST">Link</a>]<br>MobileBJ [<a href="">Link</a>]<br>DiDi (Traffic flows) [<a href="https://outreach.didichuxing.com/research/opendata/">Link</a>]<br>TaxiBJ [<a href="https://goo.su/aQyjTAz">Link</a>]<br>BikeNYC [<a href="https://citibikenyc.com/">Link</a>]</td>
+    <td>California-PEMS [<a href="http://pems.dot.ca.gov">Link</a>]<br>METR-LA [<a href="https://www.metro.net">Link</a>]<br>Large-ST [<a href="https://github.com/liuxu77/LargeST">Link</a>]<br>MobileBJ [<a href="https://github.com/FIBLAB/DeepSTN/issues/4">Link</a>]<br>DiDi (Traffic flows) [<a href="https://outreach.didichuxing.com/research/opendata/">Link</a>]<br>TaxiBJ [<a href="https://goo.su/aQyjTAz">Link</a>]<br>BikeNYC [<a href="https://citibikenyc.com/">Link</a>]</td>
     <td style="font-size: 10px;">[<a href="https://dl.acm.org/doi/pdf/10.1145/1631272.1631476">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/28/4957013/10269662.pdf">Paper</a>]<br>[<a href="https://www.sciencedirect.com/science/article/pii/S0957417423007832/pdfft?md5=d9128c38443cae0e4e4c01bd64ba5706&pid=1-s2.0-S0957417423007832-main.pdf">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3583780.3615160">Paper</a>]<br>[<a href="https://arxiv.org/pdf/2306.08259">Paper</a>]<br>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/3892/3770">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3340531.3412030">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/9671263/9671273/09672072.pdf">Paper</a>]
     <br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3442381.3449792">Paper</a>][<a href="https://arxiv.org/pdf/1905.10069">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/69/4358933/09864246.pdf">Paper</a>][<a href="http://dx.doi.org/10.1109/TITS.2022.3219626">Paper</a>][<a href="http://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf">Paper</a>][<a href="http://dx.doi.org/10.1609/aaai.v33i01.3301906">Paper</a>]<br>[<a href="https://doi.org/10.1609/aaai.v33i01.33011020">Paper</a>][<a href="https://arxiv.org/abs/1905.10069">Paper</a>][<a href="https://doi.org/10.1109/TKDE.2022.3200734">Paper</a>][<a href="http://dx.doi.org/10.1109/TITS.2022.3219626">Paper</a>]</td>
 </tr>
@@ -676,13 +676,13 @@ Below is a list of open source datasets categorized by their type and source.
     <td>Road Network</td>
     <td>Spatial Graph</td>
     <td>OpenStreetMap [<a href="https://www.openstreetmap.org">Link</a>]<br>US Census Bureau [<a href=" https://www.census.gov/data.html">Link</a>]</td>
-    <td style="font-size: 10px;">[<a href="">Paper</a>][<a href="">Paper</a>][<a href="">Paper</a>][<a href="">Paper</a>][<a href="">Paper</a>]<br>[<a href="">Paper</a>]</td>
+    <td style="font-size: 10px;">[<a href="https://dl.acm.org/doi/pdf/10.1145/3366423.3380021">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3485447.3512026">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/3465058">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf">Paper</a>][<a href="https://www.mdpi.com/2071-1050/14/19/12397/pdf">Paper</a>]<br>[<a href="https://ieeexplore.ieee.org/iel7/69/4358933/09973276.pdf">Paper</a>]</td>
 </tr>
 <tr>
     <td>Logistics</td>
     <td>Spatio-temporal Trajectory</td>
     <td>LaDe [<a href="https://cainiaotechai.github.io/LaDe-website/">Link</a>]<br>JD Logistics [<a href=" https://corporate.jd.com/ourBusiness\#jdLogistics">Link</a>]</td>
-    <td style="font-size: 10px;">[<a href="">Paper</a>]<br>[<a href="">Paper</a>]</td>
+    <td style="font-size: 10px;">[<a href="https://arxiv.org/pdf/2306.10675">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539027">Paper</a>]</td>
 </tr>
 
 <tr>
@@ -739,8 +739,8 @@ Below is a list of open source datasets categorized by their type and source.
 <tr>
     <td>Air Quality</td>
     <td>Time series</td>
-    <td>UrbanAir [<a href="https://goo.su/hf2NB53">Link</a>]<br>KnowAir [<a href="">Link</a>]</td>
-    <td style="font-size: 10px;">[<a href="http://dx.doi.org/10.1145/2783258.2788573">Paper</a>]</td>
+    <td>UrbanAir [<a href="https://goo.su/hf2NB53">Link</a>]<br>KnowAir [<a href="https://github.com/shuowang-ai/PM2.5-GNN">Link</a>]</td>
+    <td style="font-size: 10px;">[<a href="https://dl.acm.org/doi/pdf/10.1145/2783258.2788573">Paper</a>][<a href="https://dl.acm.org/doi/pdf/10.1145/2487575.2488188">Paper</a>][<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UAir20Demo.pdf">Paper</a>]<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3397536.3422208">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S1568494621008103/pdfft?md5=6ffecc4f1d52b9844e204d8889b96a87&pid=1-s2.0-S1568494621008103-main.pdf">Paper</a>][<a href="https://ieeexplore.ieee.org/iel7/6287639/6514899/09780279.pdf">Paper</a>][<a href="https://www.cell.com/heliyon/pdf/S2405-8440(23)04954-X.pdf">Paper</a>]</td>
 </tr>
 
 
