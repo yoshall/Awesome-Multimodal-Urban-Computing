@@ -653,8 +653,7 @@ Below is a list of open source datasets categorized by their type and source.
 ][<a href="https://ieeexplore.ieee.org/iel7/8961330/8970627/08970913.pdf?casa_token=dGiJQD6JBGYAAAAA:plHLellxuoJotfKZ2JjsJ1B_d3g1eQzN344gSasgcTU-RvoNnjQD-izNwfLRtRYRC0MFfr04_pYd0w">Paper</a>
 ]<br>[<a href="https://ieeexplore.ieee.org/iel7/9671263/9671273/09672072.pdf?casa_token=OvW6930HqE0AAAAA:5xVeow0svfPgzlf9JbnsDLi-VgBgX-o6R_oXcUsm8gZGEZYZj9YsyEUpJ9LAaYPDSPmN6vz6W5Isgw">Paper</a>
 ][<a href="https://dl.acm.org/doi/pdf/10.1145/3340531.3412030?casa_token=20OkNaLMQHEAAAAA:lcH5H3pqDrIznHcenod6VumQdKFBeO4pmiV6FVWOU97TleBepRaO0YDkIj-fHvc1NhX3uQszyBPoF7Q">Paper</a>
-][<a href="https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253522X00092/1-s2.0-S1566253522002287/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJIMEYCIQDQ6Nan4PLTD14%2F%2FfjkhOuH4MQeGZtyCip%2FD2%2F3jK4o%2FAIhAKHPthK9B%2FXX1uVqWYrftqp2404MwOrUIRZx0vkuwmsGKrMFCBMQBRoMMDU5MDAzNTQ2ODY1IgzbrW0GZMpil4mN1aEqkAVGZsIE0kUsnDQwWkwSA8OkRYctku1bQ4YxJhHQ0%2FRg5LtRKRieapy3SPzTkUDyH6%2F%2BCIBtPQicWHV9O3DPI1nfVZhLOKr5w%2BrpRyr8BPWGsvY6VXY6mqPm8bu4Sc9ZKgpxtdSB%2FAE1UAVDfsj8Hh6uVv
-]<br>[<a href="https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf?casa_token=XePczjLegakAAAAA:Pk74Vu7znrMR4gZJ3yZbiFZYHZ7xs7JUebgP92rLj-9vlOMWBgw0j3TF3Y-qA15tsscrPd2a6ShzoA">Paper</a>]<br>[<a href="https://arxiv.org/pdf/2206.00007">Paper</a>]</td>
+][<a href="https://www.sciencedirect.com/science/article/pii/S1566253522002287/pdfft?md5=3971930e8a0215c13f0628777fec924d&pid=1-s2.0-S1566253522002287-main.pdf">Paper</a>]<br>[<a href="https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf?casa_token=XePczjLegakAAAAA:Pk74Vu7znrMR4gZJ3yZbiFZYHZ7xs7JUebgP92rLj-9vlOMWBgw0j3TF3Y-qA15tsscrPd2a6ShzoA">Paper</a>]<br>[<a href="https://arxiv.org/pdf/2206.00007">Paper</a>]</td>
 </tr>
 
 <tr>
