@@ -151,17 +151,17 @@ If you find our work useful in your research, please consider citing:
 
 ### [KDD Lab (Prof. Yanjie Fu - UCF)](https://yanjiefu.com/)
   - Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training
-  [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]<br>
+  [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]<br>*In The VLDB Journal, 2023*
   - NodeSense2Vec: Spatiotemporal Context-Aware Network Embedding for Heterogeneous Urban Mobility Data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672072)]<br>
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672072)]<br>*In Proceedings of the IEEE International Conference on Big Data (Big Data), 2021*
   - Collective embedding with feature importance: A unified approach for spatiotemporal network embedding
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412030)]<br>
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412030)]<br>*In Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020*
   - Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970913)]<br>
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970913)]<br>*In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2019*
   - Joint Representation Learning for Multi-Modal Transportation Recommendation
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]<br>
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
   - Efficient Region Embedding with Multi-View Spatial Networks:A Perspective of Locality-Constrained Spatial Autocorrelations
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]<br>
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
 
 ### [Gatech Lab (Prof. Chao Zhang)](http://chaozhang.org/)
   - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
