@@ -160,15 +160,15 @@ If you find our work useful in your research, please consider citing:
   - Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]<br>*In Proceedings of the 29th ACM International Conference on Multimedia, 2021*
   - Fine-Grained Urban Flow Prediction
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*Proceedings of the Web Conference, 2021*
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*In Proceedings of the Web Conference, 2021*
   - Geoman: Multi-level attention networks for geo-sensory time series prediction
-  [[paper](https://www.researchgate.net/profile/Yuxuan-Liang-2/publication/326205629_GeoMAN_Multi-level_Attention_Networks_for_Geo-sensory_Time_Series_Prediction/links/5bea6e4b92851c6b27ba5164/GeoMAN-Multi-level-Attention-Networks-for-Geo-sensory-Time-Series-Prediction.pdf)]<br>*Proceedings of the Web Conference, 2021*
+  [[paper](https://www.researchgate.net/profile/Yuxuan-Liang-2/publication/326205629_GeoMAN_Multi-level_Attention_Networks_for_Geo-sensory_Time_Series_Prediction/links/5bea6e4b92851c6b27ba5164/GeoMAN-Multi-level-Attention-Networks-for-Geo-sensory-Time-Series-Prediction.pdf)]<br>*In Proceedings of the Web Conference, 2021*
   - Fine-Grained Urban Flow Prediction
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*Proceedings of the Web Conference, 2021*
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*In Proceedings of the Web Conference, 2021*
   - Urbanfm: Inferring fine-grained urban flows
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330646?casa_token=D3fnWUWi7oEAAAAA:_POC1ziZe29XyRV3oQ2UZ9S_udCjfjbPH26dQYkPieGO2TLjGFS2Ig8MVzFll-2L534h-p6-x685Uko)]<br>*Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery, 2019*
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330646?casa_token=D3fnWUWi7oEAAAAA:_POC1ziZe29XyRV3oQ2UZ9S_udCjfjbPH26dQYkPieGO2TLjGFS2Ig8MVzFll-2L534h-p6-x685Uko)]<br>*In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery, 2019*
   - Diffstg: Probabilistic spatio-temporal graph forecasting with denoising diffusion models
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3589132.3625614?casa_token=Qgk8A-QEelkAAAAA:wrUje41Kz40-nrf-w1c9ddFRilZno1pd2AW5HvtDfxU39GBc-4PULSTYdC0No6wDPVSNVYf14ABC8xg)]<br>*Proceedings of the Joint Conference on Artificial Intelligence, 2018*
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3589132.3625614?casa_token=Qgk8A-QEelkAAAAA:wrUje41Kz40-nrf-w1c9ddFRilZno1pd2AW5HvtDfxU39GBc-4PULSTYdC0No6wDPVSNVYf14ABC8xg)]<br>*In Proceedings of the Joint Conference on Artificial Intelligence, 2018*
 
 
 ### [Data Intelligence Lab (Prof. Chao Huang - HKU)](https://sites.google.com/view/chaoh)
@@ -202,6 +202,11 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
   - Efficient Region Embedding with Multi-View Spatial Networks:A Perspective of Locality-Constrained Spatial Autocorrelations
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
+  - Human-instructed deep hierarchical generative learning for automated urban planning
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25589)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
+  - Deep human-guided conditional variational generative modeling for automated urban planning
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9679173?casa_token=2L4pfiDrLU8AAAAA:b1Sbz5Elarg303r1ycYGyH2tatlZU3HI30GEA53UyzLNRjNDoyW8ZPwfhZZ8wWocAxoMlIH7Jvd9Lw)]<br>*In IEEE international conference on data mining, 2021*
+
 
 ### [Gatech Lab (Prof. Chao Zhang)](http://chaozhang.org/)
   - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
