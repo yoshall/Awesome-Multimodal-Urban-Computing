@@ -4,6 +4,8 @@
 
 # Awesome-Multimodal-Urban-Computing
 
+<img src="https://github.com/yoshall/Awesome-Multimodal-Urban-Computing/blob/main/intro.png" width = "900" align=center>
+
 By [Citymind LAB](https://citymind.top), [HKUST(GZ)](https://www.hkust-gz.edu.cn/). If there are any areas, papers, and datasets I missed, please let me know!
 
 Check out our comprehsensive tutorial paper:
@@ -34,7 +36,8 @@ If you find our work useful in your research, please consider citing:
 
 ## Contents
 
-- [Paper List](#paper-list) 
+- [Paper List](#paper-list)
+- [Taxonomy Framework](#taxonomy-framework) 
 - [Data Fusion Methods](#data-fusion-methods)
 - [Taxonomy and summary of open-sourced dataset](#Taxonomy-and-summary-of-open-sourced-dataset)
 
@@ -229,6 +232,9 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2309.03239)]<br>*In arXiv, 2023*
   - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
   [[paper](https://arxiv.org/pdf/2206.00007)]<br>*In arXiv, 2022*
+
+## Taxonomy Framework
+<img src="https://github.com/yoshall/Awesome-Multimodal-Urban-Computing/blob/main/taxonomy_framework.png" width = "800" align=center>
 
 ## Data Fusion Methods
 
