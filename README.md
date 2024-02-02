@@ -90,7 +90,7 @@ If you find our work useful in your research, please consider citing:
   - GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16566)] <br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2021*
   - Modeling Spatial--Temporal Constraints and Spatial-Transfer Patterns for Couriers’ Package Pick-up Route Prediction
-  [[paper](https://ieeexplore.ieee.org/abstract/document/10225450?casa_token=0OpDHNDXZXUAAAAA:XOQ7qQ8943luPxzI2cOCJGgeY5Jr2tUkwmWgTMOJ_l8WpWj3bVYvWyhcUP7hRWnuw3vhSwFHqg_tPw)] <br>*IEEE Transactions on Intelligent Transportation Systems, 2023*
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10225450?casa_token=0OpDHNDXZXUAAAAA:XOQ7qQ8943luPxzI2cOCJGgeY5Jr2tUkwmWgTMOJ_l8WpWj3bVYvWyhcUP7hRWnuw3vhSwFHqg_tPw)] <br>*In IEEE Transactions on Intelligent Transportation Systems, 2023*
 
 ### [BUCT Lab (Prof. Danhuai Guo)](https://www.researchgate.net/lab/Danhuai-Guo-Lab)
   - Inferring region significance by using multi-source spatial data 
@@ -147,14 +147,14 @@ If you find our work useful in your research, please consider citing:
   - Forecasting Citywide Traffic Congestion Based on Social Media
   [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]<br>*In Wireless Personal Communications, 2018*
   - Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks
-  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br>*IEEE Transactions on Knowledge and Data Engineering, 2021*
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2021*
 
 
 ### [CityMind Lab (Prof. Yuxuan Liang - USTGZ)](https://yuxuanliang.com/)
   - When Urban Region Profiling Meets Large Language Models
-  [[paper](https://arxiv.org/abs/2310.18340)]<br>*Proceedings of the Web Conference, 2024*
+  [[paper](https://arxiv.org/abs/2310.18340)]<br>*In Proceedings of the Web Conference, 2024*
   - Airformer: Predicting nationwide air quality in china with
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26676)]<br>*Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26676)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
   - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]<br>*In Proceedings of the 30th ACM International Conference on Multimedia, 2022*
   - Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
