@@ -36,10 +36,22 @@ If you find our work useful in your research, please consider citing:
 
 ## Contents
 
+- [Related Surveys](#related-surveys)
 - [Paper List](#paper-list)
 - [Taxonomy Framework](#taxonomy-framework) 
 - [Data Fusion Methods](#data-fusion-methods)
 - [Taxonomy and summary of open-sourced dataset](#Taxonomy-and-summary-of-open-sourced-dataset)
+
+## Related Surveys
+
+- Methodologies for cross-domain data fusion: An overview [[paper](https://ieeexplore.ieee.org/abstract/document/7230259?casa_token=-TMtVQnUBhUAAAAA:QAoxfypjcmMDhwJIoP4zncJFsYyN3Pq1qAy7_Wbn0qQhp52ZDVRLHYbFAtJOEkYThGBeZmc88n1gKTQ)] <br>  *IEEE Transactions on Big Data (2015)*
+- Deep learning for spatio-temporal data mining: A survey [[paper](https://ieeexplore.ieee.org/abstract/document/9204396?casa_token=gg2OJPRv3OYAAAAA:5JIp6glMuVNfs-ZVRiQW---yazDzmenL_cD1ng54NN1zwKqDs39tA8akus7mRvVlBLznm0YCFaNS270)] <br>  *IEEE Transactions on Knowledge and Data Engineering (2020)*
+- Urban big data fusion based on deep learning: An overview [[paper](https://www.sciencedirect.com/science/article/pii/S1566253519301393)] <br>  *Elsevier Information Fusion (2020)*
+- Urban flow prediction from spatiotemporal data using machine learning: A survey [[paper](https://www.sciencedirect.com/science/article/pii/S1566253519303094)] <br>  *Elsevier Information Fusion (2020)*
+- A survey of traffic prediction: from spatio-temporal data to intelligent transportation [[paper](https://link.springer.com/article/10.1007/s41019-020-00151-z)] <br>  *Springer Data Science and Engineering (2021)*
+- Multi-feature, multi-modal, and multi-source social event detection: A comprehensive survey [[paper](https://www.sciencedirect.com/science/article/pii/S1566253521002220)] <br>  *Elsevier Information Fusion (2022)*
+- Generative adversarial networks for spatio-temporal data: A survey [[paper](https://dl.acm.org/doi/abs/10.1145/3474838?casa_token=teiphFvDYXUAAAAA:pVfquKjBsT3XrQVhVhZxDzBRuVxnoaW5Ss8erwqOCY1frqckDPTxXDxoQQYkkSqiMcmzMEXoWBqrYK_S)] <br>  *ACM Transactions on Intelligent Systems and Technology (2022)*
+- Beyond just vision: A review on self-supervised representation learning on multimodal and temporal data [[paper](https://arxiv.org/abs/2206.02353)] <br>  *arXiv preprint (2022)*
 
 ## Paper List
 ### [Future Intelligence Lab (FIB) (Prof. Yong Li - THU)](https://fi.ee.tsinghua.edu.cn/)
