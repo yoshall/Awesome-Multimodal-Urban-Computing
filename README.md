@@ -89,6 +89,8 @@ If you find our work useful in your research, please consider citing:
 ### [BJTU Lab (Prof. Huaiyu Wan)](https://faculty.bjtu.edu.cn/8793/)
   - GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16566)] <br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2021*
+  - Modeling Spatial--Temporal Constraints and Spatial-Transfer Patterns for Couriers’ Package Pick-up Route Prediction
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10225450?casa_token=0OpDHNDXZXUAAAAA:XOQ7qQ8943luPxzI2cOCJGgeY5Jr2tUkwmWgTMOJ_l8WpWj3bVYvWyhcUP7hRWnuw3vhSwFHqg_tPw)] <br>*IEEE Transactions on Intelligent Transportation Systems, 2023*
 
 ### [BUCT Lab (Prof. Danhuai Guo)](https://www.researchgate.net/lab/Danhuai-Guo-Lab)
   - Inferring region significance by using multi-source spatial data 
@@ -119,6 +121,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819)]<br>*In Information Sciences, 2022*
   - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]<br>*In Information Sciences, 2023*
   - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]<br>*In Knowledge-Based Systems, 2023*
+  - Predicting citywide crowd flows using deep spatio-temporal residual networks   [[paper](https://www.sciencedirect.com/science/article/pii/S0004370218300973)]<br>*In Elsevier, 2018*
 
 ### [SUSTech Lab (Prof. Xuan Song)](https://www.sustech.edu.cn/en/faculties/songxuan.html)
   - DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level
@@ -263,6 +266,22 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2309.03239)]<br>*In arXiv, 2023*
   - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
   [[paper](https://arxiv.org/pdf/2206.00007)]<br>*In arXiv, 2022*
+  - Predicting citywide crowd flows in irregular regions using multi-view graph convolutional networks
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9139357?casa_token=18aTwLyqQFgAAAAA:8kpYoCo98F6F02eKgNd13pAZARF-o6Zi1xLLKHKOZTNzliOaLG5om8vwFKhjSDAXPAQ0WXAiV3NSTg)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
+  - Urban computing: concepts, methodologies, and applications
+  [[paper](https://dl.acm.org/doi/abs/10.1145/2629592?casa_token=GJg1l-w0qpEAAAAA:MVmdP_UiUb8wYJZpxNQYmx37K2ethon2GEz6zhctCdXjRwzIRKrDEiz6pLhJs1ib34Vls5l8XsDPIWE)]<br>*In ACM Transactions on Intelligent Systems and Technology, 2014*
+  - Traffic flow forecasting with spatial-temporal graph diffusion network
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17761)]<br>*In Proceedings of the AAAI conference on artificial intelligence, 2021*
+  - Spatio-temporal meta learning for urban traffic prediction
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9096591?casa_token=owlhI1Np87IAAAAA:owJ5pUMkYJUO5KLCtUs8bFuGcUVfM70kLMQSf6P_yvj_hRhiKZXDJNsYwLT7m4kj6cICIaGkRJ1r6g)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
+  - Deep distributed fusion network for air quality prediction
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3219819.3219822?casa_token=uUJKpgya6ZUAAAAA:9V77Z0v8okng5JwoZt-xlQGxpx2b-b2FVD7f2-abbVVixaXUze-jo_dVkEREPuOtZZc50G6X7JTTMTI)]<br>*In Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery \& data mining, 2018*
+  - Service Time Prediction for Delivery Tasks via Spatial Meta-Learning
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539027?casa_token=qxAs8hXH36EAAAAA:7GYvl46x1p5HJ_CqmMjOILj80-3rtMALhGbl6wlaq_qXaLMiX-VxzsB_0hin6hSNu73pBj7kCFFdTDw)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
+  - Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10328393?casa_token=czrIZYU3lHsAAAAA:aTyCK-BAUo6CxZEEM-GWlPU_unnggwYkMCgvH53MgE0ODEbOt0HYv4R6b-lZUCf21Wgt5SCvFBpZtg)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2023*
+  - SAInf: Stay Area Inference of Vehicles using Surveillance Camera Records
+  [[paper](http://urban-computing.com/pdf/KDD2023_stay.pdf)]<br>*In urban-computing.com, 2023*
 
 ## Taxonomy Framework
 <img src="https://github.com/yoshall/Awesome-Multimodal-Urban-Computing/blob/main/taxonomy_framework.png" width = "800" align=center>
