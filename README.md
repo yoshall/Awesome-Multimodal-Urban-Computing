@@ -168,7 +168,7 @@ If you find our work useful in your research, please consider citing:
   - Urbanfm: Inferring fine-grained urban flows
   [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330646?casa_token=D3fnWUWi7oEAAAAA:_POC1ziZe29XyRV3oQ2UZ9S_udCjfjbPH26dQYkPieGO2TLjGFS2Ig8MVzFll-2L534h-p6-x685Uko)]<br>*In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery, 2019*
   - Diffstg: Probabilistic spatio-temporal graph forecasting with denoising diffusion models
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3589132.3625614?casa_token=Qgk8A-QEelkAAAAA:wrUje41Kz40-nrf-w1c9ddFRilZno1pd2AW5HvtDfxU39GBc-4PULSTYdC0No6wDPVSNVYf14ABC8xg)]<br>*In Proceedings of the Joint Conference on Artificial Intelligence, 2018*
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3589132.3625614?casa_token=Qgk8A-QEelkAAAAA:wrUje41Kz40-nrf-w1c9ddFRilZno1pd2AW5HvtDfxU39GBc-4PULSTYdC0No6wDPVSNVYf14ABC8xg)]<br>*In Proceedings of the Joint Conference on Artificial Intelligence, 2023*
 
 
 ### [Data Intelligence Lab (Prof. Chao Huang - HKU)](https://sites.google.com/view/chaoh)
