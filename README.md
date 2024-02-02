@@ -148,14 +148,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### [CityMind Lab (Prof. Yuxuan Liang - USTGZ)](https://yuxuanliang.com/)
+  - When Urban Region Profiling Meets Large Language Models
+  [[paper](https://arxiv.org/abs/2310.18340)]<br>*Proceedings of the Web Conference, 2024*
+  - Airformer: Predicting nationwide air quality in china with
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26676)]<br>*Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
   - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]<br>*In Proceedings of the 30th ACM International Conference on Multimedia, 2022*
   - Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]<br>*In Proceedings of the 29th ACM International Conference on Multimedia, 2021*
+  - Fine-Grained Urban Flow Prediction
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*Proceedings of the Web Conference, 2021*
+  - Geoman: Multi-level attention networks for geo-sensory time series prediction
+  [[paper](https://www.researchgate.net/profile/Yuxuan-Liang-2/publication/326205629_GeoMAN_Multi-level_Attention_Networks_for_Geo-sensory_Time_Series_Prediction/links/5bea6e4b92851c6b27ba5164/GeoMAN-Multi-level-Attention-Networks-for-Geo-sensory-Time-Series-Prediction.pdf)]<br>*Proceedings of the Web Conference, 2021*
+  - Fine-Grained Urban Flow Prediction
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*Proceedings of the Web Conference, 2021*
+  - Urbanfm: Inferring fine-grained urban flows
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330646?casa_token=D3fnWUWi7oEAAAAA:_POC1ziZe29XyRV3oQ2UZ9S_udCjfjbPH26dQYkPieGO2TLjGFS2Ig8MVzFll-2L534h-p6-x685Uko)]<br>*Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery, 2019*
+  - Diffstg: Probabilistic spatio-temporal graph forecasting with denoising diffusion models
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3589132.3625614?casa_token=Qgk8A-QEelkAAAAA:wrUje41Kz40-nrf-w1c9ddFRilZno1pd2AW5HvtDfxU39GBc-4PULSTYdC0No6wDPVSNVYf14ABC8xg)]<br>*Proceedings of the Joint Conference on Artificial Intelligence, 2018*
+
 
 ### [Data Intelligence Lab (Prof. Chao Huang - HKU)](https://sites.google.com/view/chaoh)
+  - Spatio-Temporal Meta Contrastive Learning
+  [[paper]([https://dl.acm.org/doi/abs/10.1145/3583780.3615065?casa_token=ceZsuOvI4kEAAAAA:6t1ZbycWqtmhtnBrvYNKae9cef6wJ3Taa82u3eXLJKvgACdd7PINdk_vrxwv35GLVFlStRJ9rn-5F-E))]<br>*Proceedings of the ACM International Conference on Information and Knowledge Management, 2023*
   - Exploiting spatial-temporal-social constraints for localness inference using online social media
   [[paper](https://ieeexplore.ieee.org/abstract/document/7752247)]<br>*In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2016*
+  - DeepCrime: Attentive hierarchical recurrent networks for crime prediction
+  [[paper]([https://dl.acm.org/doi/abs/10.1145/3269206.3271793))]<br>*Proceedings of the ACM international conference on information and knowledge management, 2018*
 
 ### [ASC Lab (Prof. Xiaoliang Fan - XMU)](https://fanxlxmu.github.io/)
   - PANDA: predicting road risks after natural disasters leveraging heterogeneous urban data
