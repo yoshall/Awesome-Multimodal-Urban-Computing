@@ -37,10 +37,10 @@ If you find our work useful in your research, please consider citing:
 ## Contents
 
 - [Related Surveys](#related-surveys)
-- [Paper List](#paper-list)
 - [Taxonomy Framework](#taxonomy-framework) 
 - [Data Fusion Methods](#data-fusion-methods)
 - [Taxonomy and summary of open-sourced dataset](#Taxonomy-and-summary-of-open-sourced-dataset)
+- [Highly Related Paper List](#highly-related-paper-list)
 
 ## Related Surveys
 
@@ -53,246 +53,20 @@ If you find our work useful in your research, please consider citing:
 - Generative adversarial networks for spatio-temporal data: A survey [[paper](https://dl.acm.org/doi/abs/10.1145/3474838?casa_token=teiphFvDYXUAAAAA:pVfquKjBsT3XrQVhVhZxDzBRuVxnoaW5Ss8erwqOCY1frqckDPTxXDxoQQYkkSqiMcmzMEXoWBqrYK_S)] <br>  *ACM Transactions on Intelligent Systems and Technology (2022)*
 - Beyond just vision: A review on self-supervised representation learning on multimodal and temporal data [[paper](https://arxiv.org/abs/2206.02353)] <br>  *arXiv preprint (2022)*
 
-## Paper List
-### [Future Intelligence Lab (FIB) (Prof. Yong Li - THU)](https://fi.ee.tsinghua.edu.cn/)
- 
-
-  - Will You Come Back / Check-in Again? Understanding Characteristics Leading to Urban Revisitation and Re-check-in
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3411812?casa_token=-603bVK6scwAAAAA:13Whn8f41erDnU4x9ttxXyCUQfGjJzMik8jn2Sf9kt0IYUXrT9x7-c_evhMfc37VLhxL6aezYCfl95Ig)] <br>  *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020*
-  - Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data 
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539186)] <br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
-  - Beyond the First Law of Geography: Learning Representations ofSatellite Imagery by Leveraging Point-of-Interests
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)] <br>*In ACM Web Conference, 2022*
-  - Spatio-Temporal Urban Knowledge Graph Enabled Mobility Prediction 
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3494993)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2021*
-  - Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483987?casa_token=r4GTEmlgSw0AAAAA:xf6jN-fH70AW65lWF7JL82CvYxYshvS1b9-rQe9Sww8UI0j5nrI9ScjB2euIdP9Zt_2FRpczvpoi6lVC)]<br>*In Proceedings of the 29th International Conference on Advances in Geographic Information Systems, 2021.*
-  - Predicting multi-level socioeconomic indicators from structural urban imagery 
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
-  - Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)]<br>*In ACM Web Conference, 2023*
-  - Multi-View Joint Graph Representation Learning for Urban Region Embedding
-  [[paper](https://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf)]<br>*In Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence, 2021*
-  - DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3892)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
-
-### [Database Research Group (Prof. Guoliang Li - THU)](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
-  - An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458698&casa_token=MaWtkqMEWUUAAAAA:fzmHqfiVsKMVPPYfRV1f9wdyr1jKdVpLlPIphl7Z6ioXE0tvFv_-CIjif62LnBrCZpaDwuBwhIjIeM8&tag=1)]<br> *In Proceedings of the IEEE 37th International Conference on Data Engineering, 2021*
-
-### [BIGSCity Lab (Prof. Jingyuan Wang - BUAA)](https://www.bigscity.com/jingyuan-wang/)
-  - A force-directed approach to seeking route recommendation in ride-on-demand service using multi-source urban data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9238459&casa_token=KDIHSyCbjKgAAAAA:HqI7iwTEB5YqDECOkfZ1DidS2sx2iq6uM48TXRlzX3WyL8QqyWf2z0tAhtFkDEfLoWXln-OEwJ6Q4C8&tag=1)]<br>*In IEEE Transactions on Mobile Computing, 2020*
-  - Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8733999&casa_token=lhJGs3710j8AAAAA:VhS8TO4oyI1uU-Fe-TNbogjxVoHmXHAAJX15ciwL0w5nHIMlcJl-WbsQAJpgD2soweuEpA5l_OUROSc)]<br>*In IEEE Transactions on Mobile Computing, 2019*
-
-### [BJTU Lab (Prof. Huaiyu Wan)](https://faculty.bjtu.edu.cn/8793/)
-  - GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16566)] <br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2021*
-  - Modeling Spatial--Temporal Constraints and Spatial-Transfer Patterns for Couriers’ Package Pick-up Route Prediction
-  [[paper](https://ieeexplore.ieee.org/abstract/document/10225450?casa_token=0OpDHNDXZXUAAAAA:XOQ7qQ8943luPxzI2cOCJGgeY5Jr2tUkwmWgTMOJ_l8WpWj3bVYvWyhcUP7hRWnuw3vhSwFHqg_tPw)] <br>*In IEEE Transactions on Intelligent Transportation Systems, 2023*
-
-### [BUCT Lab (Prof. Danhuai Guo)](https://www.researchgate.net/lab/Danhuai-Guo-Lab)
-  - Inferring region significance by using multi-source spatial data 
-  [[paper](https://link.springer.com/article/10.1007/s00521-019-04070-7)]<br>*In Neural Computing and Applications, 2020*
-
-### [SDU Lab (Prof. Meng Chen)](https://faculty.sdu.edu.cn/chenmeng2/en/index/815589/list/index.htm)
-  - Pre-Trained Semantic Embeddings for POI Categories Based on Multiple Contexts
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2022*
-
-### [UESTC Lab (Prof. Kai Zheng)](https://zheng-kai.com/)
-  - Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]<br>*In Proceedings of the 25th ACM International Conference on Multimedia, 2017*
-
-### [CPS-DSC Lab(Prof. Chao Chen - CQU)](http://cps.cqu.edu.cn/info/1006/1647.htm)
-  - TripPlanner: Personalized Trip Planning Leveraging Heterogeneous Crowdsourced Digital Footprints
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6951432&casa_token=RHnlU4MWS-AAAAAA:LQ9gSNTx_KByl4JRJeHbhRZKbbZF4vSeQNESLSX6TS8ErIe4qL7DhoEbD249JdzLG46vUmipzKbv7EU)]<br>*In IEEE Transactions on Intelligent Transportation Systems, 2014*
-
-### [Cloud Computing and Intelligent Techniques Lab (Prof. Tianrui Li - SWJTU)](https://faculty.swjtu.edu.cn/litianrui/en/index/33185/list/index.htm)
-  - Forecasting Fine-Grained Air Quality Based on Big Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]<br>*In Proceedings of the 21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2015*
-  - Urban Sensing Based on Human Mobility
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>*In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2016*
-  - Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>*In Information Fusion, 2023*
-  - Symbolic aggregate approximation based data fusion model for dangerous driving behavior detection
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008076)]<br>*In Information Sciences, 2022*
-  - Contextual spatio-temporal graph representation learning for reinforced human mobility mining
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819)]<br>*In Information Sciences, 2022*
-  - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]<br>*In Information Sciences, 2023*
-  - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]<br>*In Knowledge-Based Systems, 2023*
-  - Predicting citywide crowd flows using deep spatio-temporal residual networks   [[paper](https://www.sciencedirect.com/science/article/pii/S0004370218300973)]<br>*In Elsevier, 2018*
-
-### [SUSTech Lab (Prof. Xuan Song)](https://www.sustech.edu.cn/en/faculties/songxuan.html)
-  - DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level
-  [[paper](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]<br>*In Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence, 2016*
-  - Optimization of Causative Factors for Landslide Susceptibility Evaluation Using Remote Sensing and GIS Data in Parts of Niigata, Japan
-  [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133262)]<br>*In PloS One, 2015*
-  - DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3057280?casa_token=RDXjxqCYCCEAAAAA:iXOtzNRcK_fO5bKzVA9GgKtIoQRho1cJSerow7khjv7Jh0c_VD5wULGeUC_EkAINn0vdvL2VuZkJ_I2h)]<br>*In ACM Transactions on Information Systems, 2017*
-  - DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330654?casa_token=1-tOoL9o8jIAAAAA:_vaxaOlhK7v-Ry480JpcKkBhhJhtkhylJ1M2cVGJwulqPYixYadUo7ZrihS3CfDFQunNfFW7hmRuZF3e)]<br>*In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2019*
-  - DeepMob: Integrating GPS trajectory and topics from Twitter stream for human mobility estimation
-  [[paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=19960)]<br>*In Frontiers of Computer Science, 2019*
-
-### [Big Data for Urban Intelligence Lab (Prof. Senzhang Wang - CSU)](https://faculty.csu.edu.cn/wangsenzhang/en/index.htm) 
-  - Citywide traffic congestion estimation with social media
-  [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820829)]<br>*In Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2015*
-  - Estimating Urban Traffic Congestions with Multi-sourced Data
-  [[paper](https://ieeexplore.ieee.org/abstract/document/7517782?casa_token=H4WsNdho-kgAAAAA:W6-cfFsKIaaZaFl2ZTMmQHwF_nIGlf8w6CLCmq2LPXCDWD8d1NucR_hFmKrYqbYWbgZTya22KmMXyxU)]<br>*In Proceedings of the 17th IEEE International Conference on Mobile Data Management, 2016*
-  - Enhancing Traffic Congestion Estimation with Social Media by Coupled Hidden Markov Model
-  [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46227-1_16)]<br>*In Proceedings of the European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2016*
-  - Computing urban traffic congestions by incorporating sparse GPS probe data and social media data
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3057281)]<br>*In ACM Transactions on Information Systems, 2017*
-  - Forecasting Citywide Traffic Congestion Based on Social Media
-  [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]<br>*In Wireless Personal Communications, 2018*
-  - Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks
-  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2021*
-
-
-### [CityMind Lab (Prof. Yuxuan Liang - USTGZ)](https://yuxuanliang.com/)
-  - When Urban Region Profiling Meets Large Language Models
-  [[paper](https://arxiv.org/abs/2310.18340)]<br>*In Proceedings of the Web Conference, 2024*
-  - Airformer: Predicting nationwide air quality in china with
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26676)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
-  - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]<br>*In Proceedings of the 30th ACM International Conference on Multimedia, 2022*
-  - Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]<br>*In Proceedings of the 29th ACM International Conference on Multimedia, 2021*
-  - Fine-Grained Urban Flow Prediction
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*In Proceedings of the Web Conference, 2021*
-  - Geoman: Multi-level attention networks for geo-sensory time series prediction
-  [[paper](https://www.researchgate.net/profile/Yuxuan-Liang-2/publication/326205629_GeoMAN_Multi-level_Attention_Networks_for_Geo-sensory_Time_Series_Prediction/links/5bea6e4b92851c6b27ba5164/GeoMAN-Multi-level-Attention-Networks-for-Geo-sensory-Time-Series-Prediction.pdf)]<br>*In Proceedings of the Web Conference, 2021*
-  - Fine-Grained Urban Flow Prediction
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*In Proceedings of the Web Conference, 2021*
-  - Urbanfm: Inferring fine-grained urban flows
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330646?casa_token=D3fnWUWi7oEAAAAA:_POC1ziZe29XyRV3oQ2UZ9S_udCjfjbPH26dQYkPieGO2TLjGFS2Ig8MVzFll-2L534h-p6-x685Uko)]<br>*In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery, 2019*
-  - Diffstg: Probabilistic spatio-temporal graph forecasting with denoising diffusion models
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3589132.3625614?casa_token=Qgk8A-QEelkAAAAA:wrUje41Kz40-nrf-w1c9ddFRilZno1pd2AW5HvtDfxU39GBc-4PULSTYdC0No6wDPVSNVYf14ABC8xg)]<br>*In Proceedings of the Joint Conference on Artificial Intelligence, 2023*
-
-
-### [Data Intelligence Lab (Prof. Chao Huang - HKU)](https://sites.google.com/view/chaoh)
-  - Spatio-Temporal Meta Contrastive Learning
-  [[paper]([https://dl.acm.org/doi/abs/10.1145/3583780.3615065?casa_token=ceZsuOvI4kEAAAAA:6t1ZbycWqtmhtnBrvYNKae9cef6wJ3Taa82u3eXLJKvgACdd7PINdk_vrxwv35GLVFlStRJ9rn-5F-E))]<br>*Proceedings of the ACM International Conference on Information and Knowledge Management, 2023*
-  - Exploiting spatial-temporal-social constraints for localness inference using online social media
-  [[paper](https://ieeexplore.ieee.org/abstract/document/7752247)]<br>*In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2016*
-  - DeepCrime: Attentive hierarchical recurrent networks for crime prediction
-  [[paper]([https://dl.acm.org/doi/abs/10.1145/3269206.3271793))]<br>*Proceedings of the ACM international conference on information and knowledge management, 2018*
-
-### [ASC Lab (Prof. Xiaoliang Fan - XMU)](https://fanxlxmu.github.io/)
-  - PANDA: predicting road risks after natural disasters leveraging heterogeneous urban data
-  [[paper](https://link.springer.com/article/10.1007/s42486-022-00095-5)]<br>*In CCF Transactions on Pervasive Computing and Interaction, 2022*
-  - UVLens: Urban Village Boundary Identification and Population Estimation Leveraging Open Government Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3463495)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2021*
-  - iTV: Inferring Traffic Violation-Prone Locations With Vehicle Trajectories and Road Environment Data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9171429)]<br>*In IEEE Systems Journal, 2021*
-  - RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2018*
-
-### [KDD Lab (Prof. Yanjie Fu - UCF)](https://yanjiefu.com/)
-  - Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training
-  [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]<br>*In The VLDB Journal, 2023*
-  - NodeSense2Vec: Spatiotemporal Context-Aware Network Embedding for Heterogeneous Urban Mobility Data
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672072)]<br>*In Proceedings of the IEEE International Conference on Big Data (Big Data), 2021*
-  - Collective embedding with feature importance: A unified approach for spatiotemporal network embedding
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412030)]<br>*In Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020*
-  - Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970913)]<br>*In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2019*
-  - Joint Representation Learning for Multi-Modal Transportation Recommendation
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
-  - Efficient Region Embedding with Multi-View Spatial Networks:A Perspective of Locality-Constrained Spatial Autocorrelations
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
-  - Human-instructed deep hierarchical generative learning for automated urban planning
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25589)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
-  - Deep human-guided conditional variational generative modeling for automated urban planning
-  [[paper](https://ieeexplore.ieee.org/abstract/document/9679173?casa_token=2L4pfiDrLU8AAAAA:b1Sbz5Elarg303r1ycYGyH2tatlZU3HI30GEA53UyzLNRjNDoyW8ZPwfhZZ8wWocAxoMlIH7Jvd9Lw)]<br>*In IEEE international conference on data mining, 2021*
-
-
-### [Gatech Lab (Prof. Chao Zhang)](http://chaozhang.org/)
-  - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
-
-### [Big Data and Database Group (Prof. Zhifeng Bao - RMIT)](https://baozhifeng.net/)
-  - Similar Trajectory Search with Spatio-Temporal Deep Representation Learning
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]<br>*In ACM Transactions on Intelligent Systems and Technology, 2021*
-  - An Effective Joint Prediction Model for Travel Demands and Traffic Flows
-  [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]<br>*In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), 2021
-
-### [Artificial Intelligence (AI) research group (Prof. Jianzhong Qi - UniMelb)](https://people.eng.unimelb.edu.au/jianzhongq/)
-  - A Joint Context-Aware Embedding for Trip Recommendations
-  [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]<br>*In Proceedings of the IEEE 35th International Conference on Data Engineering (ICDE), 2019*
-
-### [Context Recognition and Urban Intelligence (CRUISE) Lab (Prof. Flora Salim - UNSW)](https://cruiseresearchgroup.florasalim.com/)
-  - Multimodal Trajectory Prediction: A Survey
-  [[paper](https://arxiv.org/pdf/2302.10463)]<br>*In arXiv, 2023*
-  - Explainable spatiotemporal reasoning for geospatial intelligence applications
-  [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12939)]<br>*In Transactions in GIS, 2022*
-  - Event-Aware Multimodal Mobility Nowcasting
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2022*
-  - Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data
-  [[paper](https://arxiv.org/pdf/2206.02353)]<br>*In arXiv, 2022*
-
-### [Baidu Intelligent Driving Group (IDG) (Dr. Jizhou Huang - Baidu Map)](https://huangjizhou.github.io/)
-  - DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
-  - ERNIE-GeoL: A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539021)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
-  - DuTraffic: Live Traffic Condition Prediction with Trajectory Data and Street Views at Baidu Mapss
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557151)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
-  - A Contextual Master-Slave Framework on Urban Region Graph for Urban Village Detection
-  [[paper](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf)]<br>*In Proceedings of the IEEE 39th International Conference on Data Engineering (ICDE), 2023*
-
-### [Shanghai AI Lab (Dr. Lei Bai)](http://leibai.site/)
-  - Jointly Contrastive Representation Learning on Road Network and Trajectory
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
-  - Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>*In Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019*
-  - STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
-  [[paper](https://arxiv.org/pdf/1905.10069)]<br>*In arXiv, 2019*
-
-### [Alibaba Group (Dr. Jieping Ye)](http://www.yelabs.net/)
-  - Joint predictions of multi-modal ride-hailing demands: A deep multi-task multi-graph learning-based approach
-  [[paper](https://arxiv.org/pdf/2011.05602)]<br>*In Transportation Research Part C: Emerging Technologies, 2021*
-  - Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting
-  [[paper](https://www.mdpi.com/2071-1050/14/19/12397/pdf)]<br>*In Sustainability, 2022*
-
-### [PSU Group (Prof. Zhenhui Li)](https://faculty.ist.psu.edu/jessieli/Site/index.html)
-  - Unsupervised Representation Learning of Spatial Data via Multimodal Embedding
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]<br>*In Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019*
-  - Deep multi-view spatial-temporal network for taxi demand prediction
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2018*
-
-### [JD Intelligent Cities Research Lab (Prof. Yu Zheng)](http://urban-computing.com/yuzheng)
-  - Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision
-  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2022*
-  - Spatio-Temporal Self-Supervised Learning for Traffc Flow Prediction
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25555/25327)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
-  - Spatio-Temporal Contrastive Self-Supervised Learning for POI-level Crowd Flow Inference
-  [[paper](https://arxiv.org/pdf/2309.03239)]<br>*In arXiv, 2023*
-  - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
-  [[paper](https://arxiv.org/pdf/2206.00007)]<br>*In arXiv, 2022*
-  - Predicting citywide crowd flows in irregular regions using multi-view graph convolutional networks
-  [[paper](https://ieeexplore.ieee.org/abstract/document/9139357?casa_token=18aTwLyqQFgAAAAA:8kpYoCo98F6F02eKgNd13pAZARF-o6Zi1xLLKHKOZTNzliOaLG5om8vwFKhjSDAXPAQ0WXAiV3NSTg)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
-  - Urban computing: concepts, methodologies, and applications
-  [[paper](https://dl.acm.org/doi/abs/10.1145/2629592?casa_token=GJg1l-w0qpEAAAAA:MVmdP_UiUb8wYJZpxNQYmx37K2ethon2GEz6zhctCdXjRwzIRKrDEiz6pLhJs1ib34Vls5l8XsDPIWE)]<br>*In ACM Transactions on Intelligent Systems and Technology, 2014*
-  - Traffic flow forecasting with spatial-temporal graph diffusion network
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17761)]<br>*In Proceedings of the AAAI conference on artificial intelligence, 2021*
-  - Spatio-temporal meta learning for urban traffic prediction
-  [[paper](https://ieeexplore.ieee.org/abstract/document/9096591?casa_token=owlhI1Np87IAAAAA:owJ5pUMkYJUO5KLCtUs8bFuGcUVfM70kLMQSf6P_yvj_hRhiKZXDJNsYwLT7m4kj6cICIaGkRJ1r6g)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
-  - Deep distributed fusion network for air quality prediction
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3219819.3219822?casa_token=uUJKpgya6ZUAAAAA:9V77Z0v8okng5JwoZt-xlQGxpx2b-b2FVD7f2-abbVVixaXUze-jo_dVkEREPuOtZZc50G6X7JTTMTI)]<br>*In Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery \& data mining, 2018*
-  - Service Time Prediction for Delivery Tasks via Spatial Meta-Learning
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539027?casa_token=qxAs8hXH36EAAAAA:7GYvl46x1p5HJ_CqmMjOILj80-3rtMALhGbl6wlaq_qXaLMiX-VxzsB_0hin6hSNu73pBj7kCFFdTDw)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
-  - Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey
-  [[paper](https://ieeexplore.ieee.org/abstract/document/10328393?casa_token=czrIZYU3lHsAAAAA:aTyCK-BAUo6CxZEEM-GWlPU_unnggwYkMCgvH53MgE0ODEbOt0HYv4R6b-lZUCf21Wgt5SCvFBpZtg)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2023*
-  - SAInf: Stay Area Inference of Vehicles using Surveillance Camera Records
-  [[paper](http://urban-computing.com/pdf/KDD2023_stay.pdf)]<br>*In urban-computing.com, 2023*
 
 ## Taxonomy Framework
+
+This survey is structured along three dimensions: 
++ data in cross-domain fusion in urban computing
++ modality fusion methods
++ applications based on data fusion.
 <img src="https://github.com/yoshall/Awesome-Multimodal-Urban-Computing/blob/main/taxonomy_framework.png" width = "800" align=center>
 
 ## Data Fusion Methods
 
+The summary of deep learning-based cross-domain data fusion models in urban computing. 
+
+*Notice that method names are assigned based on original reference model names if available; otherwise, they are named after the first authors.*
 
 <table>
     <tr>
@@ -804,6 +578,248 @@ Below is a list of open source datasets categorized by their type and source.
 
 
 </table>
+
+## Highly Related Paper List
+
+The list provided below represents only a portion of the projects that we have undertaken in this field. It is important to note that this list is **not exhaustive** and will be **continuously updated**.
+
+*Please find below a partial list of our laboratory's highly relevant projects in multimodal data fusion in urban computing:*
+
+
+### [Future Intelligence Lab (FIB) (THU)](https://fi.ee.tsinghua.edu.cn/)
+ 
+
+  - Will You Come Back / Check-in Again? Understanding Characteristics Leading to Urban Revisitation and Re-check-in
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3411812?casa_token=-603bVK6scwAAAAA:13Whn8f41erDnU4x9ttxXyCUQfGjJzMik8jn2Sf9kt0IYUXrT9x7-c_evhMfc37VLhxL6aezYCfl95Ig)] <br>  *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020*
+  - Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539186)] <br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
+  - Beyond the First Law of Geography: Learning Representations ofSatellite Imagery by Leveraging Point-of-Interests
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512149)] <br>*In ACM Web Conference, 2022*
+  - Spatio-Temporal Urban Knowledge Graph Enabled Mobility Prediction 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3494993)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2021*
+  - Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483987?casa_token=r4GTEmlgSw0AAAAA:xf6jN-fH70AW65lWF7JL82CvYxYshvS1b9-rQe9Sww8UI0j5nrI9ScjB2euIdP9Zt_2FRpczvpoi6lVC)]<br>*In Proceedings of the 29th International Conference on Advances in Geographic Information Systems, 2021.*
+  - Predicting multi-level socioeconomic indicators from structural urban imagery 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557153)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
+  - Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583876)]<br>*In ACM Web Conference, 2023*
+  - Multi-View Joint Graph Representation Learning for Urban Region Embedding
+  [[paper](https://fi.ee.tsinghua.edu.cn/public/publications/301ad6d8-92b8-11eb-96bc-0242ac120003.pdf)]<br>*In Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence, 2021*
+  - DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3892)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
+
+### [Database Research Group (THU)](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
+  - An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458698&casa_token=MaWtkqMEWUUAAAAA:fzmHqfiVsKMVPPYfRV1f9wdyr1jKdVpLlPIphl7Z6ioXE0tvFv_-CIjif62LnBrCZpaDwuBwhIjIeM8&tag=1)]<br> *In Proceedings of the IEEE 37th International Conference on Data Engineering, 2021*
+
+### [BIGSCity Lab (BUAA)](https://www.bigscity.com/jingyuan-wang/)
+  - A force-directed approach to seeking route recommendation in ride-on-demand service using multi-source urban data
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9238459&casa_token=KDIHSyCbjKgAAAAA:HqI7iwTEB5YqDECOkfZ1DidS2sx2iq6uM48TXRlzX3WyL8QqyWf2z0tAhtFkDEfLoWXln-OEwJ6Q4C8&tag=1)]<br>*In IEEE Transactions on Mobile Computing, 2020*
+  - Rod-revenue: Seeking strategies analysis and revenue prediction in ride-on-demand service using multi-source urban data
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8733999&casa_token=lhJGs3710j8AAAAA:VhS8TO4oyI1uU-Fe-TNbogjxVoHmXHAAJX15ciwL0w5nHIMlcJl-WbsQAJpgD2soweuEpA5l_OUROSc)]<br>*In IEEE Transactions on Mobile Computing, 2019*
+
+### [BJTU Lab](https://faculty.bjtu.edu.cn/8793/)
+  - GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16566)] <br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2021*
+  - Modeling Spatial--Temporal Constraints and Spatial-Transfer Patterns for Couriers’ Package Pick-up Route Prediction
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10225450?casa_token=0OpDHNDXZXUAAAAA:XOQ7qQ8943luPxzI2cOCJGgeY5Jr2tUkwmWgTMOJ_l8WpWj3bVYvWyhcUP7hRWnuw3vhSwFHqg_tPw)] <br>*In IEEE Transactions on Intelligent Transportation Systems, 2023*
+
+### [BUCT Lab](https://www.researchgate.net/lab/Danhuai-Guo-Lab)
+  - Inferring region significance by using multi-source spatial data 
+  [[paper](https://link.springer.com/article/10.1007/s00521-019-04070-7)]<br>*In Neural Computing and Applications, 2020*
+
+### [SDU Lab](https://faculty.sdu.edu.cn/chenmeng2/en/index/815589/list/index.htm)
+  - Pre-Trained Semantic Embeddings for POI Categories Based on Multiple Contexts
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935324&casa_token=Qu2MdD7JA5QAAAAA:k8kbEUxYfPRyTIzUb29rPEzyA61DwUZ5PzJlwFiruEYAxm1KoEhIZzPly1AJztKV18wdw_arlvkjHis&tag=1)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2022*
+
+### [UESTC Lab](https://zheng-kai.com/)
+  - Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123336?casa_token=3oivUX5VwrYAAAAA:-2Qoyg8f5yZRjcH3ebZL-z6dDYZxOKRNLGLrIfkdxVJ4-qa-tHUtIsY0c1MIdlUTQL39Uj2_pywN0c2e)]<br>*In Proceedings of the 25th ACM International Conference on Multimedia, 2017*
+
+### [CPS-DSC Lab(CQU)](http://cps.cqu.edu.cn/info/1006/1647.htm)
+  - TripPlanner: Personalized Trip Planning Leveraging Heterogeneous Crowdsourced Digital Footprints
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6951432&casa_token=RHnlU4MWS-AAAAAA:LQ9gSNTx_KByl4JRJeHbhRZKbbZF4vSeQNESLSX6TS8ErIe4qL7DhoEbD249JdzLG46vUmipzKbv7EU)]<br>*In IEEE Transactions on Intelligent Transportation Systems, 2014*
+
+### [Cloud Computing and Intelligent Techniques Lab (SWJTU)](https://faculty.swjtu.edu.cn/litianrui/en/index/33185/list/index.htm)
+  - Forecasting Fine-Grained Air Quality Based on Big Data
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2783258.2788573?casa_token=DepF7HHb9E8AAAAA:Me3v68Ijh5ohYgXyn3P4BJZBbBF8IHCmBFWDr1TmDnhiSkHjyuWP0HuAzplzAtkqrxXtlcN1fv9GSLgK)]<br>*In Proceedings of the 21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2015*
+  - Urban Sensing Based on Human Mobility
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>*In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2016*
+  - Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/2971648.2971735?casa_token=x-A0VT2gRjsAAAAA:haY3mv9ZnLSOOXptCRk-FJy2JRFVIf88Z2of122Vld9_fiQMBVLSL5DQdOl05eU-298B_WouherkjRHd)]<br>*In Information Fusion, 2023*
+  - Symbolic aggregate approximation based data fusion model for dangerous driving behavior detection
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008076)]<br>*In Information Sciences, 2022*
+  - Contextual spatio-temporal graph representation learning for reinforced human mobility mining
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004819)]<br>*In Information Sciences, 2022*
+  - HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting   [[paper](https://zhangjunbo.org/pdf/2023_INS_HiSTGNN.pdf)]<br>*In Information Sciences, 2023*
+  - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013338)]<br>*In Knowledge-Based Systems, 2023*
+  - Predicting citywide crowd flows using deep spatio-temporal residual networks   [[paper](https://www.sciencedirect.com/science/article/pii/S0004370218300973)]<br>*In Elsevier, 2018*
+
+### [SUSTech Lab](https://www.sustech.edu.cn/en/faculties/songxuan.html)
+  - DeepTransport: Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level
+  [[paper](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]<br>*In Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence, 2016*
+  - Optimization of Causative Factors for Landslide Susceptibility Evaluation Using Remote Sensing and GIS Data in Parts of Niigata, Japan
+  [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133262)]<br>*In PloS One, 2015*
+  - DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3057280?casa_token=RDXjxqCYCCEAAAAA:iXOtzNRcK_fO5bKzVA9GgKtIoQRho1cJSerow7khjv7Jh0c_VD5wULGeUC_EkAINn0vdvL2VuZkJ_I2h)]<br>*In ACM Transactions on Information Systems, 2017*
+  - DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330654?casa_token=1-tOoL9o8jIAAAAA:_vaxaOlhK7v-Ry480JpcKkBhhJhtkhylJ1M2cVGJwulqPYixYadUo7ZrihS3CfDFQunNfFW7hmRuZF3e)]<br>*In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2019*
+  - DeepMob: Integrating GPS trajectory and topics from Twitter stream for human mobility estimation
+  [[paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=19960)]<br>*In Frontiers of Computer Science, 2019*
+
+### [Big Data for Urban Intelligence Lab (CSU)](https://faculty.csu.edu.cn/wangsenzhang/en/index.htm) 
+  - Citywide traffic congestion estimation with social media
+  [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820829)]<br>*In Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2015*
+  - Estimating Urban Traffic Congestions with Multi-sourced Data
+  [[paper](https://ieeexplore.ieee.org/abstract/document/7517782?casa_token=H4WsNdho-kgAAAAA:W6-cfFsKIaaZaFl2ZTMmQHwF_nIGlf8w6CLCmq2LPXCDWD8d1NucR_hFmKrYqbYWbgZTya22KmMXyxU)]<br>*In Proceedings of the 17th IEEE International Conference on Mobile Data Management, 2016*
+  - Enhancing Traffic Congestion Estimation with Social Media by Coupled Hidden Markov Model
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46227-1_16)]<br>*In Proceedings of the European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2016*
+  - Computing urban traffic congestions by incorporating sparse GPS probe data and social media data
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3057281)]<br>*In ACM Transactions on Information Systems, 2017*
+  - Forecasting Citywide Traffic Congestion Based on Social Media
+  [[paper](https://link.springer.com/article/10.1007/s11277-018-5495-x)]<br>*In Wireless Personal Communications, 2018*
+  - Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9652050?casa_token=W0joK3Xd_7AAAAAA:rGqepn974PlPEVxopN65ua-AVxuKp5GYXjRZC3prlD0cdnYpRBa9yaOwZ4zrHRSJX7xNPX5rLiuSRD8)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2021*
+
+
+### [CityMind Lab (USTGZ)](https://yuxuanliang.com/)
+  - When Urban Region Profiling Meets Large Language Models
+  [[paper](https://arxiv.org/abs/2310.18340)]<br>*In Proceedings of the Web Conference, 2024*
+  - Airformer: Predicting nationwide air quality in china with
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26676)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
+  - Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548102)]<br>*In Proceedings of the 30th ACM International Conference on Multimedia, 2022*
+  - Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475268)]<br>*In Proceedings of the 29th ACM International Conference on Multimedia, 2021*
+  - Fine-Grained Urban Flow Prediction
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*In Proceedings of the Web Conference, 2021*
+  - Geoman: Multi-level attention networks for geo-sensory time series prediction
+  [[paper](https://www.researchgate.net/profile/Yuxuan-Liang-2/publication/326205629_GeoMAN_Multi-level_Attention_Networks_for_Geo-sensory_Time_Series_Prediction/links/5bea6e4b92851c6b27ba5164/GeoMAN-Multi-level-Attention-Networks-for-Geo-sensory-Time-Series-Prediction.pdf)]<br>*In Proceedings of the Web Conference, 2021*
+  - Fine-Grained Urban Flow Prediction
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449792)]<br>*In Proceedings of the Web Conference, 2021*
+  - Urbanfm: Inferring fine-grained urban flows
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330646?casa_token=D3fnWUWi7oEAAAAA:_POC1ziZe29XyRV3oQ2UZ9S_udCjfjbPH26dQYkPieGO2TLjGFS2Ig8MVzFll-2L534h-p6-x685Uko)]<br>*In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery, 2019*
+  - Diffstg: Probabilistic spatio-temporal graph forecasting with denoising diffusion models
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3589132.3625614?casa_token=Qgk8A-QEelkAAAAA:wrUje41Kz40-nrf-w1c9ddFRilZno1pd2AW5HvtDfxU39GBc-4PULSTYdC0No6wDPVSNVYf14ABC8xg)]<br>*In Proceedings of the Joint Conference on Artificial Intelligence, 2023*
+
+
+### [Data Intelligence Lab (HKU)](https://sites.google.com/view/chaoh)
+  - Spatio-Temporal Meta Contrastive Learning
+  [[paper]([https://dl.acm.org/doi/abs/10.1145/3583780.3615065?casa_token=ceZsuOvI4kEAAAAA:6t1ZbycWqtmhtnBrvYNKae9cef6wJ3Taa82u3eXLJKvgACdd7PINdk_vrxwv35GLVFlStRJ9rn-5F-E))]<br>*Proceedings of the ACM International Conference on Information and Knowledge Management, 2023*
+  - Exploiting spatial-temporal-social constraints for localness inference using online social media
+  [[paper](https://ieeexplore.ieee.org/abstract/document/7752247)]<br>*In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2016*
+  - DeepCrime: Attentive hierarchical recurrent networks for crime prediction
+  [[paper]([https://dl.acm.org/doi/abs/10.1145/3269206.3271793))]<br>*Proceedings of the ACM international conference on information and knowledge management, 2018*
+
+### [ASC Lab (XMU)](https://fanxlxmu.github.io/)
+  - PANDA: predicting road risks after natural disasters leveraging heterogeneous urban data
+  [[paper](https://link.springer.com/article/10.1007/s42486-022-00095-5)]<br>*In CCF Transactions on Pervasive Computing and Interaction, 2022*
+  - UVLens: Urban Village Boundary Identification and Population Estimation Leveraging Open Government Data
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3463495)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2021*
+  - iTV: Inferring Traffic Violation-Prone Locations With Vehicle Trajectories and Road Environment Data
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9171429)]<br>*In IEEE Systems Journal, 2021*
+  - RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3161159)]<br>*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2018*
+
+### [KDD Lab (UCF)](https://yanjiefu.com/)
+  - Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training
+  [[paper]([https://link.springer.com/article/10.1007/s42486-022-00095-5](https://link.springer.com/article/10.1007/s00778-022-00748-y))]<br>*In The VLDB Journal, 2023*
+  - NodeSense2Vec: Spatiotemporal Context-Aware Network Embedding for Heterogeneous Urban Mobility Data
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672072)]<br>*In Proceedings of the IEEE International Conference on Big Data (Big Data), 2021*
+  - Collective embedding with feature importance: A unified approach for spatiotemporal network embedding
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412030)]<br>*In Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020*
+  - Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970913)]<br>*In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2019*
+  - Joint Representation Learning for Multi-Modal Transportation Recommendation
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/3894/3772)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
+  - Efficient Region Embedding with Multi-View Spatial Networks:A Perspective of Locality-Constrained Spatial Autocorrelations
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3879/3757)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
+  - Human-instructed deep hierarchical generative learning for automated urban planning
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25589)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
+  - Deep human-guided conditional variational generative modeling for automated urban planning
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9679173?casa_token=2L4pfiDrLU8AAAAA:b1Sbz5Elarg303r1ycYGyH2tatlZU3HI30GEA53UyzLNRjNDoyW8ZPwfhZZ8wWocAxoMlIH7Jvd9Lw)]<br>*In IEEE international conference on data mining, 2021*
+
+
+### [Gatech Lab](http://chaozhang.org/)
+  - Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050875)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
+
+### [Big Data and Database Group (RMIT)](https://baozhifeng.net/)
+  - Similar Trajectory Search with Spatio-Temporal Deep Representation Learning
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3466687)]<br>*In ACM Transactions on Intelligent Systems and Technology, 2021*
+  - An Effective Joint Prediction Model for Travel Demands and Traffic Flows
+  [[paper](https://ieeexplore.ieee.org/iel7/9458599/9458600/09458698.pdf)]<br>*In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), 2021
+
+### [Artificial Intelligence (AI) research group (UniMelb)](https://people.eng.unimelb.edu.au/jianzhongq/)
+  - A Joint Context-Aware Embedding for Trip Recommendations
+  [[paper](https://ieeexplore.ieee.org/iel7/8725877/8731337/08731399.pdf)]<br>*In Proceedings of the IEEE 35th International Conference on Data Engineering (ICDE), 2019*
+
+### [Context Recognition and Urban Intelligence (CRUISE) Lab (UNSW)](https://cruiseresearchgroup.florasalim.com/)
+  - Multimodal Trajectory Prediction: A Survey
+  [[paper](https://arxiv.org/pdf/2302.10463)]<br>*In arXiv, 2023*
+  - Explainable spatiotemporal reasoning for geospatial intelligence applications
+  [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12939)]<br>*In Transactions in GIS, 2022*
+  - Event-Aware Multimodal Mobility Nowcasting
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2022*
+  - Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data
+  [[paper](https://arxiv.org/pdf/2206.02353)]<br>*In arXiv, 2022*
+
+### [Baidu Intelligent Driving Group (IDG) (Baidu Map)](https://huangjizhou.github.io/)
+  - DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
+  - ERNIE-GeoL: A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539021)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
+  - DuTraffic: Live Traffic Condition Prediction with Trajectory Data and Street Views at Baidu Mapss
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557151)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
+  - A Contextual Master-Slave Framework on Urban Region Graph for Urban Village Detection
+  [[paper](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184898.pdf)]<br>*In Proceedings of the IEEE 39th International Conference on Data Engineering (ICDE), 2023*
+
+### [Shanghai AI Lab](http://leibai.site/)
+  - Jointly Contrastive Representation Learning on Road Network and Trajectory
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>*In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, 2022*
+  - Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557370)]<br>*In Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019*
+  - STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
+  [[paper](https://arxiv.org/pdf/1905.10069)]<br>*In arXiv, 2019*
+
+### [Alibaba Group](http://www.yelabs.net/)
+  - Joint predictions of multi-modal ride-hailing demands: A deep multi-task multi-graph learning-based approach
+  [[paper](https://arxiv.org/pdf/2011.05602)]<br>*In Transportation Research Part C: Emerging Technologies, 2021*
+  - Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting
+  [[paper](https://www.mdpi.com/2071-1050/14/19/12397/pdf)]<br>*In Sustainability, 2022*
+
+### [PSU Group](https://faculty.ist.psu.edu/jessieli/Site/index.html)
+  - Unsupervised Representation Learning of Spatial Data via Multimodal Embedding
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358001)]<br>*In Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019*
+  - Deep multi-view spatial-temporal network for taxi demand prediction
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11836/11695)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2018*
+
+### [JD Intelligent Cities Research Lab](http://urban-computing.com/yuzheng)
+  - Forecasting fine-grained urban flows via spatio-temporal contrastive self-supervision
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864246)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2022*
+  - Spatio-Temporal Self-Supervised Learning for Traffc Flow Prediction
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25555/25327)]<br>*In Proceedings of the AAAI Conference on Artificial Intelligence, 2023*
+  - Spatio-Temporal Contrastive Self-Supervised Learning for POI-level Crowd Flow Inference
+  [[paper](https://arxiv.org/pdf/2309.03239)]<br>*In arXiv, 2023*
+  - A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling
+  [[paper](https://arxiv.org/pdf/2206.00007)]<br>*In arXiv, 2022*
+  - Predicting citywide crowd flows in irregular regions using multi-view graph convolutional networks
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9139357?casa_token=18aTwLyqQFgAAAAA:8kpYoCo98F6F02eKgNd13pAZARF-o6Zi1xLLKHKOZTNzliOaLG5om8vwFKhjSDAXPAQ0WXAiV3NSTg)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
+  - Urban computing: concepts, methodologies, and applications
+  [[paper](https://dl.acm.org/doi/abs/10.1145/2629592?casa_token=GJg1l-w0qpEAAAAA:MVmdP_UiUb8wYJZpxNQYmx37K2ethon2GEz6zhctCdXjRwzIRKrDEiz6pLhJs1ib34Vls5l8XsDPIWE)]<br>*In ACM Transactions on Intelligent Systems and Technology, 2014*
+  - Traffic flow forecasting with spatial-temporal graph diffusion network
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17761)]<br>*In Proceedings of the AAAI conference on artificial intelligence, 2021*
+  - Spatio-temporal meta learning for urban traffic prediction
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9096591?casa_token=owlhI1Np87IAAAAA:owJ5pUMkYJUO5KLCtUs8bFuGcUVfM70kLMQSf6P_yvj_hRhiKZXDJNsYwLT7m4kj6cICIaGkRJ1r6g)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2020*
+  - Deep distributed fusion network for air quality prediction
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3219819.3219822?casa_token=uUJKpgya6ZUAAAAA:9V77Z0v8okng5JwoZt-xlQGxpx2b-b2FVD7f2-abbVVixaXUze-jo_dVkEREPuOtZZc50G6X7JTTMTI)]<br>*In Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery \& data mining, 2018*
+  - Service Time Prediction for Delivery Tasks via Spatial Meta-Learning
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539027?casa_token=qxAs8hXH36EAAAAA:7GYvl46x1p5HJ_CqmMjOILj80-3rtMALhGbl6wlaq_qXaLMiX-VxzsB_0hin6hSNu73pBj7kCFFdTDw)]<br>*In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022*
+  - Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10328393?casa_token=czrIZYU3lHsAAAAA:aTyCK-BAUo6CxZEEM-GWlPU_unnggwYkMCgvH53MgE0ODEbOt0HYv4R6b-lZUCf21Wgt5SCvFBpZtg)]<br>*In IEEE Transactions on Knowledge and Data Engineering, 2023*
+  - SAInf: Stay Area Inference of Vehicles using Surveillance Camera Records
+  [[paper](http://urban-computing.com/pdf/KDD2023_stay.pdf)]<br>*In urban-computing.com, 2023*
+
 
 
 
