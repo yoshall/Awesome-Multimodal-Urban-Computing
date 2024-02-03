@@ -4,6 +4,8 @@
 
 # Awesome-Multimodal-Urban-Computing
 
+Welcome to our carefully curated collection of amazing Multimodal Urban Computing models! This repository serves as a valuable addition to our comprehensive survey paper. Rest assured, we are committed to consistently updating it to ensure it remains up-to-date and relevant.
+
 <img src="https://github.com/yoshall/Awesome-Multimodal-Urban-Computing/blob/main/intro.png" width = "900" align=center>
 
 By [Citymind LAB](https://citymind.top), [HKUST(GZ)](https://www.hkust-gz.edu.cn/). If there are any areas, papers, and datasets I missed, please let me know!
@@ -13,7 +15,6 @@ Check out our comprehsensive tutorial paper:
 
 > **<p align="justify"> Abstract:** *As cities continue to burgeon, Urban Computing emerges as a pivotal discipline for sustainable development by harnessing the power of cross-domain data fusion from diverse sources (e.g., traffic, geographical, social network, and environmental data) and modalities (e.g., spatio-temporal, visual, and textual modalities). Recently, we are witnessing a rising trend that utilizes various deep-learning methods to facilitate cross-domain data fusion in smart cities. To this end, we propose the first survey that systematically reviews the latest advancements in deep learning-based data fusion methods tailored for urban computing. Specifically, we first delve into data perspective to comprehend the role of each modality and data source. Secondly, we classify the methodology into four primary categories: feature-based, alignment-based, contrast-based, and generation-based fusion methods. Thirdly, we further categorize multi-modal urban applications into seven types: urban planning, transportation, economy, public safety, society, environment, and energy. Compared with previous surveys, we focus more on the synergy of deep learning methods with urbancomputing applications. Furthermore, we shed light on the interplay between Large Language Models (LLMs) and urban computing, postulating future research directions that could revolutionize the field. We firmly believe that the taxonomy, progress, and prospects delineated in our survey stand poised to significantly enrich the research community.* </p>
 
-**Awesome-Multimodal-Urban-Computing:** A curated list of awesome Multimodal Urban Computing models. This repository supplements our survey paper. We intend to continuously update it.
 
 #### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](TBC)].
 
