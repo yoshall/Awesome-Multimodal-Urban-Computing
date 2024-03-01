@@ -30,8 +30,13 @@ ____
 
 If you find our work useful in your research, please consider citing:
 ```
-@article{
-
+@misc{zou2024deep,
+      title={Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook}, 
+      author={Xingchen Zou and Yibo Yan and Xixuan Hao and Yuehong Hu and Haomin Wen and Erdong Liu and Junbo Zhang and Yong Li and Tianrui Li and Yu Zheng and Yuxuan Liang},
+      year={2024},
+      eprint={2402.19348},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 
