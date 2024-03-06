@@ -432,7 +432,7 @@ The summary of deep learning-based cross-domain data fusion models in urban comp
     <tr>
         <td>DP-TFI <a href="https://ieeexplore.ieee.org/abstract/document/10096169?casa_token=0L_1VDGADUMAAAAA:KYxU5gEGb8hiE1r4KrVpnmvhJdueSGAAVdAB6zMEpEmljJmqwG_RnN3YWrCVZ8ah3CdvNWpCkh5Tcw">[Diffusion Probabilistic Modeling for Fine-Grained Urban Traffic Flow Inference with Relaxed Structural Constraint]</a></td>
         <td>Transportation</td>
-        <td>UEST</td>
+        <td>UESTC</td>
         <td>2023</td>
     </tr>
     <tr>
