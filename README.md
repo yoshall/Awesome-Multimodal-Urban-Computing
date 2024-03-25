@@ -831,18 +831,18 @@ The list provided below represents only a portion of the projects that we have u
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
+      https://github.com/yoshall/Awesome-Multimodal-Urban-Computing
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
+      https://github.com/yoshall/Awesome-Multimodal-Urban-Computing
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
+    src="https://github.com/yoshall/Awesome-Multimodal-Urban-Computing"
   />
 </picture>
 
