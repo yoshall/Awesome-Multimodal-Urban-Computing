@@ -827,7 +827,24 @@ The list provided below represents only a portion of the projects that we have u
   [[paper](http://urban-computing.com/pdf/KDD2023_stay.pdf)]<br>*In urban-computing.com, 2023*
 
 
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
+  />
+</picture>
 
 
 
