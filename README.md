@@ -827,25 +827,7 @@ The list provided below represents only a portion of the projects that we have u
   [[paper](http://urban-computing.com/pdf/KDD2023_stay.pdf)]<br>*In urban-computing.com, 2023*
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://github.com/yoshall/Awesome-Multimodal-Urban-Computing
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://github.com/yoshall/Awesome-Multimodal-Urban-Computing
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://github.com/yoshall/Awesome-Multimodal-Urban-Computing"
-  />
-</picture>
-
+[![Stargazers over time](https://starchart.cc/yoshall/Awesome-Multimodal-Urban-Computing.svg)](https://starchart.cc/yoshall/Awesome-Multimodal-Urban-Computing)
 
 
 
