@@ -22,6 +22,8 @@ ____
 
 ## News
 ```
+- 2024.07.28: Our paper has been accepted by Information Fusion (IF=18.6)!
+- 2024.05.31: Latest update of this paper list.
 - 2024.01.31: Latest update of this paper list.
 
 ```
