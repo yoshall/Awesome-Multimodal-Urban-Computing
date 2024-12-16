@@ -1,4 +1,4 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/5c7ea2bb-9104-4592-889c-605afd31dcf5" />[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -32,13 +32,14 @@ ____
 
 If you find our work useful in your research, please consider citing:
 ```
-@misc{zou2024deep,
-      title={Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook}, 
-      author={Xingchen Zou and Yibo Yan and Xixuan Hao and Yuehong Hu and Haomin Wen and Erdong Liu and Junbo Zhang and Yong Li and Tianrui Li and Yu Zheng and Yuxuan Liang},
-      year={2024},
-      eprint={2402.19348},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{zou2025deep,
+  title={Deep learning for cross-domain data fusion in urban computing: Taxonomy, advances, and outlook},
+  author={Zou, Xingchen and Yan, Yibo and Hao, Xixuan and Hu, Yuehong and Wen, Haomin and Liu, Erdong and Zhang, Junbo and Li, Yong and Li, Tianrui and Zheng, Yu and others},
+  journal={Information Fusion},
+  volume={113},
+  pages={102606},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
@@ -47,7 +48,7 @@ If you find our work useful in your research, please consider citing:
 - [Related Surveys](#related-surveys)
 - [Taxonomy Framework](#taxonomy-framework) 
 - [Data Fusion Methods](#data-fusion-methods)
-- [Taxonomy and summary of open-sourced dataset](#Taxonomy-and-summary-of-open-sourced-dataset)
+- [Taxonomy and summary of open-sourced dataset](#taxonomy-and-summary-of-open-sourced-dataset)
 - [Highly Related Paper List](#highly-related-paper-list)
 
 ## Related Surveys
@@ -60,6 +61,7 @@ If you find our work useful in your research, please consider citing:
 - Multi-feature, multi-modal, and multi-source social event detection: A comprehensive survey [[paper](https://www.sciencedirect.com/science/article/pii/S1566253521002220)] <br>  *Elsevier Information Fusion (2022)*
 - Generative adversarial networks for spatio-temporal data: A survey [[paper](https://dl.acm.org/doi/abs/10.1145/3474838?casa_token=teiphFvDYXUAAAAA:pVfquKjBsT3XrQVhVhZxDzBRuVxnoaW5Ss8erwqOCY1frqckDPTxXDxoQQYkkSqiMcmzMEXoWBqrYK_S)] <br>  *ACM Transactions on Intelligent Systems and Technology (2022)*
 - Beyond just vision: A review on self-supervised representation learning on multimodal and temporal data [[paper](https://arxiv.org/abs/2206.02353)] <br>  *arXiv preprint (2022)*
+- Urban Foundation Models: A Survey [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671453?casa_token=W7iIby0dLl8AAAAA:-PHFXhAvPx0qyd0RjpeO6AcoxS6XaeCzA_OjenV1PxP90zR2RoyZ_hIg-TDT4EEaBixvPelPe-FS))] <br>  *KDD Tutorial Track Paper(2024)*
 
 
 ## Taxonomy Framework
@@ -458,6 +460,7 @@ The summary of deep learning-based cross-domain data fusion models in urban comp
 
 
 ## Taxonomy and summary of open-sourced dataset
+
 
 Below is a list of open source datasets categorized by their type and source.
 
