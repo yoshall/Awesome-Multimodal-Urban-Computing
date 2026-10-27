@@ -590,6 +590,7 @@ Below is a list of open source datasets categorized by their type and source.
 
 
 </table>
+- **[The Trade Economy Index & US Commercial Building Stock Dataset](https://github.com/levelcfo/trade-economy-index-data)** ([Portal](https://tradesindex.org) | [Calculator](https://levelcfo.com/tools/building-revenue-calculator/)): Multi-source urban dataset combining 241,694 municipal building permits, 9,084,887 commercial buildings across 11 property types, and BLS QCEW wage/employment series across 366 US metro areas.
 
 ## Highly Related Paper List
 
